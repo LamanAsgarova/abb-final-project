@@ -1,0 +1,37 @@
+
+Cədvəl 1.2. Qiymət indekslərinin dəyişməsi, %-lə
+Table 1.2. Changes of price indicies, %
+
+
+Aylıq inflyasiya, 12 aylıq inflyasiya, Orta illik inflyasiya
+Monthly inflation rate, 12 month inflation rate, Average annual inflation rate
+İyun/June 2025
+İstehlak qiymətləri indeksi
+(consumer price index), -0.42626300000000583, 5.977225217040498, 5.894324900000001
+o cümlədən: / of which:
+Qida məhsulları, içkilər, tütün
+(food products, beverages, tobacco), -1.1840530000000058, 7.036286303290268, 6.609563600000001
+Qeyri-qida malları, ödənişli xidmətlər
+(non-food products, paid services), 0.16458240000000046, 5.148236917693211, 5.319498999999993
+Qeyri-qida malları
+(non-food products), 0.1453625000000045, 2.8006092041892146, 2.7324885999999964
+Qida və qeyri-qida malları 
+(food and non-food products), -0.6922557999999981, 5.441569920370597, 5.155742399999994
+Ödənişli xidmətlər
+(paid services), 0.18080969999999752, 7.165358798008995, 7.548198299999996
+Sənaye məhsullarının istehsalçı qiymət indeksi
+(Producer price index of industrial products), 6.200000000000003, -11.299999999999997, -9.200000000000003
+o cümlədən / of which:
+Mədənçıxarma sənayesi 
+(mining industry)   , 8.700000000000003, -16.599999999999994, -14
+Emal sənayesi
+(manufacturing production), 0, 5.5, 6.299999999999997
+Elektrik enerjisi və qaz 
+(electric power and gas), 0, 0.7999999999999972, 0.7999999999999972
+Kənd təsərrüfatı məhsullarının istehsalçı qiymət indeksi
+(agricultural producer price index), -1.9000000000000057, 11, 8.799999999999997
+o cümlədən / of which:
+Heyvandarlıq məhsulları
+(livestock products), 0.20000000000000284, 10.599999999999994, 9.599999999999994
+Mənbə: Azərbaycan Respublikasının Dövlət Statistika Komitəsi
+Source: The State Committee on Statistics of the Republic of Azerbaijan

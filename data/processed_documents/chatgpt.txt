@@ -1,0 +1,46 @@
+IELTS Essay Yazılarında Daha Effektiv Öyrənmək Üçün Yeni Yanaşma
+Hazırlayan: Arzu IELTS
+IELTS Guided Hub
+Sizə esselərinizdə kömək edəcək və bacarıqlarınızı artıracaq bir üsul təqdim etmək istəyirəm.
+Google-dan araşdırma etməkdənsə və ya hər hansı bir yerdən topik sözləri axtarmaqdansa,
+zəhmət olmasa, aşağıdakı promptu kopyalayın və “(Insert essay topic here)” hissəsinə öz
+esse mövzunuzu yazın.
+💡 Bu yanaşma ilə ChatGPT sizə:
+• Mövzu ilə bağlı ideyalar təqdim edəcək (həm razılaşan, həm razılaşmayan
+tərəflərdən),
+• Hər ideya üçün uyğun olan topik sözləri və onların ingiliscə və azərbaycanca
+izahını verəcək.
+Bu üsulu istifadə edərək öyrənin və daha sonra esselərinizi öz sözlərinizlə yazın.
+❗ Xahiş edirəm: Verilən sözləri və ifadələri öyrənib, onları düzgün və öz kontekstinizdə
+istifadə etməyi öyrənin.
+Sözləri olduğu kimi köçürmək sizə irəliləyiş verməyəcək və yazı bacarıqlarınızı
+artırmayacaq.
+🎯 Məqsəd: Məlumatlardan yalnız öyrənmək və inkişaf etmək üçün istifadə etməkdir.
+✨ Prompt:
+Provide ideas and topic-related vocabulary with definitions and Azerbaijani meanings
+for the following IELTS essay topic:
+(Insert essay topic here)
+1. Provide ideas related to the essay topic
+(Two-sided: one agreeing, one disagreeing)
+2. Below each idea, list the topic vocabulary used in the idea itself with:
+• Definition (in English)
+• Azerbaijani meaning
+3. Then, provide an additional list of topic vocabulary that could be used in the
+explanation of the idea, also with:
+• Definitions
+• Azerbaijani meanings
+4. Ensure the vocabulary is suitable for Band 8 and above responses and includes a mix
+of:
+• Synonyms
+• Collocations
+• Advanced academic terms
+5. Do not write full paragraphs, explanations, or essays – focus only on:
+• Ideas
+• Vocabulary
+• Definitions
+📚 Bu strukturu istifadə edərək hər esse mövzusunu rahatlıqla analiz edə və söz bazanızı
+genişləndirə bilərsiniz.
+Nümunə yazışma:
+https://chatgpt.com/share/67e1762b-0608-8004-b912-5ef9c5f13c26
+Uğurlar!
+— Arzu IELTS

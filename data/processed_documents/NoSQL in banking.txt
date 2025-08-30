@@ -1,0 +1,90 @@
+
+
+NOSQL IN BANKING
+Presentation By: Laman Asgarova
+
+What is NoSQL?
+
+Non-relational and often schema-less, allowing dynamic and flexible data structures.
+Built for high scalability, performance, and handling large volumes of unstructured or semi-structured data.
+Supports distributed architectures, ideal for modern applications like real-time analytics, big data, and IoT.
+Main types: Document, Key-value, Column, Graph
+
+
+Why NoSQL in banking
+
+
+
+
+
+Real-time analytics and decision-making
+High transaction volume and varied data
+Need for horizontal scalability and low latency
+
+
+Insurance domain
+
+Rigid schema can't adapt to diverse policy structures
+Complex joins slow down queries (e.g. customer → policy → claims)
+Scalability limitations in relational systems
+
+Traditional DBMS Challenges:
+Why NoSQL is better?
+Document-based structure fits policy & claims hierarchy
+Embedding reduces need for joins (customer → policies embedded)
+Better support for unstructured and evolving data
+
+
+
+
+
+ER Model
+1
+Logical Data Model
+Conceptual Data Model
+
+
+
+Physical Data Model
+1
+Customers collection
+
+Credit Scoring Domain
+
+
+Difficulty managing sparse, high-dimensional data
+Poor performance with real-time scoring
+Limited scalability for long-term credit behavior storage
+
+Traditional DBMS Challenges:
+Why NoSQL is better?
+Flexible schema for different scoring models
+High-performance real-time access
+Easy partitioning & scaling of historical data
+
+
+Er Model
+
+
+
+
+
+Logical Data Model
+Conceptual Data Model
+
+Physical Data Model
+
+
+
+Credit applications collection
+
+
+
+
+Key Takeaways
+NoSQL supports domain-specific needs through flexible and scalable data models.
+Effective use of embedding and referencing improves data access and performance.
+Understanding when and how to use NoSQL is key to modern financial systems design.
+
+
+THANK YOU

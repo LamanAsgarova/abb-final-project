@@ -1,0 +1,793 @@
+Developing an LLM:
+Building, Training, Finetuning
+Dataset with class labels
+Classifier
+Building an LLM Foundation model
+Personal assistant
+Instruction dataset
+Using Large Language Models (LLMs)
+Sebastian Raschka Building LLMs 2
+Using Large Language Models (LLMs)
+1) Via public & proprietary services
+Sebastian Raschka Building LLMs 3
+Using Large Language Models (LLMs)
+2) Running a (custom) LLM locally
+https://github.com/Lightning-AI/litgpt
+Sebastian Raschka Building LLMs 4
+Using Large Language Models (LLMs)
+3) Deploying a (custom) LLM
+and using an LLM via a private API
+https://lightning.ai/lightning-ai/studios/litgpt-serve
+Sebastian Raschka Building LLMs 5
+1) Via public & proprietary services
+Different use cases &
+trade-offs
+2) Running a (custom) LLM locally
+(I use all of them)
+3) Deploying a (custom) LLM
+& using an LLM via a private API
+Sebastian Raschka Building LLMs 6
+What goes into developing an LLM like this?
+Sebastian Raschka Building LLMs 7
+Developing an LLM
+S 1: B
+TAGE UILDING
+1) Data
+2) Attention 3) LLM
+preparation
+mechanism architecture
+& sampling
+Building an LLM
+Sebastian Raschka Building LLMs 8
+Developing an LLM
+S 1: B S 2: P
+TAGE UILDING TAGE RETRAINING
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop
+& sampling weights
+4) Pretraining
+Building an LLM Foundation model
+Sebastian Raschka Building LLMs 9
+Developing an LLM
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 10
+https://mng.bz/M96o
+https://github.com/rasbt/LLMs-from-scratch
+(Most figure source)
+Sebastian Raschka Building LLMs 11
+Stage 1: Building
+Sebastian Raschka Building LLMs 12
+Let’s start with the dataset!
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 13
+The model is simply (pre)trained
+to predict the next word
+Sebastian Raschka Building LLMs 14
+Next word (/token) prediction
+Sebastian Raschka Building LLMs 15
+Text
+LLMs learn to predict one word at a time
+sample:
+Sebastian Raschka Building LLMs 16
+Text
+LLMs learn to predict one word at a time
+sample:
+Input the LLM
+Target to
+The LLM can’t access
+receives
+predict
+words past the target
+Sebastian Raschka Building LLMs 17
+LLMs learn to predict one word at a time
+Sample 1
+LLMs learn to predict one word at a time
+Sample 2
+Sebastian Raschka Building LLMs 18
+LLMs learn to predict one word at a time
+Sample 1
+LLMs learn to predict one word at a time
+Sample 2
+LLMs learn to predict one word at a time
+Sample 3
+LLMs learn to predict one word at a time
+Sample 4
+LLMs learn to predict one word at a time
+Sample 5
+LLMs learn to predict one word at a time
+Sample 6
+LLMs learn to predict one word at a time
+Sample 7
+LLMs learn to predict one word at a time
+Sample 8
+Sebastian Raschka Building LLMs 19
+Batching
+Sample text
+"In the heart of the city stood the old library, a relic from a bygone era. Its
+stone walls bore the marks of time, and ivy clung tightly to its facade …"
+x = tensor([[ "In", “the", "heart", "of" ],
+Tensor
+[ "the", "city", "stood", "the" ],
+containing
+[ "old", "library", ",", "a" ],
+the inputs
+[ … ]])
+Sebastian Raschka Building LLMs 20
+Batching
+Sample text
+"In the heart of the city stood the old library, a relic from a bygone era. Its
+stone walls bore the marks of time, and ivy clung tightly to its facade …"
+x = tensor([[ "In", “the", "heart", "of" ],
+Tensor
+[ "the", "city", "stood", "the" ],
+containing
+[ "old", "library", ",", "a" ],
+the inputs
+[ … ]])
+Sebastian Raschka Building LLMs 21
+Batching
+Sample text
+"In the heart of the city stood the old library, a relic from a bygone era. Its
+stone walls bore the marks of time, and ivy clung tightly to its facade …"
+x = tensor([[ "In", “the", "heart", "of" ],
+Tensor
+[ "the", "city", "stood", "the" ],
+containing
+[ "old", "library", ",", "a" ],
+the inputs
+[ … ]])
+Sebastian Raschka Building LLMs 22
+Batching
+Sample text
+"In the heart of the city stood the old library, a relic from a bygone era. Its
+stone walls bore the marks of time, and ivy clung tightly to its facade …"
+x = tensor([[ "In", “the", "heart", "of" ],
+Tensor
+[ "the", "city", "stood", "the" ],
+containing
+[ "old", "library", ",", "a" ],
+the inputs
+[ … ]])
+(Common input lengths are >1024)
+Sebastian Raschka Building LLMs 23
+How do LLMs generate multi-word outputs?
+Iteration 1
+Create the next
+word based on the
+input text “This is”
+Output layers
+LLM
+Preprocessing steps
+Input text
+“This”
+Sebastian Raschka Building LLMs 24
+How do LLMs generate multi-word outputs?
+Iteration 1 Iteration 2
+Create the next
+word based on the
+input text “This is” “This is an”
+Output layers Output layers
+LLM LLM
+Preprocessing steps Preprocessing steps
+Input text Input text
+“This” “This is”
+The output of the
+previous round
+serves as input to
+the next round
+Sebastian Raschka Building LLMs 25
+How do LLMs generate multi-word outputs?
+Iteration 1 Iteration 2 Iteration 3
+Create the next
+word based on the
+input text “This is” “This is an” “This is an example”
+Output layers Output layers Output layers
+LLM LLM LLM
+Preprocessing steps Preprocessing steps Preprocessing steps
+Input text Input text Input text
+“This” “This is” “This is an”
+The output of the
+previous round
+serves as input to
+the next round
+Sebastian Raschka Building LLMs 26
+There’s one more thing: tokenization
+Sebastian Raschka Building LLMs 27
+Sebastian Raschka Building LLMs 28
+The GPT-3 dataset was 499 billion tokens
+Quantity Weight in Epochs Elapsed when
+Dataset (tokens) Training Mix Training for 300B Tokens
+Common Crawl 410 billion 60% 0.44
+(filtered)
+WebText2 19 billion 22% 2.9
+Books1 12 billion 8% 1.9
+Books2 55 billion 8% 0.43
+Wikipedia 3 billion 3% 3.4
+Language Models are Few-Shot Learners (2020), https://arxiv.org/abs/2005.14165
+Sebastian Raschka Building LLMs 29
+Llama 1 was trained on 1.4T tokens
+LLaMA: Open and Efficient Foundation Language Models (2023), https://arxiv.org/abs/2302.13971
+Sebastian Raschka Building LLMs 30
+Llama 2 was trained on 2T tokens
+“Our training corpus includes a new mix of data from publicly available sources,
+which does not include data from Meta’s products or services. We made an effort
+to remove data from certain sites known to contain a high volume of personal
+information about private individuals. We trained on 2 trillion tokens of data as
+this provides a good performance–cost trade-off, up-sampling the most factual
+sources in an effort to increase knowledge and dampen hallucinations.”
+Llama 2: Open Foundation and Fine-Tuned Chat Models (2023), https://arxiv.org/abs/2307.09288
+Sebastian Raschka Building LLMs 31
+Llama 3 was trained on 15T tokens
+“To train the best language model, the curation of a large, high-
+quality training dataset is paramount. In line with our design
+principles, we invested heavily in pretraining data. Llama 3 is
+pretrained on over 15T tokens that were all collected from publicly
+available sources.”
+Introducing Meta Llama 3: The most capable openly available LLM to date (2024), https://ai.meta.com/blog/meta-llama-3/
+Sebastian Raschka Building LLMs 32
+Quantity vs quality
+“we mainly focus on the quality of data for a given scale. We try to
+calibrate the training data to be closer to the “data optimal” regime
+for small models. In particular, we filter the publicly available web
+data to contain the correct level of “knowledge” and keep more web
+pages that could potentially improve the “reasoning ability” for the
+model. As an example, the result of a game in premier league in a
+particular day might be good training data for frontier models, but we
+need to remove such information to leave more model capacity for
+“reasoning” for the mini size models.
+Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone (2024), https://arxiv.org/abs/2404.14219
+Sebastian Raschka Building LLMs 33
+What goes into developing an LLM like this?
+Sebastian Raschka Building LLMs 34
+LLM architectures
+Sebastian Raschka Building LLMs 35
+Implementing the architecture
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 36
+GPT
+model
+Feed forward
+LayerNorm 2
+Masked multi-head
+attention
+LayerNorm 1
+Sebastian Raschka Building LLMs 37
++
+Dropout
++
+The original GPT
+Linear output layer
+Final LayerNorm
+model
+Linear layer
+Dropout
+GELU activation
+Linear layer
+A view into the “Feed
+Repeat this transformer forward” block
+block N times
+{
+N ×
+Dropout
+Positional embedding layer
+Token embedding layer
+Tokenized text
+Every effort moves you
+GPT
+model
+Feed forward
+LayerNorm 2
+Masked multi-head
+attention
+LayerNorm 1
+Sebastian Raschka Building LLMs 38
++
+Dropout
++
+Linear output layer
+Final LayerNorm
+Total number of parameters:
+• 124 M in "gpt2-small"
+• 355 M in "gpt2-medium"
+• 774 M in "gpt2-large"
+Dropout
+• 1558 M in "gpt2-xl"
+Number of heads in multi-head attention:
+• 12 in "gpt2-small" Repeat this transformer block:
+• 16 in "gpt2-medium"
+• 12 × in "gpt2-small"
+• 20 in "gpt2-large"
+• 24 × in "gpt2-medium"
+• 25 in "gpt2-xl"
+• 36 × in "gpt2-large"
+• 48 × in "gpt2-xl"
+{
+N ×
+Dropout
+Positional embedding layer
+Embedding dimensions:
+• 768 in "gpt2-small"
+Token embedding layer
+• 1024 in "gpt2-medium"
+• 1280 in "gpt2-large"
+Tokenized text
+• 1600 in "gpt2-xl"
+Every effort moves you
+GPT-2 “large”
+Feed forward
+LayerNorm 2
+Masked multi-head
+attention
+LayerNorm 1
+Sebastian Raschka Building LLMs 39
++
+Dropout
++
+Linear output layer
+Final LayerNorm
+Dropout
+Feed forward
+LayerNorm 2
+20 heads
+Masked multi-head
+attention
+LayerNorm 1
+{
+36 ×
+Dropout
+Positional embedding layer
+Absolute positional
+embeddings with 1280 tokens
+Token embedding layer
+Tokenized text
+Every effort moves you
++
+Dropout
++
+Llama 2 7B
+Linear output layer
+Final LayerNorm
+Linear layer
+Linear layer
+RMS
+SILU
+GELU activation
+GELU activation
+Dropout
+Linear layer
+Linear layer
+RMS
+32 heads
+RMS
+{
+32 ×
+Dropout
+Positional embedding layer
+RoPE embeddings with 4048
+tokens
+Token embedding layer
+Tokenized text
+Every effort moves you
+Stage 2: Pretraining
+Sebastian Raschka Building LLMs 40
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 41
+Pretty standard deep learning training loop
+Sebastian Raschka Building LLMs 42
+Labels are the inputs shifted by +1
+Sample text
+"In the heart of the city stood the old library, a relic from a bygone era. Its
+stone walls bore the marks of time, and ivy clung tightly to its facade …"
+x = tensor([[ "In", “the", "heart", "of" ],
+Tensor
+[ "the", "city", "stood", "the" ],
+containing
+[ "old", "library", ",", "a" ],
+the inputs
+[ … ]])
+y = tensor([[ "the", "heart", "of", "the" ],
+Tensor [ "city", "stood", "the", "old" ],
+containing [ “library", "a", "relic", "from" ],
+the targets [ … ]])
+Sebastian Raschka Building LLMs 43
+Training for ~1-2 epochs is usually a good sweet spot
+Sebastian Raschka Building LLMs 44
+https://lightning.ai/lightning-ai/studios/pretrain-llms-tinyllama-1-1b
+Sebastian Raschka Building LLMs 45
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 46
+Loading pretrained weights
+https://github.com/Lightning-AI/litgpt
+Sebastian Raschka Building LLMs 47
+LitGPT
+https://github.com/Lightning-AI/litgpt
+Sebastian Raschka Building LLMs 48
+Stage 3: Finetuning
+Sebastian Raschka Building LLMs 49
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 50
+Sebastian Raschka Building LLMs 51
+GPT
+model
+Feed forward
+LayerNorm 2
+Masked multi-head
+attention
+LayerNorm 1
+Sebastian Raschka Building LLMs 52
++
+Dropout
++
+Replace
+Outputs
+output layer
+1 50,257
+…
+Linear output layer
+Final LayerNorm
+…
+1 768
+Dropout
+The original linear output layer
+maps 768 hidden units to 50,257 units
+(the number of tokens in the vocabulary)
+{
+12 ×
+Dropout
+Positional embedding layer
+Token embedding layer
+Tokenized text
+Inputs
+GPT
+model
+Feed forward
+LayerNorm 2
+Masked multi-head
+attention
+LayerNorm 1
+Sebastian Raschka Building LLMs 53
++
+Dropout
++
+Replace
+Outputs
+output layer
+Linear output layer
+Final LayerNorm
+1 50,257
+…
+Dropout
+…
+1 768
+1 2
+{ …
+12 × 1 768
+Dropout
+We replace the original linear output layer above
+with a layer that maps from 768 hidden units to
+Positional embedding layer
+only 2 units, where the 2 units represent the two
+classes ("spam" and "not spam")
+Token embedding layer
+Tokenized text
+Inputs
+Track loss values as usual
+Sebastian Raschka Building LLMs 54
+In addition, look at task performance
+Sebastian Raschka Building LLMs 55
+We don’t need to finetune all layers
+last layer only all layers
+https://magazine.sebastianraschka.com/p/finetuning-large-language-models
+Sebastian Raschka Building LLMs 56
+Training more layers takes more time
+https://magazine.sebastianraschka.com/p/finetuning-large-language-models
+Sebastian Raschka Building LLMs 57
+Instruction finetuning
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 58
+Instruction finetuning datasets
+{
+"instruction": "Rewrite the following sentence using passive voice.",
+"input": "The team achieved great results.",
+"output": "Great results were achieved by the team."
+},
+Sebastian Raschka Building LLMs 59
+{
+"instruction": "Rewrite the following sentence using passive voice.",
+"input": "The team achieved great results.",
+"output": "Great results were achieved by the team."
+},
+Apply prompt style template (for example, Alpaca-style)
+Below is an instruction that describes a task. Write a response
+that appropriately completes the request.
+### Instruction:
+Rewrite the following sentence using passive voice.
+### Input:
+The team achieved great results.
+### Response:
+Great results were achieved by the team.
+Pass to LLM for supervised instruction finetuning
+LLM
+Sebastian Raschka Building LLMs 60
+Model input
+Below is an instruction that describes a task. Write a response
+that appropriately completes the request.
+### Instruction:
+Rewrite the following sentence using passive voice.
+### Input:
+The team achieved great results.
+### Response:
+Great results were achieved by the team.
+Model response
+Sebastian Raschka Building LLMs 61
+Bonus: Preference tuning
+Sebastian Raschka Building LLMs 62
+Input Prompt:
+"What are the key features to look for when purchasing a new laptop?"
+Sebastian Raschka Building LLMs 63
+Input Prompt:
+"What are the key features to look for when purchasing a new laptop?"
+Answer 1: Technical Response
+"When purchasing a new laptop, focus on key
+specifications such as the processor speed,
+RAM size, storage type (SSD vs. HDD), and
+battery life. The processor should be powerful
+enough for your software needs, and sufficient
+RAM will ensure smooth multitasking. Opt for
+an SSD for faster boot times and file access.
+Additionally, screen resolution and port types
+are important for connectivity and display
+quality."
+Sebastian Raschka Building LLMs 64
+Input Prompt:
+"What are the key features to look for when purchasing a new laptop?"
+Answer 1: Technical Response Answer 2: User-Friendly Response
+"When purchasing a new laptop, focus on key "When looking for a new laptop, think about
+specifications such as the processor speed, how it fits into your daily life. Choose a
+RAM size, storage type (SSD vs. HDD), and lightweight model if you travel frequently, and
+battery life. The processor should be powerful consider a laptop with a comfortable keyboard
+enough for your software needs, and sufficient and a responsive touchpad. Battery life is
+RAM will ensure smooth multitasking. Opt for crucial if you're often on the move, so look for
+an SSD for faster boot times and file access. a model that can last a full day on a single
+Additionally, screen resolution and port types charge. Also, make sure it has enough USB
+are important for connectivity and display ports and possibly an HDMI port to connect
+quality." with other devices easily."
+Sebastian Raschka Building LLMs 65
+https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives
+Sebastian Raschka Building LLMs 66
+Evaluating LLMs
+Sebastian Raschka Building LLMs 67
+MMLU and others
+MMLU
+Rank Model Average↑ (%) Paper
+1 Gemini Ultra 90 Gemini: A Family of Highly Capable
+~1760B Multimodal Models
+2 GPT-4o 88.7 GPT-4 Technical Report
+3 Claude 3 Opus (5- 88.2 The Claude 3 Model Family: Opus,
+shot, CoT) Sonnet, Haiku
+4 Claude 3 Opus (5- 86.8 The Claude 3 Model Family: Opus,
+shot) Sonnet, Haiku
+5 Leeroo (5-shot) 86.64 Leeroo Orchestrator: Elevating LLMs
+Performance Through Model
+Integration
+6 GPT-4 (few-shot) 86.4 GPT-4 Technical Report
+7 Gemini Ultra (5- 83.7 Gemini: A Family of Highly Capable
+shot) Multimodal Models
+8 Claude 3 Sonnet 81.5 The Claude 3 Model Family: Opus,
+(5-shot, CoT) Sonnet, Haiku
+Sebastian Raschka Building LLMs 68
+MMLU
+MMLU = Measuring Massive Multitask Language Understanding (2020), https://arxiv.org/abs/2009.03300
+Multiple-choice questions from diverse subjects
+input = ("Which character is known for saying,
+'To be, or not to be, that is the question'?
+Options:
+A) Macbeth, B) Othello,
+C) Hamlet, D) King Lear.”)
+model_answer = model(input)
+correct_answer = "C) Hamlet”
+score += model_answer == correct_answer
+# total_score = score / num_examples * 100%
+Sebastian Raschka Building LLMs 69
+LM Evaluation Harness
+https://github.com/EleutherAI/lm-evaluation-harness
+https://github.com/Lightning-AI/litgpt/blob/main/tutorials/evaluation.md
+Sebastian Raschka Building LLMs 70
+AlpacaEval
+Compare to response by GPT-4 Preview using a GPT-4 based auto-annotator
+Screenshot from https://tatsu-lab.github.io/alpaca_eval/
+Sebastian Raschka Building LLMs 71
+LMSYS ChatBot Arena
+LLM community comparison
+Screenshots from https://chat.lmsys.org/
+Sebastian Raschka Building LLMs 72
+GPT-4 scoring
+https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/03_model-evaluation/llm-instruction-eval-openai.ipynb
+Sebastian Raschka Building LLMs 73
+Rules of thumb
+Sebastian Raschka Building LLMs 74
+Rules of thumb
+Pretraining from scratch Expensive, almost never necessary
+Sebastian Raschka Building LLMs 75
+Rules of thumb
+Pretraining from scratch Expensive, almost never necessary
+Continued pretraining Add new knowledge
+Sebastian Raschka Building LLMs 76
+Rules of thumb
+Pretraining from scratch Expensive, almost never necessary
+Continued pretraining Add new knowledge
+Finetuning Special usecase, follow instructions
+Sebastian Raschka Building LLMs 77
+Rules of thumb
+Pretraining from scratch Expensive, almost never necessary
+Continued pretraining Add new knowledge
+Finetuning Special usecase, follow instructions
+Improve helpfulness+safety if
+Preference finetuning
+developing a chatbot
+Sebastian Raschka Building LLMs 78
+CodeLlama example
+Pretraining (from scratch)
+Code Llama: Open Foundation Models for Code, https://arxiv.org/abs/2308.12950
+Sebastian Raschka Building LLMs 79
+CodeLlama example
+Continued pretraining
+Pretraining (from scratch)
+Code Llama: Open Foundation Models for Code, https://arxiv.org/abs/2308.12950
+Sebastian Raschka Building LLMs 80
+CodeLlama example
+Continued pretraining / finetuning
+Continued pretraining
+Pretraining (from scratch)
+Code Llama: Open Foundation Models for Code, https://arxiv.org/abs/2308.12950
+Continued pretraining
+Sebastian Raschka Building LLMs 81
+CodeLlama example
+Continued pretraining / finetuning
+Continued pretraining
+Pretraining (from scratch)
+Instruction finetuning
+Code Llama: Open Foundation Models for Code, https://arxiv.org/abs/2308.12950
+Continued pretraining
+Sebastian Raschka Building LLMs 82
+Developing an LLM
+S 1: B S 2: P S 3: F
+TAGE UILDING TAGE RETRAINING TAGE INETUNING
+Dataset with class labels
+1) Data 7) Load
+2) Attention 3) LLM 6) Model
+5) Training
+preparation pretrained
+mechanism architecture evaluation
+loop 8) Finetuning
+& sampling weights
+Classifier
+4) Pretraining
+Building an LLM Foundation model
+Personal assistant
+9) Finetuning
+Instruction dataset
+Sebastian Raschka Building LLMs 83
+https://mng.bz/M96o
+https://sebastianraschka.com/books/
+Sebastian Raschka Building LLMs 84
+https://lightning.ai/
+Sebastian Raschka Building LLMs 85
+Sebastian Raschka Building LLMs 86
+Contact
+@rasbt in/sebastianraschka
+https://sebastianraschka.com/contact/
+https://lightning.ai
+Slides
+https://sebastianraschka.com/pdf/slides/2024-build-llms.pdf
+🗺
+Sebastian Raschka Building LLMs 87

@@ -1,0 +1,156 @@
+{
+    "ML_task_week_6 - Laman_Asgarova": {
+        "file_name": "ML_task_week_6 - Laman_Asgarova.pdf",
+        "file_path": "data/raw_documents/pdf\\ML_task_week_6 - Laman_Asgarova.pdf",
+        "file_size_bytes": 1019950,
+        "last_modified_date": "2025-08-16T22:48:23.917219",
+        "creation_date": "2025-08-16T22:48:23.914325",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "creator": "LaTeX with hyperref",
+        "team": "Risk Tribe",
+        "tags": [
+            "PD Loan risk assessment"
+        ]
+    },
+    "final abb": {
+        "file_name": "final abb.docx",
+        "file_path": "data/raw_documents/word\\final abb.docx",
+        "file_size_bytes": 21165,
+        "last_modified_date": "2025-08-18T05:09:54.307585",
+        "creation_date": "2025-08-18T05:09:54.306781",
+        "title": "",
+        "author": "Laman Asgarova",
+        "subject": "",
+        "last_modified_by": "Laman Asgarova",
+        "document_modified_date": "2025-08-12T05:32:00+00:00",
+        "team": "Data Tribe",
+        "tags": [
+            "report"
+        ]
+    },
+    "EDA_Cheat_Sheet": {
+        "file_name": "EDA_Cheat_Sheet.pdf",
+        "file_path": "data/raw_documents/pdf\\EDA_Cheat_Sheet.pdf",
+        "file_size_bytes": 97579,
+        "last_modified_date": "2025-08-22T10:05:00.951022",
+        "creation_date": "2025-08-22T10:05:00.948958",
+        "title": "#_ Exploratory Data Analysis (EDA) with Pandas [CheatSheet]",
+        "author": "N/A",
+        "subject": "N/A",
+        "creator": "N/A",
+        "team": "Data Tribe",
+        "tags": [
+            "eda cheatsheet"
+        ]
+    },
+    "qiymet indekslerinin deyismesi (25.07.2025)": {
+        "file_name": "qiymet indekslerinin deyismesi (25.07.2025).xlsx",
+        "file_path": "data/raw_documents/excel\\qiymet indekslerinin deyismesi (25.07.2025).xlsx",
+        "file_size_bytes": 106519,
+        "last_modified_date": "2025-08-25T15:02:34.281667",
+        "creation_date": "2025-08-13T12:12:27.071714",
+        "title": null,
+        "author": "Samid Guluzada",
+        "subject": null,
+        "last_modified_by": "Samid Guluzada",
+        "document_modified_date": "2025-07-21T04:20:08",
+        "team": "Data Tribe",
+        "tags": [
+            "finance"
+        ]
+    },
+    "2024-build-llms": {
+        "file_name": "2024-build-llms.pdf",
+        "file_path": "data/raw_documents/pdf\\2024-build-llms.pdf",
+        "file_size_bytes": 1626965,
+        "last_modified_date": "2025-08-26T18:39:46.257770",
+        "creation_date": "2025-08-26T18:08:48.462242",
+        "title": "build-llms",
+        "author": "N/A",
+        "subject": "N/A",
+        "creator": "Keynote",
+        "team": "Data Tribe",
+        "tags": [
+            "report"
+        ]
+    },
+    "NoSQL in banking": {
+        "file_name": "NoSQL in banking.pptx",
+        "file_path": "data/raw_documents/pptx\\NoSQL in banking.pptx",
+        "file_size_bytes": 3951816,
+        "last_modified_date": "2025-08-26T18:28:10.755185",
+        "creation_date": "2025-08-13T12:15:06.633653",
+        "title": "NoSQL in banking - Laman Asgarova",
+        "author": "",
+        "subject": "",
+        "last_modified_by": "Laman Asgarova",
+        "document_modified_date": "2025-06-23T09:02:29",
+        "team": "Data Tribe",
+        "tags": [
+            "presentation"
+        ]
+    },
+    "chatgpt": {
+        "file_name": "chatgpt.pdf",
+        "file_path": "data/raw_documents/pdf\\chatgpt.pdf",
+        "file_size_bytes": 189693,
+        "last_modified_date": "2025-08-27T10:06:04.065186",
+        "creation_date": "2025-08-26T18:40:06.346207",
+        "title": "chatgpt",
+        "author": "N/A",
+        "subject": "N/A",
+        "creator": "Pages",
+        "team": "Data Tribe",
+        "tags": [
+            "chatgpt"
+        ]
+    },
+    "statistik bulleten aprel 2025": {
+        "file_name": "statistik bulleten aprel 2025.xlsx",
+        "file_path": "data/raw_documents/excel\\statistik bulleten aprel 2025.xlsx",
+        "file_size_bytes": 3497237,
+        "last_modified_date": "2025-08-27T17:42:56.646179",
+        "creation_date": "2025-08-13T12:13:26.062535",
+        "title": null,
+        "author": "Rafizade Ibrahim",
+        "subject": null,
+        "last_modified_by": "P\u0259rvin Aslanov",
+        "document_modified_date": "2025-05-27T06:20:54",
+        "team": "Data Tribe",
+        "tags": [
+            "hesabat"
+        ]
+    },
+    "cars": {
+        "file_name": "cars.xlsx",
+        "file_path": "data/raw_documents/excel\\cars.xlsx",
+        "file_size_bytes": 19664,
+        "last_modified_date": "2025-08-28T11:48:38.464400",
+        "creation_date": "2025-08-28T11:48:38.463408",
+        "title": null,
+        "author": null,
+        "subject": null,
+        "last_modified_by": null,
+        "document_modified_date": "2020-03-10T13:12:35",
+        "team": "Data Tribe",
+        "tags": []
+    },
+    "esas makroiqtisadi gostericiler (25.07.2025)": {
+        "file_name": "esas makroiqtisadi gostericiler (25.07.2025).xlsx",
+        "file_path": "data/raw_documents/excel\\esas makroiqtisadi gostericiler (25.07.2025).xlsx",
+        "file_size_bytes": 54071,
+        "last_modified_date": "2025-08-29T13:31:49.453841",
+        "creation_date": "2025-08-13T12:12:27.095433",
+        "title": null,
+        "author": "Samid Guluzada",
+        "subject": null,
+        "last_modified_by": "Samid Guluzada",
+        "document_modified_date": "2025-07-21T04:20:07",
+        "team": "Data Tribe",
+        "tags": [
+            "maliyy\u0259"
+        ]
+    }
+}
