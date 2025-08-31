@@ -8,8 +8,6 @@ env/
 .vscode/
 .idea/
 data/users.db
-data/vector_store.json
-data/faiss_index.idx
 data/raw_documents/*
 data/temp/
 logs/
