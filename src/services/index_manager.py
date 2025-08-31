@@ -6,7 +6,7 @@ METADATA_DIR = "data/metadata/"
 INDEX_FILE_PATH = os.path.join(METADATA_DIR, "document_index.json")
 
 def load_index():
-    # load the doc indexes from the JSON file
+    # load the document indexes from the JSON file
     if os.path.exists(INDEX_FILE_PATH):
         with open(INDEX_FILE_PATH, "r", encoding="utf-8") as f:
             try:

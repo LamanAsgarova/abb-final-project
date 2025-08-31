@@ -8,8 +8,6 @@ env/
 .vscode/
 .idea/
 data/users.db
-data/raw_documents/*
-data/temp/
 logs/
 *.log
 .env
