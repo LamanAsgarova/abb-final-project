@@ -1,0 +1,400 @@
+PUL SİYASƏTİ:
+ƏMƏLİYYAT ÇƏRÇİVƏSİ
+İZAHEDİCİ SƏNƏD
+May 2025
+Bu sənəd pul siyasətinin yeni əməliyyat çərçivəsi ilə bağlı hazırlanmış və maliyyə institutları ilə geniş
+ictimaiyyət üçün nəzərdə tutulmuşdur. İzahedici sənəd mütəmadi olaraq yenilənəcəkdir.
+SƏNƏDİN STRUKTURU
+1. TERMİNLƏR LÜĞƏTİ ............................................................................................................... 3
+2. GİRİŞ ....................................................................................................................................... 5
+3. MƏRKƏZİ BANKIN PUL SİYASƏTİNİN ƏSAS MƏQSƏDİ VƏ HƏDƏFLƏRİ ................................... 6
+4. PUL SİYASƏTİ QƏRARLARININ VERİLMƏSİ .............................................................................. 7
+4.1. Qərarların qəbulu prosedurları ......................................................................................... 7
+4.2. Proqnozlaşdırma və siyasət təhlili sistemi ........................................................................ 7
+5. MƏRKƏZİ BANKIN FAİZ DƏHLİZİ VƏ ONUN PARAMETRLƏRİ ................................................... 9
+6. PUL SİYASƏTİ HƏDƏFLƏRİNƏ NAİL OLUNMASINA TƏSİR EDƏN AMİLLƏR ............................ 10
+7. PUL SİYASƏTİ ALƏTLƏRİ ........................................................................................................ 11
+7.1. Daimi imkanlar alətləri ................................................................................................... 12
+7.2. Açıq bazar əməliyyatları ................................................................................................. 13
+8. MƏCBURİ EHTİYATLAR.......................................................................................................... 14
+9. BANKLARARASI PUL BAZARININ İNFRASTRUKTURU ............................................................. 15
+Əlavə 1. Pul siyasəti əməliyyatları üzrə təminat kimi qəbul edilən qiymətli kağızların siyahısı ...17
+2 Pul siyasətinin əməliyyat çərçivəsi
+1. TERMİNLƏR LÜĞƏTİ
+Açıq bazar Mərkəzi Bankın təşəbbüsü ilə həyata keçirilən (əsasən qiymətli
+əməliyyatları kağızların alqı-satqısı formasında) əməliyyatlardır. Mərkəzi Bank
+tərəfindən qiymətli kağızlar satıldıqda pul təklifi azalır, alındıqda
+isə pul təklifi artır. Açıq bazar əməliyyatları çərçivəsində qiymətli
+kağızlar birbaşa, habelə REPO və əks-REPO formasında alınıb
+satıla bilər.
+Daimi imkanlar alətləri Bankların təşəbbüsü ilə əvvəlcədən müəyyən olunmuş faiz
+dərəcələri ilə aparılan əməliyyatlardır. Azərbaycan Mərkəzi Bankı
+tərəfindən gecəlik depozit (vəsaitlərin cəlb olunması aləti) və
+gecəlik əks-REPO (vəsaitlərin yerləşdirilməsi aləti) əməliyyatları
+daimi imkanlar alətləri olaraq müəyyən edilmişdir.
+Dollarlaşma Milli valyutada olan nağd pulun, əmanət və depozitlərin xarici
+dönərli valyutaya miqrasiyası prosesidir.
+Dövriyyədə olan nağd Bank sistemindən kənarda olan nağd pulla yanaşı Mərkəzi Bankın
+pul və kommersiya banklarının kassalarında olan nağd pullar.
+F aiz dəhlizi Faiz dərəcələrini, xüsusən də pul bazarındakı qısamüddətli
+faizləri Mərkəzi Bankın hədəfinə doğru yönəltmək məqsədi
+daşıyan pul siyasəti alətidir. Azərbaycanda tətbiq olunan faiz
+dəhlizi aşağı hədd, yuxarı hədd və uçot dərəcəsindən ibarətdir.
+REPO və əks-REPO REPO qiymətli kağızların satılması və əvvəlcədən razılaşdırılmış
+əməliyyatları müddət bitdikdən sonra onlardan geri alınması əməliyyatıdır. Bu
+əməliyyat Mərkəzi Bank tərəfindən pul təklifinin həcminin
+qısamüddətli dövrdə azaldılması məqsədilə həyata keçirilir. Əks-
+REPO isə qiymətli kağızların alınması və əvvəlcədən
+razılaşdırılmış müddət bitdikdən sonra geri qaytarılmasını
+nəzərdə tutan əməliyyatdır. Mərkəzi Bank tərəfindən əks-REPO-
+3 Pul siyasətinin əməliyyat çərçivəsi
+nun tətbiq olunmasında məqsəd pul təklifinin qısamüddətli
+artırılmasıdır.
+İstehlak qiymətləri Müəyyən vaxt intervalı çərçivəsində əhali tərəfindən qeyri-
+indeksi istehsal məqsədilə istehlak edilən mal və xidmətlərin
+qiymətlərinin ümumi səviyyəsinin dəyişməsini xarakterizə edən
+indeksdir.
+İzafi likvidlik Bankların Mərkəzi Bankdakı müxbir hesablarında və öz
+kassalarında normativlərə uyğun tələb olunan səviyyədən artıq
+olan vəsaitdir.
+Lombard siyahısı Pul siyasəti əməliyyatları üzrə təminat qismində qəbul edilən
+qiymətli kağızların siyahısıdır.
+Məcburi ehtiyatlar Məcburi ehtiyatlar kommersiya bankları tərəfindən cəlb
+olunmuş depozitlərin mərkəzi bankda məcburi saxlanılan
+hissəsidir.
+Pul siyasətinin Mərkəzi Bank tərəfindən qəbul edilən pul siyasəti qərarlarının
+transmissiyası iqtisadiyyata ötürülməsi prosesidir. Müasir dövrdə pul
+siyasətinin faiz dərəcələri, kredit, valyuta məzənnəsi, gözləntilər
+və s. kimi transmissiya kanalları mövcuddur. Pul siyasəti qərarları
+real iqtisadiyyata bu kanallar vasitəsilə dərhal deyil, müəyyən
+vaxtdan sonra təsir göstərir.
+Sterilizasiya yönümlü Artmış pul kütləsinin inflyasiya potensialına malik izafi hissəsinin
+əməliyyatlar dövriyyədən çıxarılmasına yönəldilmiş əməliyyatlardır. Bununla
+belə xarici valyuta bazarında revalvasiya təhlükəsi yaradan artıq
+valyuta təklifinin alınması əməliyyatlarını xarakterizə etmək üçün
+də sterilizasiya terminindən istifadə edilir.
+Xalis xarici aktivlər Mərkəzi Bankın qeyri-rezidentlərlə xarici valyutada və qiymətli
+metallarla aparılmış aktiv-passiv əməliyyatlarının saldosudur.
+4 Pul siyasətinin əməliyyat çərçivəsi
+2. GİRİŞ
+Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən qabaqcıl təcrübələr və ölkə
+iqtisadiyyatının xüsusiyyətləri nəzərə alınmaqla pul siyasətinin strateji və əməliyyat
+çərçivəsinin təkmilləşdirilməsi işləri davam etdirilir. Bu tədbirlər banklararası bazarda
+qısamüddətli faizlərin pul siyasətinin alternativ əməliyyat hədəfi kimi formalaşmasına, pul
+siyasətinin transmissiyasında müxtəlif kanalların, xüsusilə də faiz kanalının gücləndirilməsinə
+xidmət edir.
+Ümumilikdə, yeni əməliyyat çərçivəsi perspektivdə inflyasiya proseslərinin faiz
+dərəcələri vasitəsilə idarə edilməsinə və ölkədə makroiqtisadi sabitliyin təmin olunması
+imkanlarının genişləndirilməsinə, habelə maliyyə sektorunun mümkün şoklara qarşı
+dayanıqlığının gücləndirilməsinə xidmət edəcəkdir.
+5 Pul siyasətinin əməliyyat çərçivəsi
+3. MƏRKƏZİ BANKIN PUL SİYASƏTİNİN ƏSAS MƏQSƏDİ VƏ HƏDƏFLƏRİ
+Azərbaycan Respublikası Mərkəzi Bankının pul siyasətinin əsas məqsədi ölkədə qiymət
+sabitliyini, başqa sözlə inflyasiyanın aşağı səviyyədə qorunmasını təmin etməkdən ibarətdir.
+Aşağı inflyasiya istehlakçılar və biznes üçün əlverişli iqtisadi mühit deməkdir. Qiymət
+sabitliyi sahibkarlara və ev təsərrüfatlarına imkan verir ki, onlar öz planlarını əminliklə və daha
+uzunmüddətli dövrə tərtib etsinlər. Aşağı inflyasiya milli valyutanın sabit alıcılıq qabiliyyətini
+təmin edir. Stabil aşağı inflyasiya gəlirlərin və yığımların dəyərsizləşməsinin qarşısını alaraq
+milli valyutada uzunmüddətli yığımları stimullaşdırır, dollarlaşmanı və faiz dərəcələrini
+azaldır. Bütün bunlar da iqtisadi artıma və maliyyə sabitliyinə müsbət təsir edir.
+Pul siyasətinin son hədəfi olan inflyasiyanı ölçmək üçün istehlak qiymətləri
+indeksindən istifadə olunur. Azərbaycanda bu göstərici Dövlət Statistika Komitəsi tərəfindən
+bütün zəruri tələbat malları və xidmətlərin daxil edildiyi istehlak səbəti əsasında
+hesablanaraq ictimaiyyətə təqdim olunur. Əhalinin rifah səviyyəsindən və istehlak
+bazarındakı tendensiyalardan asılı olaraq istehlak səbətinə daxil olan məhsul və xidmətlər
+dəstinə vaxtaşırı baxılır.
+Mərkəzi Bankın inflyasiya üzrə hədəfinin kəmiyyət parametrləri növbəti il üçün
+müəyyənləşdirilərək ictimaiyyətə açıqlanır. İllik hədəf istehlak qiymətləri indeksinin son 12
+ayda dəyişimi (və ya 12 aylıq inflyasiya) üzrə müəyyən olunur.
+Son hədəf əsasında pul siyasətinin aralıq və əməliyyat hədəfləri müəyyən olunur.
+Perspektivdə inflyasiyanın hədəflənməsi rejiminə keçidlə başlıca əməliyyat hədəfi olaraq
+banklararası pul bazarındakı qısamüddətli faizlərdən istifadə etmək nəzərdə tutulur.
+6 Pul siyasətinin əməliyyat çərçivəsi
+4. PUL SİYASƏTİ QƏRARLARININ VERİLMƏSİ
+4.1. Qərarların qəbulu prosedurları
+Azərbaycan Respublikası Mərkəzi Bankında pul siyasətinə dair qərarlar əsasən İdarə
+Heyəti tərəfindən qəbul edilir. O cümlədən faiz dəhlizinin parametrlərinə dair qərar vermək
+səlahiyyəti İdarə Heyətinə məxsusdur.
+İdarə Heyətinin səlahiyyətlərinə aid olmayan məsələlərə dair qərarlar Mərkəzi Bankın
+Pul Siyasəti və Maliyyə Sabitliyi Komitəsi tərəfindən verilə bilər. Pul Siyasəti və Maliyyə
+Sabitliyi Komitəsi pul və məzənnə siyasətinin işlənməsi və həyata keçirilməsi, maliyyə
+bazarlarının tənzimlənməsi və nəzarəti sahəsində mərkəzi bankın struktur bölmələrinin
+operativ fəaliyyətinin tənzimlənməsini və koordinasiyasını təmin edən kollegial orqandır.
+Komitənin iclaslarında pul və məzənnə siyasətinin əməliyyat çərçivəsi, pul siyasəti alətlərinin
+parametrləri, maliyyə sabitliyi üzrə risklər, makro və mikro-prudensial siyasət üzrə İdarə
+Heyətinə tövsiyələr verilir, həmçinin İdarə Heyətinin səlahiyyətlərinə aid olan məsələlər
+istisna olmaqla müvafiq qərarlar qəbul edilir. Komitəyə Mərkəzi Bankın Sədri rəhbərlik edir.
+Komitənin üzvləri Mərkəzi Bankın pul, məzənnə və maliyyə sabitliyi siyasətinin işlənməsi və
+həyata keçirilməsində bilavasitə iştirak edən blokların rəhbərləridir.
+4.2. Proqnozlaşdırma və siyasət təhlili sistemi
+Azərbaycan Mərkəzi Bankında pul siyasətinə dair qərarlar qəbul edilərkən
+proqnozlaşdırma və siyasət təhlili sistemi (PSTS) çərçivəsində aparılan təhlillər və proqnozlar
+əsas götürülür.
+PSTS pul siyasətinə dair qərarların verilməsi qrafikinə uyğun olaraq ildə 8 dəfə həyata
+keçirilir. Bu prosesdə Mərkəzi Bankın analitik işlərə məsul struktur bölmələrinin əməkdaşları
+iştirak edirlər. Qeyd olunan prosesin mühüm mərhələsi kimi “Son makroiqtisadi meyillər,
+proqnozlar və siyasət təklifləri” mövzusunda təqdimat hazırlanır.
+Ümumilikdə, PSTS beş mərhələdən ibarət olmaqla 5 həftə ərzində aşağıdakı ardıcıllıqla
+həyata keçirilir:
+7 Pul siyasətinin əməliyyat çərçivəsi
+I. Birinci mərhələdə pul siyasəti qərarlarının müzakirə olunacağı yekun iclas üçün
+təqdimatın strukturu müəyyənləşdirilir. Təqdimat əsasən ötən iclasdan bəri ölkə
+iqtisadiyyatında gedən makroiqtisadi prosesləri, xüsusilə inflyasiya prosesləri və
+proqnozlarını, xarici sektorda vəziyyəti, iqtisadi aktivliyi, valyuta və pul bazarında
+meyillər kimi məsələləri əhatə edir.
+II. İkinci mərhələdə iqtisadi modellərin əsas parametrlərinə (neftin qiyməti, neft
+hasilatı, büdcə parametrləri, tərəfdaş ölkələrdə inflyasiya, pul bazası və s.) dair
+fərziyyələr müəyyənləşdirilir. Paralel olaraq statistik məlumatlar əsasında proqnoz
+modellərin verilənlər bazası yenilənir.
+III. Üçüncü mərhələdə müvafiq model çantasından istifadə etməklə bir neçə ssenaridə
+cari və növbəti il üzrə əsas makroiqtisadi göstəricilərin proqnozları verilir.
+IV. Növbəti mərhələdə təqdimatın ilkin versiyası Mərkəzi Bankın müvafiq struktur
+bölmələrinin ekspertləri səviyyəsində müzakirə edilir. Müzakirələrin nəticəsindən
+asılı olaraq təqdimatda zəruri dəyişikliklər edilir. Bu mərhələdə PSTS prosesinə cəlb
+olunmuş mütəxəssislərin ümumi rəyi əsasında siyasət qərarlarına dair təkliflər
+formalaşdırılır.
+V. Sonuncu mərhələdə hazırlanmış təqdimat Mərkəzi Bankın daxili kollegial
+orqanlarında müzakirəyə çıxarılır. Müzakirənin nəticəsi olaraq İdarə Heyətinin
+üzvləri arasında keçirilən səsverməyə görə pul siyasəti qərarı qəbul edilir. Qəbul
+edilmiş qərar geniş ictimaiyyətə Mərkəzi Bankın sədrinin iştirakı ilə mətbuat
+konfransı və ya press-reliz vasitəsilə açıqlanır.
+Ümumilikdə, Mərkəzi Bank pul siyasətinə dair qərarvermə çərçivəsində inflyasiya
+proseslərinə təsir edən bütün amilləri və riskləri nəzərə alır. Bu amillər əsasən azaldıcı və
+artırıcı olmaqla məcmu tələb və təklif ilə bağlı olur. Məcmu təklif amillərinə əsasən qlobal
+ərzaq və qeyri-ərzaq əmtəələrinin qiymətləri, idxal qiymətləri, yerli istehsalçı qiymətləri
+və s. aiddir. Məcmu tələb amillərinə isə əsasən özəl istehlak və özəl investisiyalar, eləcə
+də dövlət xərcləri daxildir. Təcrübə göstərir ki, pul siyasətinin məcmu təklif amillərinə
+təsiri məhduddur. Pul siyasəti əsasən məcmu tələb amilləri vasitəsilə inflyasiyaya təsir
+edir.
+8 Pul siyasətinin əməliyyat çərçivəsi
+5. MƏRKƏZİ BANKIN FAİZ DƏHLİZİ VƏ ONUN PARAMETRLƏRİ
+Pul siyasətinin əməliyyat çərçivəsinin mühüm elementlərindən biri faiz dəhlizidir. Faiz
+dəhlizi banklararası bazardakı qısamüddətli faizlərin dəhliz daxilində hərəkətini təmin etmək
+məqsədi daşıyır. Faiz dəhlizi eyni zamanda Mərkəzi Bankın likvidlik əməliyyatları üzrə
+faizlərinin iyerarxiyasını müəyyən edir.
+Mərkəzi Bankın faiz dəhlizi üç parametr olan uçot dərəcəsi, yuxarı hədd və aşağı
+həddən ibarətdir. Faiz dəhlizinin aşağı həddi sterilizasiya yönümlü daimi imkanlar
+alətlərindən olan gecəlik (overnayt) depozit əməliyyatının faizidir. Faiz dəhlizinin yuxarı
+həddi isə gecəlik (overnayt) likvidliyin verilməsi üzrə daimi imkanlar alətlərindən olan əks-
+REPO əməliyyatının faizidir. Uçot faiz dərəcəsi faiz dəhlizinin mərkəzi parametridir. Bu faiz
+dərəcəsini elan etməklə Mərkəzi Bank banklararası bazarda qısamüddətli faizləri bu
+parametrə yaxınlaşdırmağa çalışır.
+Dəhlizin aşağı həddi ilə uçot dərəcəsi arasında formalaşan faizlərlə sterilizasiya
+yönümlü qısamüddətli açıq bazar əməliyyatları həyata keçirilir. Uçot dərəcəsi ilə dəhlizin
+yuxarı həddi arasında formalaşan faizlərlə likvidliyin verilməsi yönümlü qısamüddətli açıq
+bazar əməliyyatları həyata keçirilir.
+Mərkəzi Bank sərəncamındakı alətlərlə banklararası pul bazarında faizlərin dəhliz
+daxilində formalaşmasına çalışır. Bu proses pul siyasəti qərarlarının transmissiyasının birinci
+həlqəsini təşkil edir. Banklararası bazarda qısamüddətli faizlər dəyişəndə digər faizlər, o
+cümlədən depozit və kredit faizləri də dəyişir. Bu proses pul siyasəti qərarlarının
+transmissiyasının ikinci həlqəsini təşkil edir.
+9 Pul siyasətinin əməliyyat çərçivəsi
+6. PUL SİYASƏTİ HƏDƏFLƏRİNƏ NAİL OLUNMASINA TƏSİR EDƏN AMİLLƏR
+Pul siyasəti hədəflərinə nail olunması əhəmiyyətli dərəcədə bank sisteminin likvidlik
+mövqeyindən asılıdır. Bank sisteminin likvidlik mövqeyinə bir sıra amillər təsir göstərir.
+Likvidliyə təsir edən başlıca avtonom (yəni Mərkəzi Bankdan asılı olmayan) amil
+hökumət hesablarının, xüsusilə də xəzinə qalığının dəyişimidir. Bu amil dövlət büdcəsinin gəlir
+və xərclərindən asılıdır. Xəzinə qalığının azalması manatla müxbir hesablara artırıcı, onun
+artması isə manatla müxbir hesablara azaldıcı təsir göstərə bilər. Bu amil dövlət büdcəsinin
+gəlir və xərclərindən asılıdır. Hökumət hesablarının dəyişiminin likvidliyə təsirini
+qiymətləndirə bilmək üçün Mərkəzi Bank Maliyyə Nazirliyi ilə əməkdaşlıq edir.
+Digər mühüm amil xalis xarici aktivlərin dəyişimidir. Xalis xarici aktivlər Mərkəzi Bankın
+qeyri-rezidentlərlə xarici valyutada və qiymətli metallarla aparılmış aktiv-passiv
+əməliyyatların saldosudur. Bu saldo Mərkəzi Bankın valyuta ehtiyatlarının dəyişimindən
+asılıdır. Mərkəzi Bank bank sektorundan valyuta aldığı halda xalis xarici aktivlər və manatla
+pul bazası, xüsusilə də manatla müxbir hesablar artır. Əksinə, bank sektoruna valyuta satışı
+keçirildiyi halda isə xalis xarici aktivlər və manatla pul bazası, xüsusilə də manatla müxbir
+hesablar azalır.
+Dövriyyədə olan nağd pulların hərəkəti də bank sisteminin likvidlik mövqeyinə təsir
+edir. Buraya bank sistemindən kənarda olan nağd pulla yanaşı bankların kassalarında olan
+nağd pullar da daxildir. Dövriyyədə olan nağd pulun azalması manatla müxbir hesabların
+qalığını artıra, onun artımı isə manatla müxbir hesabları azalda bilər. İqtisadiyyatda
+nağdsızlaşma prosesinin getməsi pul bazasının strukturunda nağd pulun payının azalması,
+müxbir hesabların payının isə artması ilə müşayiət olunur.
+Bütün bunlardan başqa Mərkəzi Bank tərəfindən keçirilən pul siyasəti əməliyyatları da
+bank sisteminin likvidlik mövqeyinə təsir edir. Özünün açıq bazar əməliyyatları ilə Mərkəzi
+Bank pul siyasətindən kənar amillərin bank sisteminin likvidlik mövqeyinə təsirlərini
+neytrallaşdırmağa çalışır.
+10 Pul siyasətinin əməliyyat çərçivəsi
+7. PUL SİYASƏTİ ALƏTLƏRİ
+Mərkəzi Bank tərəfindən tətbiq olunan alətlər daimi imkanlar (bankların təşəbbüsü ilə
+keçirilən) alətlərinə və açıq bazar əməliyyatlarına (Mərkəzi Bankın təşəbbüsü ilə keçirilən
+sterilizasiya və likvidliyin verilməsi əməliyyatları) bölünür.
+Cədvəl 1. Mərkəzi Bankın daimi imkanları və açıq bazar əməliyyatları
+Məqsəd Alət növü Alət Girov Tezlik Müddət
+daimi Gündəlik
+Gecəlik
+Əks-REPO
+imkanlar (bankların
+(overnayt)
+müraciəti ilə)
+Lombard
+Likvidliyin
+siyahısı1 (bax
+verilməsi
+əlavə 1-ə)
+Qrafikə
+Əks-REPO 7 günlük
+uyğun2
+açıq bazar
+əməliyyatları
+AMB-nin
+not - Qrafikə uyğun2 1,3,6,9 aylıq
+Likvidliyin
+hərracı
+sterilizasiyası
+REPO - Qrafikə uyğun2
+7 günlük
+daimi Gündəlik
+Girovsuz Gecəlik
+imkanlar Depozit (bankların
+(overnayt)
+müraciəti ilə)
+1 Mərkəzi Bankın İdarə Heyətinin qərarı ilə təsdiq edilmiş pul siyasəti əməliyyatları üzrə təminat kimi qəbul edilən qiymətli
+kağızlar
+2 Açıq bazar əməliyyatları zərurət olduğu hallarda aparılır
+11 Pul siyasətinin əməliyyat çərçivəsi
+7.1. Daimi imkanlar alətləri
+Daimi imkanlar alətləri sterilizasiya yönümlü və likvidliyin verilməsi yönümlü olur.
+Daimi imkanlar alətlərinin mövcudluğu banklararası bazarda qısamüddətli faizlərin
+tərəddüdlərini əhəmiyyətli məhdudlaşdırır.
+Sterilizasiya yönümlü daimi imkanlar alətləri. Banklar öz təşəbbüsləri ilə məcburi
+ehtiyatlar üzrə öhdəliklər və ödənişlərin fasiləsizliyi üçün tələb olunan vəsait nəzərə
+alınmaqla Mərkəzi Bankda gecəlik depozit yerləşdirə bilərlər. Bu əməliyyatlar nəticəsində
+müxbir hesablardan vəsait gecəlik müddətə sterilizasiya olunur və növbəti iş gününün
+əvvəli geriyə qaytarılır. Gecəlik depozit hər gün saat 16:45-17:00 intervalında Mərkəzi
+Bankda yerləşdirilir. Mərkəzi Bankın İdarə Heyətinin 28 yanvar 2025-ci il tarixli qərarına
+əsasən 03 fevral 2025-ci il tarixindən etibarən depozitlər növbəti iş günü saat 09:45-dək
+geriyə qaytarılmalıdır. Gecəlik depozitlər Mərkəzi Bankın faiz dəhlizinin aşağı həddinə
+bərabər faizlə yerləşdirilir.
+Likvidliyin verilməsi yönümlü daimi imkanlar alətləri. Banklar öz təşəbbüslərilə
+hesablaşmaları həyata keçirmək və məcburi ehtiyatları təmin etmək məqsədilə Mərkəzi
+Bankdan məhdudiyyətsiz məbləğdə əks-REPO əməliyyatı ilə gecəlik (overnayt) likvidlik
+cəlb edə bilərlər. Gecəlik əks-REPO əməliyyatları üçün təminat qismində Mərkəzi Bankın
+İdarə Heyətinin 30 noyabr 2017-ci il tarixli qərarı ilə təsdiq edilmiş pul siyasəti əməliyyatları
+üzrə təminat kimi qəbul edilən qiymətli kağızlar (lombard siyahısı) çıxış edə bilər. Bu
+əməliyyatların keçirilməsi vaxtı hər gün saat 16:45-17:00 intervalıdır. Mərkəzi Bankın İdarə
+Heyətinin 28 yanvar 2025-ci il tarixli qərarına əsasən 03 fevral 2025-ci il tarixindən etibarən
+banklar tərəfindən vəsaitlər növbəti iş gününün əvvəli saat 09:45-dək Mərkəzi Banka geri
+qaytarılmalıdır. Gecəlik əks-REPO əməliyyatları Mərkəzi Bankın faiz dəhlizinin yuxarı həddi ilə
+aparılır.
+12 Pul siyasətinin əməliyyat çərçivəsi
+7.2. Açıq bazar əməliyyatları
+Açıq bazar əməliyyatları Mərkəzi Bankın təşəbbüsü ilə və Mərkəzi Bank tərəfindən
+müəyyənləşdirilən kəmiyyət parametrləri ilə aparılır. Açıq bazar əməliyyatları da sterilizasiya
+yönümlü və likvidliyin verilməsi yönümlü ola bilər.
+Sterilizasiya yönümlü açıq bazar əməliyyatları. Sterilizasiya məqsədilə Mərkəzi Bank
+öncədən müəyyən edilən həcmlərdə 1,3,6 və 9 aylıq not hərracları keçirə bilər. Not hərracları
+bazar faizləri əsaslı mexanizmlə keçirilir. Başqa sözlə, notların gəlirliyi bazarda tələb-təklif
+nisbətindən asılı olaraq formalaşır.
+Notların yerləşdirilməsindən əlavə likvidliyin sterilizasiyası məqsədilə öncədən
+müəyyən edilən həcmlərdə 7 günlük REPO hərracları keçirilə bilər. 7 günlük REPO
+hərraclarının keçirilməsi vaxtı həftənin çərşənbə axşamı və cümə günləri saat 15:00-15:30
+müəyyən olunmuşdur. Hərraclar üzrə faizlər faiz dəhlizinin aşağı həddi (faiz dəhlizinin aşağı
+həddi daxil edilməməklə) ilə uçot dərəcəsi (uçot dərəcəsi daxil edilməməklə) arasındakı
+intervalda dəyişir.
+Likvidliyin verilməsi yönümlü açıq bazar əməliyyatları. Likvidliyin verilməsi məqsədilə
+öncədən müəyyən edilən həcmlərdə 7 günlük əks-REPO hərracları keçirilə bilər. 7 günlük
+əks-REPO hərraclarının vaxtı həftənin çərşənbə axşamı və cümə günləri saat 15:00-15:30
+müəyyən olunmuşdur. Hərraclar üzrə faizlər uçot dərəcəsi (uçot dərəcəsi daxil
+edilməməklə) ilə faiz dəhlizinin yuxarı həddi (faiz dəhlizinin yuxarı həddi daxil
+edilməməklə) arasındakı intervalda dəyişir.
+Pul bazarındakı, xüsusilə də banklararası bazardakı vəziyyətdən asılı olaraq digər açıq
+bazar əməliyyatları da tətbiq oluna bilər.
+13 Pul siyasətinin əməliyyat çərçivəsi
+8. MƏCBURİ EHTİYATLAR
+Məcburi ehtiyatların norması bankların öhdəliklərinin həcminin müəyyən faizi
+nisbətində müəyyənləşdirilir. Banklar tərəfindən məcburi ehtiyatlar “Məcburi ehtiyatların
+norması, hesablanması və saxlanması Qaydası”na uyğun olaraq hesablanır və saxlanılır.
+Qaydaya uyğun olaraq məcburi ehtiyatlar bankın cəlb olunan öhdəliklərinin hesablama
+dövrü (1 ay) üzrə orta günlük qalığı əsasında hesablanır. Hesablama dövrü hər ayın ilk təqvim
+günü başlayır və son təqvim günü bitir. Banklar hesablama dövründən sonrakı 5 (beş) iş günü
+ərzində məcburi ehtiyatlar üzrə hesabatı Mərkəzi Banka təqdim etməlidir. Növbəti saxlama
+dövrünün məcburi ehtiyatları həmin hesabat əsasında müəyyən edilir.
+Məcburi ehtiyatlar bankın Mərkəzi Bankda olan müxbir hesablarında saxlanılır.
+Saxlama dövrü hesablama dövrü bitdikdən sonrakı ayın 15-ci təqvim günü başlayır və növbəti
+ayın 14-cü təqvim gününədək davam edir.
+Məcburi ehtiyatların saxlanması üçün aylıq ortalama mexanizmi tətbiq edilir. Yəni
+saxlama dövrünün bəzi günlərində məcburi ehtiyat məbləği tələb olunandan aşağı olarsa,
+bank qalan günlərdə normadan yuxarı vəsait saxlamaqla aylıq orta göstəricinin normaya
+uyğun gəlməsini təmin edə bilər.
+Banklar məcburi ehtiyatları hesablama bazasına daxil olan depozitlərin valyutasından
+asılı olaraq saxlayırlar. Bu zaman milli valyutadakı və qiymətli metallardakı depozitlər üzrə
+məcburi ehtiyatı manat müxbir hesabında, xarici valyutalardakı öhdəliklər üzrə məcburi
+ehtiyatı isə ABŞ dollarında olan müxbir hesabda saxlayırlar.
+14 Pul siyasətinin əməliyyat çərçivəsi
+9. BANKLARARASI PUL BAZARININ İNFRASTRUKTURU
+Banklar arasında pul bazarı əqdləri təminatlı və təminatsız əsasda bağlana bilər.
+Banklararası təminatlı pul bazarı əsasən Bakı Fond Birjasında (Birja) qiymətli kağızların girovu
+ilə bağlanan REPO əməliyyatlarından ibarətdir. REPO əqdi bağlandığı zaman REPO predmeti
+olan qiymətli kağızlar depozitar tərəfindən REPO alıcısının hesabında dondurulur.
+“REPO bazarında bağlanılan əqdlər üzrə indekslərin hesablanması və açıqlanması
+Qaydaları”na edilən dəyişikliklərə uyğun olaraq, Birja tərəfindən hər iş gününün sonuncu
+ticarət sessiyası bitdikdən sonra 1 gecəlik, 1 həftəlik, 2 həftəlik və 1 aylıq müddətlərdə
+bağlanılmış repo əməliyyatları üzrə AINA (Azn Index Average) indeksləri hesablanır. Bu
+indekslər banklar arasında bağlanan təminatlı pul bazarı əqdləri üzrə reprezentativ faiz rolunu
+oynayır. İndekslər haqqında məlumatlar ən gec müvafiq əməliyyatların aparıldığı günün
+növbəti iş günü saat 10.00-dək Birjanın internet səhifəsində açıqlanır. İndekslərlə yanaşı repo
+açılış əqdlərinin nominal üzrə ümumi məbləği, əqdlərin sayı, minimal və maksimal faiz dərəcəsi
+də açıqlanır.
+Banklararası pul bazarının təminatsız seqmenti əsasən Blumberq ticarət sistemində
+bağlanan banklararası pul bazarı əqdlərindən ibarətdir. Bu seqmentin aktivləşdirilməsi
+məqsədilə Mərkəzi Bank tərəfindən Blumberq ticarət sistemində yeni platforma istismara
+verilmişdir. Platformada banklar arasında bağlanmış təminatsız pul bazarı əqdləri üzrə
+öhdəliklərin icrasına effektiv nəzarət mexanizmi formalaşdırılmışdır. Banklar platforma
+vasitəsilə manatla cəlbetmə və yerləşdirmə üzrə faiz dərəcələrini elan edir və digər iştirakçı
+banklar tərəfindən gələn sorğuların qəbul edilməsi yolu ilə pul bazarı əqdləri bağlanılır. Bu
+faiz dərəcələri banklar arasında bağlanan təminatsız pul bazarı əqdləri üzrə reprezentativ faiz
+rolunu oynayır.
+2 may 2023-cü il tarixindən başlayaraq Mərkəzi Bank özünün rəsmi internet səhifəsində
+gündəlik əsasda təminatsız bazarda banklar arasında milli valyutada əməliyyatların orta çəkili
+faiz dərəcəsini əks etdirən müxtəlif müddətli AZIR (Azerbaijan Interbank Rate) indekslərini
+açıqlamağa başlamışdır. Mərkəzi Bank ötən dövrdə banklararası pul bazarında gedən
+proseslərin təhlilini və qabaqcıl beynəlxalq təcrübəni nəzərə alaraq Avropa Yenidənqurma və
+İnkişaf Bankının (AYİB) ekspertləri ilə sıx əməkdaşlıq çərçivəsində AZIR indeksinin
+hesablanmasının yeni və daha təkmil qaydalarını hazırlayaraq təsdiq etmişdir. Bu indekslər
+15 Pul siyasətinin əməliyyat çərçivəsi
+9. BANKLARARASI PUL BAZARININ İNFRASTRUKTURU
+Mərkəzi Bankın İdarə Heyəti tərəfindən 08.05.2025-ci il tarixində təsdiq edilən “Banklararası
+Təminatsız Pul Bazarında İstinad Faiz Dərəcəsinin Hesablanması və Açıqlanması Qaydaları”
+əsasında hesablanır.
+İndekslərin hesablanmasında Blumberq ticarət platformasında Azərbaycan
+Respublikasında fəaliyyət göstərən kommersiya bankları arasında milli valyutada bağlanan
+əqdlərdən istifadə edilir. Faiz indekslərilə yanaşı Mərkəzi Bankın internet səhifəsində müvafiq
+tələblərə cavab verən əqdlərin məbləği və sayı da açıqlanır. Əlavə olaraq, yeni metodologiya
+əsasında toplanan faizli 30, 90, 180 günlük faizlərin və toplanan faizli artan AZİR indeksinin
+açıqlanmasına başlanılmışdır.
+Yeni metodologiya ilə hesablanan AZIR indeksi Mərkəzi Bankın pul siyasətinin yardımçı
+əməliyyat hədəfi kimi istifadə edilir. Bazar iştirakçıları maliyyə bazarında müxtəlif əqdlərin
+bağlanması zamanı AZIR indeksindən istinad faiz dərəcəsi kimi istifadə edə bilərlər.
+Platforma iştirakçısı olan banklar arasında bağlanmış əqd üzrə öhdəlik yerinə
+yetirilmədikdə, öhdəlik həcmində vəsait tələbnamə-tapşırıq əsasında kredit cəlb edən bankın
+müxbir hesablarından mübahisəsiz (akseptsiz) qaydada kredit verən bankın müxbir hesabına
+köçürülür. Bağlanılmış əqd overnayt (gecəlik) kredit olduqda əqd üzrə öhdəliklər
+tələbnamə-tapşırıq təqdim edilmədən Mərkəzi Bank tərəfindən növbəti əməliyyat günü saat
+10:00-dək avtomatik qaydada kredit cəlb edən bankın müxbir hesabından silinərək kredit
+verən bankın müxbir hesabına köçürülür.
+16 Pul siyasətinin əməliyyat çərçivəsi
+Əlavə 1. Pul siyasəti əməliyyatları üzrə təminat kimi qəbul edilən qiymətli kağızların siyahısı
+
+Azərbaycan Respublikasının Maliyyə Nazirliyi tərəfindən manatla buraxılan dövlət
+istiqrazları;
+
+Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən buraxılan istiqrazlar (notlar);
+
+Dövlət zəmanətli manatla buraxılan istiqrazlar;
+
+“Azərbaycan Respublikasının İpoteka və Kredit Zəmanət Fondu” tərəfindən manatla
+buraxılan ipoteka istiqrazları;
+
+Aşağıdakı beynəlxalq maliyyə-kredit təşkilatları tərəfindən manatla buraxılan istiqrazlar:
+o Asiya İnkişaf Bankı;
+o Avropa Yenidənqurma və İnkişaf Bankı;
+o Beynəlxalq Maliyyə Korporasiyası;
+o Qara Dəniz Ticarət və İnkişaf Bankı.
+
+Rezident emitentlər tərəfindən manatla buraxılan və beynəlxalq kredit reytinqi
+agentlikləri («Standard&Poor’s», «Fitch» və ya «Moody’s») tərəfindən müəyyən edilmiş
+reytinqi Azərbaycan Respublikasının dövlət reytinqindən az olmayan korporativ
+istiqrazlar.
+17 Pul siyasətinin əməliyyat çərçivəsi

@@ -1,0 +1,1633 @@
+Fiziki şəxslərə bank xidmətlərinin göstərilməsinə dair
+Standart Şərtlər
+Fiziki şəxslərə bank xidmətlərinin göstərilməsinə dair Standart Şərtlər (bundan sonra - Standart Şərtlər
+adlandırılacaq) əvvəlcədən ifadə edilmiş, dəfələrlə istifadə üçün nəzərdə tutulan şərtlər olmaqla Azərbaycan
+Respublikasının qanunvericiliyi və öz Nizamnaməsi əsasında fəaliyyət göstərən “ABB” ASC (bundan sonra – ABB
+adlandırılacaq) və Müştəri (bundan sonra birlikdə - Tərəflər və ya müvafiq olaraq Tərəf adlandırlacaq) arasında bank
+əməliyyatları, cari hesab, kart hesabı və ödəniş kartları, əmanət, depozit seyfləri, kredit, kredit xətti, ABB banking -
+İnternet Bank/ABB mobile - Mobil Bank, SMS/E-mail məlumatlandırma üzrə xidmətləri tənzimləyir. Müştəri,
+ABB-nin rəsmi internet səhifəsində (www.abb-bank.az) yerləşdirilmiş bu Standart Şərtlərlə tanış olmaqla və
+müvafiq Müqaviləni bağlamaqla bank xidmətlərindən istifadə edə bilər. Müştəri müvafiq Müqaviləni şəxsi imza,
+elektron imza və/və ya Şəxsi imzanın başqa analoqundan istifadə etmək yolu ilə imzalamaqla bağlaya (təsdiq edə)
+bilər. Bu Standart Şərtlərdə nəzərdə tutulan xidmətlər və həmin xidmətlər üzrə müvafiq bəndlər Müştəriyə yalnız
+müvafiq Müqavilə bağlandıqdan sonra tətbiq edilir. Bu Standart Şərtlər müvafiq Müqavilənin ayrılmaz tərkib hissəsi
+hesab olunur. Bu Standart Şərtlərdə anlayış verilməyən məfhumlar hüquqi aktlarla müəyyən olunmuş mənada qəbul
+edilir.
+1. Anlayışlar
+1.1 Müştəri – ABB ilə bağlanmış müvafiq Müqaviləyə əsasən ABB-nin hər hansı xidmət(lər)indən istifadə
+edən fiziki şəxs.
+1.2 Qanunvericilik – Bu Standart Şərtlərin mahiyyətindən irəli gələrək Azərbaycan Respublikasının hüquqi
+aktlarına daxil olan bütün normativ hüquqi aktlar və normativ xarakterli hüquqi aktlar.
+1.3 Bank hesabı (Hesab) - Müştəriyə açılmış hesaba daxil olan pul vəsaitlərinin qəbul edilməsi və hesaba
+salınması, hesabdan müvafiq məbləğlərin köçürülməsi və verilməsi, hesab üzrə digər əməliyyatların
+aparılmasına imkan verən vasitə (hərf və rəqəmlərin kombinasiyası);
+1.4 Müqavilə - ABB tərəfindən ayrı-ayrı bank xidmətlərinin göstərilməsi məqsədi ilə ABB ilə Müştəri
+arasında bağlanılan və müvafiq bank xidmətlərinin xüsusi şərtlərini özündə əks etdirən qarşılıqlı
+razılaşma;
+1.5 Şəxsi imzanın başqa analoqu – Müqavilələrin, sənədlərin, əlavələrin, razılaşmaların imzalanması üçün
+istifadə olunan kodlar, parollar, habelə mobil tətbiq, elektron platforma, rabitə və/və ya elektron vasitələrlə
+sənədlərin və ya digər verilənlərin mübadiləsi və sənədin bir Tərəfdən gəldiyini dürüst
+müəyyənləşdirməyə, eləcə də imza sahibini identikləşdirməyə (eyniləşdirməyə) imkan verən digər
+vasitələr (Şifrə, birdəfəlik şifrə, SMS, bir kliklə təsdiq, gücləndirilmiş müştəri autentifikasiyası, o
+cümlədən suallar toplusu, üz tanınması, səs tanınması, barmaq izi və s.). Sənədlərin Müştəri tərəfindən
+Şəxsi imzanın başqa analoqu vasitəsilə imzalanması qaydası Azərbaycan Respublikasının hüquqi aktları
+və ABB-nin daxili sənədlərinin tələblərinə uyğun olaraq ABB tərəfindən müəyyən edilir, müvafiq
+informasiya resursu vasitəsilə Müştərinin nəzərinə çatdırılır, Müştəri sənədləri Şəxsi imzanın başqa
+analoqu ilə imzaladığı zaman imzalanmanın qaydasına da razılıq vermiş olur;
+1.6 Ödəniş kartı (Kart) - nağdsız ödənişlərin aparılması və nağd pul vəsaitlərinin əldə edilməsi üçün nəzədə
+tutulmuş ödəniş aləti, müvafiq ödəniş sisteminin plastik kartı;
+1.7 Kart hesabı - Ödəniş kartı vasitəsilə həyata keçirilən əməliyyatların uçotunun aparılması üçün ABB
+tərəfindən Müştərinin adına açılan cari Bank hesabı;
+1.8 Əlavə kart - Ödəniş kartı ilə eyni Kart hesabına və ödəniş limitinə malik olan başqa bir Ödəniş kartı;
+1.9 ŞEN-kod – Şəxsi eyniləşdirmə nömrəsi olmaqla bankomatlar, POS-terminallar və digər elektron qurğular
+vasitəsilə əməliyyatlar zamanı Ödəniş kartının/Əlavə kartın istifadəçisinin identifikasiyası üçün istifadə
+edilən və hər bir Ödəniş kartına/Əlavə karta verilən fərdi rəqəmli kod (PIN kod);
+1.10 Overdraft – Müştərinin cari hesabında olan pul vəsaiti əməliyyat(lar)ın aparılmasına kifayət etmədikdə və
+ya cari hesabında pul vəsaiti olmadıqda həmin əməliyyat(lar)ın icrası üçün tələb olunan pul vəsaitinin (və
+ya çatışmayan hissəsinin) Müştərinin müraciəti və Tərəflər arasında razılaşma əsasında ABB tərəfindən
+qısa müddətli kreditləşdirilməsi (maliyyələşdirilməsi);
+1.11 Texniki overdraft - Müştəriyə Overdraftın təqdim edilməsi barədə Müştərinin müraciəti olmadığı halda
+Ödəniş kartı/Əlavə kart vasitəsilə Kart hesabının qalığından artıq məbləğdə əməliyyatların, o cümlədən
+akseptsiz və ya təkrar silinmə, valyuta məzənnəsinin dəyişdirilməsi və ya digər texniki əməliyyatların
+aparılması və bunun nəticəsində hesabda yaranan mənfi qalıq həcmində pul vəsaitinin milli və xarici
+valyuta olmasından asılı olmayaraq illik maksimum 30% dərəcəsi ilə kreditləşdirilməsi. Texniki overdraft
+üzrə faizlərin hesablanmadığı güzəşt müddəti Texniki overdraftın yarandığı gündən 45 gün, faizlərin
+hesablandığı maksimum müddət çərçivəsi isə 46-120-ci günlər aralığı hesab olunur, 121-ci gündən
+etibarən faizlərin hesablanması dayandırılır. Standart Şərtlərin Kredit/Kredit xəttinə aid müddəaları
+Texniki overdraft üzrə kreditləşməyə də şamil edilir;
+1.12 Kredit - bankın Müştəriyə müvafiq Müqaviləyə əsasən qaytarılmaq, müəyyən müddətə (müddətin
+uzadılması hüququ ilə) və faizlər (komisyon haqlar) ödənilmək şərti ilə, təminatla və ya təminatsız verdiyi
+borc pul vəsaiti. Həmin şərtlərlə pul vəsaitinin verilməsi haqqında götürülmüş qarantiya, akkreditiv və
+müvafiq Müqavilə üzrə hər hansı formada verilmiş vəsaitin qaytarılmasını tələb etməklə bağlı digər hüquq
+da kredit anlayışına aiddir; bu Standart Şərtlərin məqsədləri üçün Kredit deyildikdə müvafiq Müqavilə ilə
+ayrı qayda/şərtlər nəzərdə tutulmayıbsa, sahibkarlıq və ya peşə fəaliyyəti ilə bağlı olmayan məqsədlər
+üçün fiziki şəxs olan Müştərilərə verilən istehlak krediti nəzərdə tutulur.
+1.13 Kredit xətti - Kredit məbləğindən kredit müddəti ərzində Müştərinin hissə-hissə istifadə etdiyi kredit
+məhsulu;
+1.14 Kredit kartı üzrə kredit xətti - müvafiq Müqaviləyə əsasən Müştəriyə bərpa olunan Kredit xətti formasında
+onun kredit kartına bağlı olan Kart hesabı üzrə təqdim edilən kredit;
+1.15 Bərpa olunan kredit xətti - Kredit xətti üzrə yaranmış borc və ya onun bir hissəsi qaytarıldıqca bərpa
+olunan kredit məbləği və kredit məbləğindən təkrarən istifadə imkanı;
+1.16 “ABB mobile - Mobil Bank” - mobil tətbiq vasitəsilə Bank hesablarını idarə edən və Müştəriyə müəyyən
+əməliyyatları məsafədən həyata keçirmək imkanı verən xidmət növü;
+1.17 “ABB banking - İnternet Bank” - İnternet vasitəsilə Müştəriyə məsafədən müəyyən əməliyatları aparmaq
+və Bank hesablarını idarə etmək imkanı verən xidmət növü və proqram təminatı;
+1.18 SMS/E-mail məlumatlandırma – ABB-nin Müştərinin mobil telefona/elektron poçt ünvanına SMS/ Bank
+hesabından çıxarış göndərməklə Ödəniş kartı vasitəsilə aparılan əməliyyat(lar) barədə Müştərini
+məlumatlandırma xidməti;
+1.19 Depozit seyfi - müvafiq Müqaviləyə əsasən Müştəriyə müvəqqəti istifadəyə (icarəyə) verilən depozit
+qutusu;
+1.20 Şəxsi kabinet – Müştərinin bu Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş bank
+əməliyyatlarını (kredit borcları, ona hesablanmış faiz məbləğləri, ödəniş cədvəlləri, taksit məbləğləri,
+hesablarından çıxarışları və s.) ABB-nin cari əməliyyat anı üçün təqdim etdiyi texniki imkanlar
+çərçivəsində aparması və həmin əməliyyatlara nəzarəti həyata keçirməsi, o cümlədən “online chat”
+vasitəsilə ABB-nin məlumat mərkəzi ilə əlaqə saxlanılması üçün ABB-nin Müştərinin istifadəsinə verdiyi
+internet səhifə, proqram təminatı və ya digər informasiya resursu;
+1.21 Tariflər – ABB-nin müvafiq əməliyyatın aparıldığı günə qüvvədə olan tarifləri (ABB-nin rəsmi internet
+səhifəsi www.abb-bank.az-da yerləşdirilmişdir) və/və ya müvafiq idarəetmə orqanının qərarına uyğun
+olaraq müəyyən olunan tarif dərəcələri.
+2. Bank hesabı
+2.1. ABB tərəfindən Müştərinin adına milli və/və ya xarici valyutalarda cari hesab(lar)ın açılması,
+qanunvericilikdə nəzərdə tutulan şərtlər və məhdudiyyətlər nəzərə alınmaqla Hesaba daxil olan pul
+vəsaitinin mədaxil edilməsi, açılmış Hesabdan müvafiq məbləğlərin köçürülməsi, verilməsi və Hesab üzrə
+digər əməliyyatların aparılmasına dair Müştərinin sərəncamları yerinə yetirilir. Müştəri isə ona göstərilmiş
+bank xidmətlərinin haqqını ödəməyi öhdəsinə götürür.
+2.2. Hesab üzrə əməliyyatların aparılmasına görə bank xidmətlərinin haqqı ABB-nin Tariflərinə uyğun olaraq
+müəyyən olunur və ABB tərəfindən Müştərinin Hesabdakı pul vəsaitindən tutulur.
+2.3. Hesab üzrə sərəncam vermək hüququ olan şəxslərin siyahısı imza nümunəsi vərəqəsində qeyd olunur.
+3. Hesabın fəaliyyət rejimi
+3.1. Müştərinin öz Hesabı üzrə müstəqil sərəncam vermək hüququ vardır.
+3.2. ABB Müştərinin pul vəsaitinə dair öz istədiyi kimi sərəncam vermək hüququ üzərində bu Standart Şərtlər
+və müvafiq Müqavilə ilə nəzərdə tutulmamış digər məhdudiyyətlər qoya bilməz.
+3.3. Müştəri tərəfindən Hesab üzrə xarici valyuta əməliyyatları Azərbaycan Respublikasının rezidentlərinin
+xarici valyutada, habelə qeyri-rezidentlərin milli və xarici valyutada əməliyyatlarının aparılmasına dair
+qaydaları tənzimləyən hüquqi akta əsasən aparılır.
+3.4. Ödəniş sənədləri yazıldığı gündən (yazılma günü nəzərə alınmadan) sonra 3 (üç) iş günü ərzində ABB-ə
+təqdim edilə bilər.
+3.5. Müştərinin sərəncamı olmadan Hesabdakı pul vəsaitinin silinməsinə məhkəmənin qərarı ilə, habelə
+qanunla müəyyənləşdirilmiş, bu Standart Şərtlər və ya müvafiq Müqavilədə nəzərdə tutulmuş hallarda yol
+verilir.
+3.6. ABB, Hesab üzrə əməliyyatları Hesabın qalığı çərçivəsində Müştərinin sərəncamlarının və hesabdan
+silməyə dair digər sənədlərin daxil olmasının təqvim ardıcıllığına riayət etməklə həyata keçirir. Hesabdakı
+pul vəsaiti ona qarşı irəli sürülmüş bütün tələbləri yerinə yetirməyə kifayət etmədikdə və ABB-ilə Müştəri
+arasında Hesabın kreditləşməsi haqqında əlavə razılaşma yoxdursa, Hesabdan pul vəsaiti qanunvericilikdə
+nəzərdə tutulan ardıcıllıqla silinir.
+3.7. Müştəri üçün əməliyyat (iş) günü ABB-in daxili iş rejimi qaydalarına uyğun olaraq müəyyən edilir.
+3.8. Bu Standart Şərtlərin 3.7-ci bəndində müəyyən edilmiş vaxtdan sonra daxil olmuş ödəniş sənədləri növbəti
+iş günündə daxil olmuş hesab olunur.
+3.9. ABB tərəfindən qəbul edilərkən Müştərinin ödəniş sənədləri qanunvericiliklə müəyyən edilmiş tələblərə
+uyğun yoxlanılır. Ödəniş sənədlərinin məzmunu və forması Azərbaycan Respublikasının hüquqi aktları
+və ona uyğun müəyyənləşdirilmiş ABB-nin daxili sənədləri ilə nəzərdə tutulmuş tələblərə uyğun
+gəlməlidir. Bu tələblərin pozulması ilə tərtib edilmiş, habelə qüsurlu ödəniş sənədləri ABB tərəfindən
+qəbul edilmir.
+3.10. Hesabda olan qalığa və ya Hesabdakı pul vəsaitlərindən istifadə etməsinə görə ABB Müştəriyə bu Standart
+Şərtlər çərçivəsində imzalanan müvafiq Müqavilədə başqa qayda nəzərdə tutulmayıbsa, heç bir faiz
+ödəmir.
+3.11. Hesabın qeyri-qanuni məqsədlər, o cümlədən çirkli pulların yuyulması (qeyri-qanuni yolla əldə edilmiş
+gəlirlərin leqallaşdırılması), terrorizmin maliyyələşdirilməsi və fırıldaqçılıq (fraud) əməliyyatlarının
+aparılması məqsədilə açılması və istifadə edilməsi qadağandır.
+3.12. Hesab, Hesab üzrə əməliyyatlar və qalıqları, habelə Müştəri haqqında məlumatlar bank sirridir və üçüncü
+şəxslərə yalnız Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulan hallarda verilir.
+3.13. Bu Standart Şərtlər və müvafiq Müqavilə əsasında Müştəriyə açılmış Hesab üzrə bank əməliyyatlarının
+aparılması zamanı Müştəri tərəfindən ərizə və ya hər hansı digər formada ABB-ə təqdim edilən sənəd(lər)
+Tərəflər arasında müvafiq bank əməliyyatlarının aparılması üçün ödəniş sənədləri hesab edilir və ABB
+tərəfindən icra edilir.
+3.14. Müvafiq Müqavilə imzalandıqdan və Hesab açıldıqdan sonra Hesaba dair məlumatlar (rekvizitlər) ABB-
+nin seçdiyi aşağıdakı üsullardan biri ilə Müştəriyə göndərilir və müvafiq Müqavilənin ayrılmaz tərkib
+hissəsi hesab edilir:
+a) Şəxsi kabinet;
+b) “ABB mobile - Mobil Bank” və “ABB banking - İnternet Bank”;
+c) “SMS/E-mail məlumatlandırma”;
+d) kağız və ya elektron daşıyıcı.
+4. Ödəniş kartı
+4.1. ABB Müştərinin müraciəti əsasında ABB tərəfindən emissiya edilən, Azərbaycan Respublikası ərazisində
+və Azərbaycan Respublikasının hüdudlarından kənarda istifadə edilə bilən Ödəniş kartının verilməsini və
+istifadə edilməsini, Ödəniş kartı vasitəsilə hesablaşmaların aparılması üçün Kart hesabının açılmasını
+təmin etməyi və Müştəri Ödəniş kartı vasitəsi ilə aparılmış əməliyyatlara, Ödəniş kartından istifadəyə görə
+xidmət haqlarını ABB-ə ödəməyi öhdəsinə götürür.
+4.2. Ödəniş kartı vasitəsilə əməliyyatların aparılması üzrə bank xidmətlərinin haqqı ABB-nin Tariflərinə
+uyğun olaraq müəyyən olunur və ABB tərəfindən Müştərinin Kart hesabındakı pul vəsaitindən akseptsiz
+qaydada tutulur.
+4.3. Ödəniş kartının qüvvədə olma müddəti onun üzərində göstərilmiş müvafiq ilin müvafiq ayının sonuncu
+günü bitir.
+4.4. Ödəniş kartından istifadə Azərbaycan Respublikasının qanunvericiliyi, maliyyə bazarlarına nəzarət
+orqanının normativ xarakterli aktları, eləcə də müvafiq beynəlxalq ödəniş sisteminin qaydaları, bu
+Standart Şərtlər və müvafiq Müqavilə ilə tənzimlənir.
+4.5. ABB Müştərinin ərizəsi əsasında ona bir neçə əlavə Ödəniş kartı verə bilər.
+4.6. Ödəniş kartı ABB-nin mülkiyyətidir və Müştərinin istifadəsinə verilir.
+5. Kart hesabının fəaliyyət rejimi
+5.1. Kart hesabı Müştəriyə Ödəniş kartı vasitəsilə əməliyyatların aparılması və həmin əməliyyatların uçotunu
+aparmaq üçün açılır.
+5.2. Kart hesabına pul vəsaitləri qanunvericiliyin tələblərinə əməl edilməklə nağd və ya nağdsız qaydada
+mədaxil edilə bilər.
+5.3. Bu bəndin tələbləri nəzərə alınmaqla, hesabdakı pul vəsaitlərinin nağd məxarici yalnız bankomat və/və ya
+POS-terminal vasitəsilə həyata keçirilə bilər. Kartın müddəti bitdikdə və ya bu Standart Şərtlərin 18.1.8-
+ci bəndində nəzərdə tutulduğu hallarda Ödəniş kartı bloklaşdırıldıqda qanunvericiliyin tələblərinə uyğun
+olaraq, hesabdan nağd pul digər qaydada məxaric edilə bilər.
+5.4. Müştəri Kart hesabındakı pul vəsaitlərindən yalnız Ödəniş kartı vasitəsilə əməliyyatların aparılması
+zamanı istifadə edə bilər. Müştəri Kart vasitəsilə aparılmış əməliyyatlara görə pul vəsaitlərinin Kart
+hesabından silinməsindən 45 (qırx beş) gün müddətində istənilən əməliyyatı mübahisələndirə bilər.
+Əməliyyat həmin müddətdə mübahisələndirilmədikdə silinmənin düzgünlüyü Müştəri tərəfindən
+təsdiqlənmiş hesab edilir. Əməliyyatların mübahisələndirilməsi ilə bağlı Tariflərdə nəzərdə tutulan xidmət
+haqları Müştəri tərəfindən ödənilməlidir.
+5.5. ŞEN-kod üç dəfə yalnış yığıldıqda Ödəniş kartı/Əlavə karta bağlı ŞEN-kod avtomatik olaraq bloklaşdırılır
+və ŞEN-koddan istifadə etməklə Kart hesabı üzrə əməliyyatların aparılması dayandırılır. Müştəri ŞEN-
+kodu ABB-nin filiallarına və ya “Azərikard” prosessinq mərkəzinə müraciət edərək, eləcə də belə bir
+imkan ABB tərəfindən yaradıldığı təqdirdə “ABB mobile - Mobil Bank” tətbiqi və “ABB banking -
+İnternet Bank” elektron platforması üzərindən aktivləşdirə bilər.
+5.6. Ödəniş kartı vasitəsilə aparılan əməliyyatlar üzrə tətbiq edilən gündəlik və/və ya birdəfəlik limitlər ABB-
+nin Tarifləri ilə müəyyən olunur.
+5.7. Ödəniş kartından istifadə etməklə digər bankların bankomatlarından və elektron qurğularından nağd pul
+vəsaitlərinin çıxarılması, habelə digər əməliyyatlar zamanı Müştəridən ABB-nin komisyon haqları ilə
+yanaşı, həmin bankların da komisyon haqları tutula bilər.
+5.8. Kart hesabının valyutasından fərqli valyutada Kartdan istifadə etməklə aparılmış əməliyyatlar üzrə
+əməliyyatın valyutasından Kart hesabının valyutasına vəsaitlərin konvertasiyası əməliyyatın faktiki
+aparılması tarixindən asılı olmayaraq əməliyyat üzrə məlumatın işlənmə gününə ABB-də qüvvədə olan
+Ödəniş kartları üçün valyuta mübadiləsi məzənnəsi əsasında həyata keçirilir.
+5.9. Müştərinin sərəncamı olmadan Kart hesabındakı pul vəsaitinin silinməsinə məhkəmənin qərarı ilə, habelə
+qanunla müəyyənləşdirilmiş, bu Standart Şərtlər və ya müvafiq Müqavilədə nəzərdə tutulmuş hallarda yol
+verilir.
+5.10. Kart hesabında olan qalığa və ya Kart hesabındakı pul vəsaitlərindən istifadə etməsinə görə ABB
+Müştəriyə bu Standart Şərtlər çərçivəsində imzalanan müvafiq Müqavilədə başqa qayda nəzərdə
+tutulmayıbsa, heç bir faiz ödəmir. ABB tərəfindən Kart hesabında olan qalığa və/və ya Kart hesabındakı
+pul vəsaitlərindən istifadə etməsinə görə Müştəriyə faizlər (habelə, cashback, xallar, millər və/və ya digər
+bonus məbləği) ödənilməsi qərara alındıqda, müvafiq faizlərin miqdarı, hesablanma qaydası, müddəti
+ABB tərəfindən birtərəfli qaydada müəyyən edilir və faizlərin hesablanması ABB tərəfindən istənilən vaxt
+Müştəriyə hər hansı xəbərdarlıq etmədən birtərəfli qaydada dayandırıla, habelə hesablanmış faizlər silinə
+bilər.
+5.11. Kart hesabının qeyri-qanuni məqsədlər, o cümlədən çirkli pulların yuyulması (qeyri-qanuni yolla əldə
+edilmiş gəlirlərin leqallaşdırılması) və terrorizmin maliyyələşdirilməsi məqsədilə açılması və istifadə
+edilməsi qadağandır.
+5.12. Kart hesabı, Ödəniş kartı vasitəsilə aparılmış əməliyyatlar, Kart hesabının qalığı, habelə Müştəri haqqında
+məlumatlar bank sirridir və üçüncü şəxslərə yalnız Azərbaycan Respublikası qanunvericiliyində nəzərdə
+tutulan hallarda verilir.
+5.13. Müştəri Kart hesabından sahibkarlıq fəaliyyəti ilə əlaqədar istifadə edə bilməz. Həmçinin, Kart
+hesabından üçüncü şəxslərin ödənişlərinin həyata keçirilməsi qadağandır, bir şərtlə ki, bu ödənişlər sui-
+istifadə hallarına yol verilərək əlavə qazanc (cashback, xallar, millər, bonuslar və s) əldə edilməsi ilə
+nəticələnsin.
+5.14. Kart hesabına daxil olan pul vəsaitlərinin valyutası hesabın valyutasından fərqli olduqda, müvafiq
+vəsaitlər Müştəriyə məlumat verilmədən ABB-in həmin gün üçün müəyyən olunmuş məzənnəsinə və ya
+çarpaz məzənnəyə əsasən konvertasiya edilərək Kart hesabına mədaxil edilir.
+5.15. Müştəri təsdiq edir ki, bu Standart Şərtlərin 18.13.6-cı yarımbəndinə əsasən Müştəri tərəfindən aparılmış
+əməliyyatlar mübahisələndirildikdə (etiraz tədbiri zamanı) əməliyyat(lar)a aid vəsaitin sözügedən proses
+tam yekunlaşana qədər ABB-də saxlanılmasına razıdır.
+5.16. Müvafiq müqavilə əsasında Müştəriyə açılmış Kart hesabı üzrə bank əməliyyatlarının aparılması zamanı
+Müştəri tərəfindən ərizə və ya hər hansı digər formada ABB-ə təqdim edilən sənəd(lər) Tərəflər arasında
+müvafiq bank əməliyyatlarının aparılması üçün ödəniş sənədləri hesab edilir və ABB tərəfindən icra
+olunur.
+5.17. Müvafiq Müqavilə imzalandıqdan və Kart hesabı açıldıqdan sonra Kart hesabına dair məlumatlar
+(rekvizitlər) ABB-in seçdiyi aşağıdakı üsullardan biri ilə Müştəriyə göndərilir və müvafiq Müqavilənin
+ayrılmaz tərkib hissəsi hesab edilir:
+a) Şəxsi kabinet;
+b) “ABB mobile - Mobil Bank” və “ABB banking - İnternet Bank”;
+c) “SMS/E-mail məlumatlandırma”;
+d) kağız və ya elektron daşıyıcı.
+6. Bank Əmanəti
+6.1. Müştəri müvafiq Müqavilədə nəzərdə tutulmuş şərtlərlə pul vəsaitini (bundan sonra - əmanət
+adlandırılacaq) ABB-də yerləşdirir, ABB isə bu Standart şərtlər və müvafiq Müqavilədə nəzərdə tutulan
+şərtlərlə və qaydada əmanəti qaytarmağı və ona hesablanmış faizləri ödəməyi öz öhdəsinə götürür.
+6.2. Əmanət ABB-yə müəyyən üçüncü şəxsin adına qoyula bilər. Xeyrinə əmanət qoyulan şəxs bu hüquqlara
+əsaslanan ilk tələbini ABB-ə verdiyi və ya belə hüquqlardan istifadə etmək niyyətini başqa üsulla ABB-
+də bildirdiyi andan qanunvericilik və/və ya bu Standart Şərtlərlə nəzərdə tutulmuş əmanətçi (Müştəri)
+hüquqlarını qazanır, eləcə də əmanətçinin (Müştərinin) bu Standart Şərtlər üzrə öhdəliklərini daşıyır.
+Müştəri əmanət barəsində qanunvericilik və/və ya bu Standart Şərtlərdə nəzərdə tutulmuş əmanətçi
+hüquqlarından xeyrinə əmanət qoyulan şəxs əmanətçi hüquqlarından istifadə etmək niyyətini ABB-ə
+bildirənədək istifadə edə bilər.
+6.3. Əmanətin qəbul edilməsi üçün ABB tərəfindən Müştərinin adına müvafiq Hesab açılır. Əmanətə qoyulan
+vəsaitlər Müştəri tərəfindən nağd şəkildə - kassa mədaxil orderi əsasında və ya köçürmə yolu ilə Hesaba
+mədaxil edilir. Əmanətə qoyulan vəsaitlər Müştəriyə qaytarıldığı zaman Müştəridən ABB-nin Tariflərinə
+uyğun olaraq komisyon haqq tutula bilər.
+6.4. Müvafiq Müqavilədə ayrı qayda nəzərdə tutulmursa, əmanət məbləğinin Müştəri tərəfindən əlavə pul
+vəsaiti daxil edilməklə artırılmasına yol verilmir.
+6.5. Müvafiq Müqavilədə göstərilən faizlər əmanət üzrə pul vəsaitlərinin ABB-ə daxil olduğu günün ertəsi
+günündən həmin məbləğin Müştəriyə qaytarılmasından (və ya qanunvericilikdə və yaxud müvafiq
+Müqavilədə nəzərdə tutulmuş əsaslarla Müştərinin hesabından silinməsindən) əvvəlki günədək hesablanır.
+Bu qayda birgünlük əmanətlərə şamil edilmir.
+6.6. Əmanət üzrə faizlər qanunvericiliklə müəyyən olunan hallarda və qaydada ödəmə mənbəyində vergi
+tutulduqdan sonra ödənilir.
+6.7. Müvafiq Müqavilə üzrə əmanət müddəti 1 (bir) il və daha çox olduqda Əmanət yerləşdirildiyi tarixdə və
+ya əmanət yerləşdirildiyi tarixdən 6 (altı) ay ərzində Müştərinin müraciətinə əsasən ABB tərəfindən
+əmanət (faizlərin ilin sonunda ödənilməsi şərti ilə 1 (bir) illik yerləşdirilən əmanətlər istisna olmaqla)
+üzrə faizlərin ödənilməsi üçün Müştəriyə xüsusi Ödəniş kartı və əmanət məbləği ilə təmin olunmuş Kredit
+xətti üzrə kreditdən istifadə üçün kredit kartı verilə bilər. Müvafiq kartların buraxılması üzrə xidmət haqqı
+tutulmur. Müştəri kartların istifadə müddəti bitmədən hər hansı səbəbdən yeni kart sifariş etdikdə, müvafiq
+kartın buraxılması üzrə ABB-nin Tariflərinə uyğun olaraq xidmət haqqı tutulur.
+6.8. Xüsusi Ödəniş kartı əmanət müddəti ərzində qüvvədədir və əmanət vaxtından əvvəl geri götürüldükdə
+ABB tərəfindən birtərəfli qaydada ləğv edilir/bloklaşdırılır.
+6.9. Müştəri əmanət məbləğini yerləşdirildiyi tarixdən 6 (altı) ay sonra geri götürdükdə əmanət məbləği ilə
+təmin olunmuş Kredit xətti üzrə kreditdən istifadə üçün buraxılmış kredit kartı Kredit xəttinin
+bağlanılması (o cümlədən qalıq borcun tam ödənilməsi) şərti ilə Müştəridə saxlanıla bilər. Müştəri debet
+statusa keçirilmiş bu kredit kartından kartın üzərində göstərilmiş son istifadə müddətinə kimi kartın
+statusuna uyğun istifadə edə bilər.
+6.10. Müştəri əmanət məbləğini yerləşdirildiyi tarixdən 6 (altı) ay keçmədən geri götürdükdə kredit kartı ləğv
+edilə/bloklaşdırıla və ya Kredit xəttinin bağlanması (o cümlədən qalıq borcun tam ödənilməsi) şərti ilə
+ABB-nin Tariflərinə uyğun olaraq xidmət haqqı tutularaq Müştəridə saxlanıla bilər. Müştəri debet statusa
+keçirilmiş bu kredit kartından kartın üzərində göstərilmiş son istifadə müddətinə kimi kartın statusuna
+uyğun istifadə edə bilər.
+7. Əmanətin qaytarılması
+7.1. Əmanət, müvafiq Müqavilənin tələbləri nəzərə alınmaqla, müvafiq Müqavilənin müddəti bitdikdən və ya
+ona hər hansı digər səbəbdən xitam verildikdən sonra Müştəriyə qaytarılır.
+7.2. Müştəri müvafiq Müqavilənin müddəti bitənədək istənilən vaxt əmanəti Hesabdan geri götürə bilər. Bu
+halda, o cümlədən tələbli əmanət istisna olmaqla, müddətli və ya başqa əmanət müvafiq Müqavilənin
+müddətinin bitməsinədək qanunvericilikdə və yaxud müvafiq Müqavilədə nəzərdə tutulmuş əsaslarla
+Müştərinin hesabından silindikdə, əmanətə faizlər hesablanmır və artıq Müştəriyə ödənilmiş faizlər
+akseptsiz qaydada sonuncudan tutulur.
+7.3. Müvafiq Müqavilədə ayrı qayda nəzərdə tutulmursa, Müştəri tərəfindən əmanətin Hesabdan hissə-hissə
+götürülməsinə yol verilmir.
+7.4. Əmanətin qaytarılması ABB-nin bütün aktivləri ilə təmin edilir.
+8. Əmanətlərin Sığortalanması Fondu, ABB və Müştəri
+8.1. ABB «30» İyul 2007-ci il tarixindən Əmanətlərin Sığortalanması Fondunun (bundan sonra – Fond
+adlandırılacaq) iştirakçısı olaraq (03 saylı şəhadətnamə) Fonda sığorta haqqı ödəyir (bu haqq Müştəridən
+tutulmur).
+8.2. Müştərinin (8-ci bəndinin məqsədləri üçün «Əmanətçi» adlandırılacaq) hesabında bütün müvafiq
+valyutalarda olan pul vəsaiti (Bu bəndinin məqsədləri üçün «əmanət» adlandırılacaq) «Əmanətlərin
+sığortalanması haqqında» Azərbaycan Respublikasının Qanunu (bundan sonra – Qanun adlandırılacaq)
+ilə müəyyən edilmiş hallarda, qaydada, miqdarda və şərtlərlə Fond tərəfindən sığortalanır.
+8.3. Sığorta Hadisəsi – ABB-nin məcburi ləğvi və ya müflis elan olunması, ABB-nin Əmanətçi qarşısında
+öhdəliklərinin yerinə yetirilməsinə məhkəmə tərəfindən moratorium tətbiq edilməsi barədə məhkəmə
+qərarının qüvvəyə minməsi və ABB-nin Əmanətçi qarşısında öz öhdəliklərini yerinə yetirə bilməməsi
+faktının maliyyə bazarlarına nəzarət orqanı tərəfindən təsdiq edilməsidir.
+8.4. Sığorta hadisəsi baş verdikdə, Fond aşağıda qeyd edilən kütləvi informasiya vasitələrində Əmanətçiyə
+kompensasiya ödənilməsi yeri və vaxtı haqqında elan verir və bildiriş dərc etdirir:
+• AzTV;
+• İctimai TV;
+• “Azərbaycan” qəzeti;
+• “Respublika” qəzeti;
+• Xalq qəzeti;
+• AzərTAc informasiya agentliyi;
+• APA informasiya agentliyi.
+8.5. Fonddan kompensasiya almaq üçün Əmanətçi kütləvi informasiya vasitələrində göstərilən yerə yazılı ərizə
+ilə müraciət edir. Ərizəyə aşağıdakı sənədlər əlavə olunur:
+8.5.1. Şəxsiyyət vəsiqəsi və ya şəxsiyyəti təsdiqləyən digər sənəd;
+8.5.2. Əmanəti təsdiqləyən sənədlər;
+8.5.3. Bank hesabı müqaviləsi;
+8.5.4. Əmanətçinin nümayəndəsi müraciət etdikdə onun notariat qaydasında təsdiq olunmuş etibarnaməsi.
+8.6. Ərizənin verildiyi tarixdən etibarən 90 (doxsan) gün müddətində Fond tərəfindən Əmanətçiyə
+kompensasiya ödənilməlidir. Fond əmanətçilərin ərizələrini kompensasiya ödənişi haqqında bildirişin ilk
+dəfə dərc edildiyi gündən başlayaraq 1 (bir) il ərzində qəbul edir. Əmanətçinin kompensasiya almaq
+hüququ Fondun kompensasiyaların ödənilməsi haqqında elanı ilk dəfə dərc etdiyi gündən 5 (beş) il
+müddətində saxlanılır.
+8.7. Aşağıdakı əmanətlər qorunan əmanətlərə (sığorta hadisəsi baş verdikdə Fond tərəfindən qorunan
+əmanətçiyə kompensasiya olunan əmanət) aid edilmir:
+8.7.1. ABB-nin Azərbaycan Respublikasının ərazisindən kənarda açılmış bölmələri tərəfindən cəlb olunmuş
+əmanətlər;
+8.7.2. cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılması və terrorçuluğun
+maliyyələşdirilməsi ilə bağlı şübhəli əməliyyatlar nəticəsində qanunvericiliyə müvafiq qaydada müəyyən
+edilmiş əmanətlər;
+8.7.3. cinayətin törədilməsi nəticəsində yaranması məhkəmə qərarı ilə təsdiq edilmiş əmanətlər;
+8.7.4. üzərinə həbs qoyulmuş əmanətlər;
+8.7.5. cəlb edildiyi günə Qanunun 8.1.20-ci maddəsinə uyğun olaraq müəyyən edilmiş həddən yuxarı illik faiz
+dərəcəsi ilə qəbul edilmiş əmanətlər;
+8.7.6. fiziki şəxslərin sahibkarlıq fəaliyyəti ilə əlaqədar açdığı Bank hesablarındakı 20 (iyirmi) min manatdan
+yuxarı pul vəsaitləri;
+8.7.7. fiziki şəxslərin bankın vəkalətli idarəetməsində olan pul vəsaitləri;
+8.8. Fond sığorta hadisəsi baş verdikdə Əmanətçiyə qanunvericilikdə nəzərdə tutulmuş məbləğdə
+kompensasiya ödəyir.
+8.9. Fond kompensasiyanı milli valyutada olan əmanət üzrə manatla, ABŞ dollarında olan əmanət üzrə ABŞ
+dollarında, Avroda olan əmanət üzrə isə Avroda Əmanətçiyə ödəyir. Əmanət ABŞ dolları və ya Avroda
+olmadıqda kompensasiya bu valyutaların biri ilə sığorta hadisəsinin baş verdiyi günə Azərbaycan
+Respublikası Mərkəzi Bankının müvafiq valyutalar üzrə müəyyən etdiyi rəsmi məzənnələr əsasında
+hesablanmış çapraz məzənnə üzrə hesablanır və ödənilir. Əmanətlər üzrə faizlər sığorta hadisəsinin baş
+verdiyi günə qədər hesablanmış məbləğdə ödənilir, bu şərtlə ki, kompensasiya qanunvericilikdə nəzərdə
+tutulmuş məbləğdən artıq olmasın.
+8.10. Əmanətçinin ABB-də, o cümlədən bankın yerli filiallarında və şöbələrində bir neçə əmanəti olduqda,
+yaxud həmin əmanətlər müxtəlif valyutalarda olduqda, Fond həmin əmanətləri toplayır və bir əmanət kimi
+manatla kompensasiya olunur. Əmanətçinin Fondun hər hansı digər iştirakçı bankında olan əmanətinə isə
+ayrıca əmanət kimi baxılır və kompensasiya ödənilir.
+8.11. ABB Əmanətçinin yazılı və ya şifahi sorğularına cavab olaraq, ABB-nin sığorta sistemində iştirakı,
+qorunan əmanətlər və kompensasiyalar barədə Əmanətçiyə məlumat verir
+8.12. Sığorta hadisəsi baş verdiyi günə Əmanətçinin ABB qarşısında vaxtı çatmış öhdəliyi olduqda pul vəsaiti
+üzrə kompensasiya hesablanmış faizlər də daxil olmaqla Əmanətçinin ABB qarşısında icra edilməyən
+öhdəliyinin hissəsi kompensasiya olunan pul vəsaitinin məbləğindən akseptsiz qaydada silinərək
+çıxılmaqla qalıq hissəsi üzrə ödənilir.
+8.13. Əmanətçi aşağıda göstərilən ünvanda və ya əlaqə telefonları və elektron poçt vasitəsi ilə Fondla əlaqə
+saxlıya bilər: AZ1014, Bakı şəhəri, Bül-Bül prospekti 40; əlaqə tel: (99412) 596 65 91, 596 65 92, 596 65
+93; Faks: (99412) 596 65 94; e-mail: adif@adif.az; sayt: www.adif.az
+9. Depozit seyfi
+9.1. ABB müvafiq Müqavilədə qeyd olunan ünvanda yerləşən xüsusi mühafizə sistemi ilə təchiz edilmiş fərdi
+bank seyflərinin saxlanıldığı sahədə həmin Müqavilədə göstərilmiş Depozit seyfini (bundan sonra - seyf
+adlandırılacaq) Müqavilədə göstərilmiş müddətdə Müştəriyə müvəqqəti istifadəyə (icarəyə) verir.
+9.2. Seyfin icarə müddətinin bitməsinin sonuncu gününədək Tərəflərin qarşılıqlı razılığı əsasında Seyfin
+icarəsi ilə bağlı yeni Müqavilə imzalanmadıqda və ya Müştəri tərəfindən seyf boşaldılaraq (açarlar və kart
+ilə birlikdə) ABB-ə təhvil verilmədikdə, Müqavilə üzrə Seyfin icarə müddəti 1 (bir) ay müddətinə uzadılır.
+9.3. İcarəyə verilən seyf iki fərqli qıfıl və iki fərqli açar ilə təmin olunur. Seyf yalnız hər iki açarın birlikdə
+istifadəsi nəticəsində açıla və bağlana bilər. ABB-nin müştəri xidməti strukturlarından asılı olaraq, Seyfin
+saxlanılma yerinə daxil olmaq və Seyfə çıxış əldə etmək üçün Müştəri əvvəlcədən ABB-də qeydiyyatdan
+keçirdiyi Ödəniş kartından, xüsusi plastik kartdan və özü tərəfindən daxil edilmiş ŞEN-koddan istifadə
+etməlidir.
+9.4. Müştəri seyfdən pul vəsaitlərinin, daş-qaş və digər zinət əşyalarının, sənədlərin, səhmlərin, qiymətli
+kağızların və s. qiymətlilərin və digər əşyaların (bundan sonra - Saxlama predmetləri adlandırılacaq)
+saxlanılması məqsədləri üçün istifadə edir.
+10. Depozit seyfi üzrə icarə haqqı
+10.1. Müştəri seyfin icarəsi üzrə ƏDV və digər məcburi ödənişlər daxil olmaqla müvafiq Müqavilədə göstərilən
+icarə haqqını həmin Müqavilənin bağlandığı gün əvvəlcədən ABB-ə tam həcmdə ödəyir.
+10.2. Seyfin icarə müddəti 9.2-ci bəndə müvafiq olaraq uzandıqda, həmçin həmin müddətin bitməsinədək
+Müştəri tərəfdən Standart Şərtlər və müvafiq Müqavilə üzrə öhdəliklər icra edilmədikdə, uzadılmış
+müddət, o cümlədən 18.7.5-ci yarımbəndə müvafiq olaraq seyfin ABB tərəfindən məcburi açılmasınadək
+keçən dövr üçün icarə haqqının məbləği ABB-nin həmin dövrdə qüvvədə olan Tarifləri ilə müəyyən
+olunur.
+10.3. Seyfin icarəsi üzrə icarə haqqı məbləğləri, eləcə də Standart Şərtlər və müvafiq Müqavilə üzrə Müştəri
+tərəfindən ödənilməli olan digər məbləğlər ABB tərəfindən akseptsiz qaydada Müştərinin ABB-dəkı
+bütün hesablarından tutula bilər.
+10.4. Seyfin icarəsi ilə bağlı müvafiq Müqaviləyə qanunvericilikdə, Standart Şərtlərdə və ya müvafiq
+Müqavilədə nəzərdə tutulmuş istənilən əsasla vaxtından əvvəl xitam verildiyi halda, ödənilmiş icarə haqqı
+ABB tərəfindən heç bir halda geri qaytarılmır.
+11. Müştərinin təsdiq və zəmanətləri
+11.1. Müştəri təsdiq edir və zəmanət verir ki:
+11.1.1. Saxlama predmetləri üzərində həbs və ya qadağa yoxdur, hər hansı öhdəliyin icrasının təminatı qismində
+çıxış etmir;
+11.1.2. Saxlama predmetlərinin cinayətkarlıq, terrorçuluğun maliyyələşdirilməsi və çirkli pulların yuyulması ilə
+hər hansı bağlılığı yoxdur;
+11.1.3. Seyfdə heç bir halda tez alovlanan, partlayıcı, radioaktiv, toksik, kimyəvi aktiv, zəhərli, kəskin qoxulu,
+narkotik, psixotrop və ABB-yə, onun əməkdaşlarının və üçüncü şəxslərin səhhətinə, ətraf mühitə zərər
+vura bilən digər maddələr, ərzaq malları və korlanmaya məruz qalan digər əşyalar, mülki dövriyyədən
+çıxarılmış əşyalar, silah, silah üçün ehtiyat və komplektləşdirici hissələrin, döyüş sursatı və saxlanmasını
+ABB-nin təmin edə bilmədiyi xüsusi şəraiti və/və ya səlahiyyətli dövlət orqanlarının xüsusi icazələrini
+tələb edən digər əşyalar və maddələr saxlanılmır
+12. Kredit
+ABB, Müştəriyə müvafiq Müqavilədə göstərilmiş məbləğdə, valyutada, müddətdə kreditdən istifadəyə
+görə illik faiz dərəcəsinin ödənilməsi və təyinatı üzrə istifadə şərti ilə kredit verməyi, Müştəri isə müvafiq
+Müqavilədə nəzərdə tutulmuş şərtlərlə və qaydada krediti qaytarmağı və ona hesablanmış faizləri ABB-ə
+ödəməyi öz üzərinə götürür.
+13. Müştərinin təsdiq və zəmanətləri
+13.1. Müştəri təsdiq edir və zəmanət verir ki:
+13.1.1. Müvafiq Müqavilə bağlandığı tarixdə və onun qüvvədə olduğu bütün müddət ərzində kreditin verilməsinə,
+istifadəsinə və qaytarılmasına mane olan hallar mövcud deyil və gələcəkdə belə hallar yaranarsa, onlar
+Müştəri tərəfindən aradan qaldırılacaqdır.
+13.1.2. Bu Standart Şərtlərin və müvafiq Müqavilənin bağlanması və icrası Müştərinin üçüncü şəxslərlə bağladığı
+və ya bağlayacağı digər müqavilələrin tələblərini pozmur;
+13.1.3. Kreditin təyinatı üzrə istifadəsi üçün qanunvericiliklə tələb olunduğu hallarda lisenziyaların və/və ya
+səlahiyyətli orqanlardan digər sənədlərin alınması Müştəri tərəfindən təmin ediləcəkdir;
+13.1.4. Müştəri tərəfindən təqdim edilən maliyyə və digər sənədlər tərtib olunduğu vaxtdan Müştərinin maliyyə
+vəziyyətini əhəmiyyətli dərəcədə pisləşdirən dəyişikliklər baş verməmişdir;
+13.1.5. Müştəriyə qarşı cinayət təqibi həyata keçirilmir, habelə buna səbəb ola biləcək hərəkət və hərəkətsizliyə
+Müştəri tərəfindən yol verilməmişdir;
+13.1.6. Özünün fəaliyyəti, iqtisadi-maliyyə imkanları və bu Standart Şərtlərdən və müvafiq Müqavilə(lər)dən irəli
+gələn öhdəliklərin vaxtında və lazımi qaydada icrasına təsir edə biləcək digər faktlar (dövlət büdcəsinə,
+digər hüquqi və fiziki şəxslərə olan borclar, kreditorlar qarşısında icra edilməmiş öhdəliklər və sair)
+haqqında təqdim etdiyi məlumatlar, sənədlər düzgündür və buna görə məsuliyyət daşıyır.
+13.1.7. ABB-nin təklif etdiyi kredit məhsullarından istifadə etmək məqsədi ilə ABB-yə müraciət etdiyi tarixdən
+sonrakı 3 (üç) iş günü ərzində digər kredit təşkilatlarına kredit əldə edilməsi üçün müraciət etməyəcəkdir.
+14. Kreditin qaytarılması, kreditin məbləğinə faizlərin hesablanması və ödənilməsi qaydası
+14.1. Müştəriyə kredit onun tərəfindən normativ xarakterli aktlarda və ABB-nin daxili qaydalarında nəzərdə
+tutullmuş sənədlərin ABB-yə təqdim edilməsindən sonra 10 (on) iş günü ərzində Müştərinin ABB-də
+açılmış müvafiq Müqavilədə göstərilmiş hesabına köçürülməklə verilir. Kredit məbləğinin Müştərinin
+hesabına mədaxil edildiyi gün kredit üzrə borcun verildiyi gün hesab olunur.
+14.2. Kreditin qaytarılması və faizlərin ödənilməsi üzrə ödənişlər əməliyyat gününün sonuna kimi həyata
+keçirilməlidir. Əməliyyat günü bitdikdən sonra ödəniş terminalı vasitəsilə və ya digər üsulla həyata
+keçirilən ödəniş növbəti iş günündən gec olmayaraq həyata keçirilən ödəniş hesab edilir. Ödəniş tarixi
+qeyri-iş gününə düşdükdə, ödəniş növbəti iş günündə həyata keçirilir. Bu bəndin məqsədləri üçün
+əməliyyat günü dedikdə ABB-nin daxili iş rejimi qaydalarına uyğun olaraq müəyyən edilən müddət
+nəzərdə tutulur.
+14.3. Faizlərin son ödənişi kreditin son ödənişi ilə eyni vaxtda həyata keçirilir.
+14.4. Müvafiq Müqavilə üzrə Müştəriyə verilən kreditin qaytarılması və ona hesablanmış faizlərin ödənilməsi
+müvafiq məbləğdə pul vəsaitlərinin Müştərinin ABB-dəki müvafiq cari hesabına nağd və ya köçürmə yolu
+ilə mədaxil edilməsi və ABB tərəfindən bu Standart Şərtlərin 14.5-ci bəndində göstərilən ardıcıllığa
+müvafiq olaraq silinməsi yolu ilə həyata keçirilir.
+14.5. Müştərinin xeyrinə həyata keçirilən ödəniş onun ABB qarşısında cari tarixə bu Standart Şərtlər
+çərçivəsində imzalanan müvafiq Müqavilə üzrə mövcud bütün borc öhdəliklərinin icrası üçün kifayət
+etmədikdə və ya artıq miqdarda ödənildikdə, müvafiq pul vəsaitləri Müştərinin ABB qarşısında müvafiq
+Müqavilə üzrə mövcud bütün borc öhdəliklərinin ödənilməsinə aşağıdakı ardıcıllıqla yönəldilir:
+14.5.1. birinci növbədə - məhkəmə və ya məhkəmədənkənar qaydada tələbin irəli sürülməsi və müvafiq Müqavilə
+üzrə Müştərinin öhdəliklərinin icrasına nail olmaq üçün ABB-nin xərcləri;
+14.5.2. ikinci növbədə - cərimə, penya;
+14.5.3. üçüncü növbədə - hesablanmış faizlər/komisyon haqqlar;
+14.5.4. dördüncü növbədə - əsas borc.
+Bu bənddə qeyd olunan ardıcıllıq ABB tərəfindən birtərəfli qaydada dəyişdirilə bilər. Müvafiq Müqavilə
+ilə bu Standart Şərtlərdən fərqli qaydada silinmə ardıcıllığı müəyyən edilə bilər.
+14.6. Kreditin qaytarılması və kreditdən istifadəyə görə hesablanmış faizlərin ödənilməsi kreditin verildiyi
+valyutada həyata keçirilir.
+14.7. Kreditdən istifadəyə görə faizlər kredit üzrə borcun yarandığı gündən başlamaqla onun tam qaytarıldığı
+(borcun verildiyi gün daxil, qaytarıldığı gün isə xaric olmaqla) günə qədər hesablanır. Bu zaman əsas kimi
+ayda 30 gün, ildə isə 360 gün götürülür. Faizlərin hesablanmasına münasibətdə ABB tərəfindən Standart
+Şərtlərə və müvafiq Müqaviləyə dəyişiklik edilmədən birtərəfli qaydada Müştəri üçün daha əlverişli
+şərtlər müəyyən edilə bilər.
+14.8. ABB aşağıdakı hallarda kreditin, həmçinin Müştəri ilə bağlanmış bütün kredit müqavilələri (kredit riski
+yaradan digər müqavilələr) üzrə borcların qalıq məbləğinin vaxtından əvvəl qaytarılmasını və qaytarılma
+anınadək hesablanmış faizlərin ödənilməsini Müştəridən tələb edə, həmçinin Kredit xəttinin məbləğini
+Müştərinin razılığı olmadan birtərəfli qaydada azalda, bloklaşdıra və (və ya) Kredit xəttini tamamilə ləğv
+edərək bu Müqaviləyə xitam verə bilər:
+14.8.1. Müştərinin əmlak vəziyyətinin əhəmiyyətli dərəcədə pisləşməsi (o cümlədən müqavilə bağlanılmazdan
+əvvəl baş vermiş və müqavilə bağlanılan anadək aradan qaldırılmamış pisləşmə ABB-yə sonradan məlum
+olduqda) və ya Müştərinin ABB-yə hər hansı yanlış məlumat verməsi səbəbindən borcun vaxtında
+qaytarılmayacağını güman etməyə əsaslar olduqda;; Müştərinin əmlak vəziyyətinin kreditin qaytarılması
+üçün təhlükə törədəcək həddə əhəmiyyətli dərəcədə pisləşməsi dedikdə aşağıdakılar nəzərdə tutulur:
+• Müştərinin iş yerinin itirilməsi;
+• Müştərinin əmək haqqının azaldılması;
+• Müştərinin əmlakı üzərinə həbs qoyulması;
+• Başqa kreditlərin götürülməsi nəticəsində borc yükünün artması;
+• Müştərinin kredit öhdəliyinin vaxtında icra edilməsinə maneə yaradan və Tərəflərin bu Standart
+şərtlərlə müəyyən etdiyi digər halların mövcud olması; Qeyd edilən hallara aşağıdakılar (lakin bununla
+məhdudlaşmayaraq) aiddir:
+a) Müvafiq Müqavilənin bağlanması zamanı Müştərinin fəaliyyəti, iqtisadi–maliyyə imkanları, bu
+Standart Şərtlər və müvafiq Müqavilə üzrə öhdəliyinin vaxtında və lazımi qaydada icrası üçün
+əhəmiyyətli olan digər faktlar (gəlirlər, ailə tərkibi, dövlət büdcəsinə, digər hüquqi və fiziki şəxslərə
+olan borclar, kreditorlar qarşısında icra edilməmiş mülki-hüquqi öhdəliklər, öhdəliyin təminatı üsulu
+və s.) haqqında ABB-yə təqdim edilmiş məlumatların, arayışların, müvafiq sənədlərin, o cümlədən bu
+Standart Şərtlərin 13.1-ci bəndində qeyd edilmiş təsdiq və zəmanətlərin hüquqi aktların və ABB-nin
+daxili qaydalarının tələblərinə zidd olduğunun, eləcə də düzgün və (və ya) həqiqətə uyğun olmadığının
+aşkar edilməsi, habelə bu yarımbənddə sadalananların lazımi qaydada və müddətdə təqdim
+edilməməsi;
+b) Müştərinin gəlirinin (pensiya, təqaüd, müavinət və digər sosial ödənişlər, habelə mükafat, qonorar,
+sahibkarlıq fəaliyyətindən əldə olunan gəlir və ya digər rəsmi gəlirlər) azalması;
+c) Müştərinin qumara qurşanması və ya kreditdən qumar/mərc oyunlarının ödənişləri üçün istifadə
+edilməsi;
+d) Müvafiq Müqavilə imzalandıqdan sonra digər şəxs(lər)in öhdəliyinin təminatı qismində Müştərinin
+özünün və ya əmlakının çıxış etməsi;
+e) Azərbaycan Respublikasının hüquqi aktlarına, habelə ABB-nin kredit risklərinin idarə edilməsi
+strategiyasına və siyasətinə əsasən müəyyən edilən ABB-nin daxili risk reytinqi üzrə Müştərinin
+risklilik dərəcəsinin ABB üçün əlverişli olmayan səviyyəyə çatması;
+f) Məcburi icra tədbirləri qismində gəlirlərindən və hesablarından ödənişlərin (aliment, cərimə,
+sağlamlığa zərər vurma və s.) tutulması barədə məhkəmə və digər orqanlar tərəfindən qərar qəbul
+edilməsi;
+g) Müştəri barəsində cinayət işinin başlanması və bu barədə ABB-yə məlumat daxil olması, Müştərinin
+inizbati və ya cinayət məsuliyyətinə cəlb edilməsi;
+h) Müştəri tərəfindən ABB-ni aldatmağa yönəlmiş hər hansı bir hərəkətin edildiyinin aşkar edilməsi,
+eləcə də kreditin təyinatı üzrə istifadə edilməsinin yoxlanılması, Müştərinin maliyyə vəziyyətinin
+təhlil edilməsi, krediti qaytarmaq qabiliyyətinin müəyyənləşdirilməsi məqsədilə ABB tərəfindən
+yoxlamaların (monitorinq) aparılmasına Müştərinin hər hansı bir şəkildə maneçilik törətməsi;
+i) Müştərinin hər hansı digər kreditor qarşısında mövcud öhdəlikləri, o cümlədən kommunal xidmətlər,
+mobil telefon ödənişləri üzrə gecikmələrinin yaranması, habelə vergi və dövlət büdcəsinə ödənilməli
+olan digər vəsaitlər üzrə öhdəliklərinin vaxtında icra edilməməsi;
+j) Müştərinin Azərbaycan Respublikasının hüquqi aktlarında nəzərdə tutulmuş qaydada müflis elan
+edilməsi yaxud onun barəsində iflas prosesinin başlanması;
+k) Üçüncü şəxslər tərəfindən Müştərinin bütün əmlakı, yaxud onun əhəmiyyətli bir hissəsi barəsində
+məhkəmə mübahisəsinin başlanması;
+l) Bu Standart Şərtlərin və müvafiq Müqavilənin digər şərtlərinin Müştəri tərəfindən yerinə
+yetirilməməsi.
+14.8.2. Müştəri ABB-yə kreditin təyinatı üzrə istifadə edilməsinə Müqavilədə nəzərdə tutulmuş qaydada nəzarət
+etməyə imkan vermədikdə və ya kredit Müştəri tərəfindən təyinatı üzrə istifadə edilmədikdə;
+14.8.3. Müştəri tərəfindən kredit üzrə əsas borcun qaytarılması və/və ya faizlərin ödənilməsi 90 (doxsan) gündən
+artıq müddətdə gecikdirildikdə və ya əsas borcun (faizlər və (və ya) haqlar daxil olmaqla) ödənilməsi
+müddətlərinin ardıcıl olaraq iki dəfə pozulduqda (90 (doxsan) gündən az olmamaqla);
+14.8.4. Müştəri borc öhdəliyinin icrasının təmin edilməsi üzrə vəzifəsini yerinə yetirmədikdə, ABB-nin cavabdeh
+olmadığı hallarla əlaqədar təminat itirildikdə (məhv olduqda, xitam verildikdə və s.) və yaxud dəyəri
+azaldıqda (o cümlədən, qarantın və ya zaminin əmlak vəziyyəti əhəmiyyətli dərəcədə pisləşdikdə) və bu
+hallarda borcun vaxtında qaytarılmayacağını güman etməyə əsaslar olduqda; bu yarımbənd Müqavilənin
+18.12.8-ci yarımbəndinin tələbləri yerinə yetirilmədikdə tətbiq olunur.
+14.9. ABB-nin bu Standart Şərtlərin 14.8-ci bəndində və müvafiq Müqavilədə göstərilən hüququndan istifadəsi
+zamanı həmin bənddə nəzərdə tutulmuş halların baş verməsi və ya mövcudluğu müəyyən edildikdən sonra
+ABB Müştəriyə kreditin vaxtından əvvəl qaytarılması və həmin bənddə müəyyən edilmiş müddətədək
+hesablanmış faizlərin ödənilməsi barədə yazılı bildiriş göndərir və Müştəri bu bildirişi aldığı tarixdən 10
+(on) təqvim günü müddətində tələb olunan məbləğləri ABB-ə ödəməlidir.
+15. Kredit xətti
+ABB, Müştəriyə müvafiq Müqavilədə göstərilmiş məbləğdə, valyutada, müddətdə kreditdən istifadəyə
+görə illik faiz dərəcəsinin ödənilməsi və təyinatı üzrə istifadə şərti ilə Bərpa olunan kredit xətti açmağı,
+Müştəri isə müvafiq Müqavilədə nəzərdə tutulmuş şərtlərlə və qaydada krediti qaytarmağı və ona
+hesablanmış faizləri ABB-ə ödəməyi öz üzərinə götürür.
+16. Kredit xətti üzrə kreditin qaytarılması, kreditin məbləğinə faizlərin hesablanması və
+ödənilməsi qaydası
+16.1. Kredit xətti Müştəri tərəfindən normativ xarakterli aktlarda və ABB-nin daxili qaydalarında nəzərdə
+tutulmuş sənədlərin ABB-yə təqdim edilməsindən və ABB-nin Tariflərində nəzərdə tutulduğu halda
+müvafiq xidmət haqqlarının və komisyon haqqların ödənilməsindən sonra 10 (on) iş günü ərzində ABB
+tərəfindən Müştərinin ABB-də açılmış və müvafiq Müqavilədə göstərilmiş kart hesabına köçürülməklə
+verilir. Kredit xətti üzrə məbləğin Müştərinin kart hesabına mədaxil edildiyi gün kredit xətti üzrə borcun
+verildiyi gün hesab olunur. Müştəri Kredit xətti üzrə kredit məbləğindən yalnız kredit kartı vasitəsilə
+ABB-nin ödəniş kartları ilə aparılan əməliyyatlar üzrə müəyyənləşdirdiyi limitlər çərçivəsində istifadə edə
+bilər. Bank kartından istifadə üzrə Tərəflər arasında münasibətlər bu Standart Şərtlərin və müvafiq
+Müqavilənin Kart hesabının açılması və Ödəniş kartından istifadə haqqında müddəaları ilə tənzimlənir.
+16.2. Kredit xətti üzrə əsas borcun ümumi məbləği müvafiq Müqavilə ilə müəyyən olunmuş kredit limitini aşa
+bilməz və müvafiq Müqavilədə başqa qayda nəzərdə tutulmadıqda, həmin Müqavilədə qeyd olunmuş Kart
+hesabı üzrə Müştəriyə Overdraft təqdim edilmir.
+16.3. Kredit xətti üzrə mövcud olan əsas borc müvafiq Müqavilədə göstərilən tarixdən gec olmayaraq Müştəri
+tərəfindən tam olaraq ABB-yə qaytarılır. Kredit xətti üzrə faktiki istifadə edilmiş kredit məbləğinə
+hesablanmış faizlər, Kredit xətti üzrə borcun yarandığı aydan başlamaqla, müvafiq Müqavilədə göstərilən
+tarixdə Müştəri tərəfindən ABB-yə ödənilir.
+16.4. Kredit xətti üzrə Müştərinin təsdiq və zəmanətləri, habelə bu bölmə üzrə digər məsələlər bu Standart
+Şərtlərin Kreditə aid müddəaları ilə tənzimlənir.
+16.5. Müştəri tərəfindən Kredit xətti üzrə kredit məbləğinin istifadə edilməsi tarixi müvafiq kredit kartı
+vasitəsilə müvafiq əməliyyatın faktiki aparılması tarixindən asılı olmayaraq həmin əməliyyat üzrə
+məlumatların ABB-nin avtomatlaşdırılmış əməliyyat sistemində işlənmə günü hesab edilir.
+17. Kredit/Kredit xətti üzrə xüsusi şərtlər
+17.1. Bu Standart Şərtlər və müvafiq Müqavilə çərçivəsində verilmiş kredit/Kredit xəttindən istifadəyə görə
+müəyyən edilmiş faiz dərəcəsi aşağıdakı hallarda ABB ilə Müştəri arasında qarşılıqlı razılıq əsasında
+artırıla bilər:
+17.1.1. Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilmiş bank faizinin uçot dərəcəsi
+artdıqda;
+17.1.2. ölkə üzrə inflyasiya səviyyəsi artdıqda və makroiqtisadi vəziyyət pisləşdikdə;
+17.1.3. beynəlxalq maliyyə bazarlarında maliyyə böhranı, habelə kredit resurslarının dəyərinin dəyişilməsinə təsir
+edən hər hansı bir faktor mövcud olduqda.
+17.2. ABB tərəfindən bu Standart Şərtlərin 17.1-ci bəndində göstərilmiş hallarda yeni faiz dərəcəsinin tətbiq
+edilməsi qərara alındıqda, yeni faizlərin tətbiqindən 15 (on beş) təqvim günü əvvəl ABB Müştəriyə bu
+barədə yazılı bildiriş göndərir və Tərəflər əlavə saziş bağlamaqla müvafiq Müqaviləyə müvafiq
+dəyişikliklər edirlər.
+18. Tərəflərin hüquq və öhdəlikləri
+18.1. ABB-nin hesab və Ödəniş kartı üzrə öhdəlikləri:
+18.1.1. Müştəri tərəfindən qanunvericiliyin və bankdaxili qaydaların, eləcə də bu Standart Şərtlərin tələbləri
+əsasında hesabın açılması üçün tələb olunan sənədlər, o cümlədən zəruri anketlər (doldurularaq) ABB-yə
+təqdim edildikdə müvafiq Müqavilə əsasında Müştərinin adına müvafiq valyutalarda Hesab açmaq;
+18.1.2. Müştəriyə aşağıdakı hesablaşma-kassa xidmətləri göstərmək:
+a) Müştərinin Hesablarına daxil olan pul vəsaitini qəbul etmək və müvafiq ödəniş sənədinin ABB-yə daxil
+olduğu günün ertəsi günündən gec olmayaraq Hesaba mədaxil etmək, bu şərtlə ki, Azərbaycan
+Respublikasının hüquqi aktlarında daha qısa müddət nəzərdə tutulmasın. Bu zaman daxil olan pul
+vəsaitlərinin valyutası Hesabın valyutasından fərqli olduqda, müvafiq vəsaitlər Müştəriyə məlumat
+verilmədən ABB-nin əməliyyatın icra edildiyi gün üçün müəyyən olunmuş məzənnəsinə və ya çarpaz
+məzənnəyə əsasən konvertasiya edilərək Hesaba mədaxil edilir;
+b) Hesabdan müvafiq məbləğlərin köçürülməsinə və verilməsinə dair Müştərinin sərəncamlarını müvafiq
+ödəniş sənədinin ABB-yə daxil olduğu gündən sonra 3 (üç) iş günündən (əlavə araşdırılma tələb olunduğu
+halda isə 10 (on) iş günündən) gec olmayaraq yerinə yetirmək, bu şərtlə ki, Azərbaycan Respublikasının
+hüquqi aktları ilə, bu aktlara uyğun qəbul edilmiş bankdaxili sənədlər ilə ayrı müddətlər nəzərdə
+tutulmasın; Bu zaman köçürülən pul vəsaitləri üzrə Hesabın valyutası köçürüləcək Bank hesabının
+valyutasından fərqli olduqda, müvafiq vəsaitlər Müştəriyə məlumat verilmədən ABB-nin əməliyyatın icra
+edildiyi gün üçün müəyyən olunmuş məzənnəsinə və ya çarpaz məzənnəyə əsasən konvertasiya edilərək
+köçürülür;
+c) Azərbaycan Respublikasının hüquqi aktlarında müəyyən edilmiş tələblər və məhdudiyyətlər nəzərə
+alınmaqla Müştərinin təqdim etdiyi ödəniş tapşırığı əsasında vəsait alanın xeyrinə ödənişləri dövri olaraq
+həyata keçirmək;
+d) Müştərinin müraciəti əsasında Hesabdan çıxarışları ona təqdim etmək.
+18.1.3. Müştəri tərəfindən Azərbaycan Respublikasının hüquqi aktlarına və bankdaxili qaydalara əsasən hesabın
+açılması üçün tələb olunan sənədlər, zəruri anketlər (doldurularaq) ABB-yə təqdim edildikdə sonuncuya
+müvafiq Müqavilə əsasında Kart hesabını açmaq və Müştəriyə Ödəniş kartının verilməsi barədə müsbət
+qərar qəbul edildikdə, Ödəniş kartının verilməsi haqqında müvafiq Müqavilənin imzalanması və ABB-
+nin Tariflərində nəzərdə tutulduğu halda müvafiq məbləğlərin Müştəri tərəfindən ödənilməsi anından 22
+(iyirmi iki) iş günü müddətində Ödəniş kartını və ŞEN-kodu (zərflə və ya elektron şəkildə) Müştəriyə
+(sonuncunun şəxsiyyətini təsdiq edən sənədin təqdim edilməsi şərtilə) vermək; Müvafiq hüquqi aktda
+nəzərdə tutulan qaydada müvafiq dövlət orqanlarının (qurumlarının) elektron informasiya sisteminə
+inteqrasiyası təmin oldunduğu halda Əlavə kartı alan şəxsin şəxsiyyətini təsdiq edən sənəd məlumatları
+kassa əməliyyatlarının aparılması üçün həmin sistem vasitəsilə əldə olunur.
+18.1.4. Ödəniş kartı vasitəsilə aparılan əməliyyatları Kart hesabında olan pul vəsaitləri həddində həyata keçirmək;
+18.1.5. Müştərinin müraciəti əsasında Kart hesabı üzrə pul vəsaitlərinin hərəkətinə dair çıxarışları 11 (on bir) iş
+günü müddətində sonuncuya təqdim etmək;
+18.1.6. Qanunvericilikdə nəzərdə tutulmuş qaydada Hesab, Kart hesabı və Ödəniş kartları vasitəsilə aparılan
+əməliyyatlara dair bank sirrini qorumaq;
+18.1.7. Ödəniş kartının / ŞEN-kodun itirildiyi, oğurlandığı, məhv olduğu, zədələndiyi, habelə fırıldaqçılıq (fraud)
+əməliyyatlarının baş verdiyi hallarda Müştərinin sifarişi əsasında ona yeni Ödəniş kartının verilməsi
+barədə müsbət qərar qəbul edildikdə, müvafiq Müqavilənin imzalanması və ABB-nin Tariflərində nəzərdə
+tutulduğu halda müvafiq məbləğlərin Müştəri tərəfindən ödənilməsi anından 22 (iyirmi iki) iş günü
+müddətində yeni Ödəniş kartının Müştəriyə verilməsini təmin etmək;
+18.1.8. Müştəridən daxil olmuş məlumat əsasında Ödəniş kartından/Əlavə kartdan istifadə edilməklə
+əməliyyatların həyata keçirilməsini dayandırmaq, habelə Ödəniş kartını/Əlavə kartı bloklaşdırmaq;
+18.1.9. Müvafiq Müqavilə hər hansı səbəbdən ləğv edildiyi halda, Kart hesabının qalığını Müştəriyə qaytarmaq;
+18.1.10. Müştərinin hesab(lar)ına daxil olan pul vəsaitlərinin toxunulmazlığını təmin etmək.
+18.2. ABB-nin əmanət üzrə öhdəlikləri:
+18.2.1. Müştərinin adına Hesab açmaq və əmanət üzrə qəbul edilmiş pul vəsaitini Hesaba daxil etmək;
+18.2.2. Əmanət məbləğini əmanətin müddəti qurtardıqdan sonra, habelə Müştərinin ilk tələbi ilə (əmanət
+məbləğinin ¼ (dörddə bir) hissəsini dərhal, qalan hissəsini isə 5 (beş) bank günündən gec olmayaraq)
+Müştəriyə qaytarmaq və ya göstərilən məbləğ barəsində Müştərinin digər sərəncamlarını yerinə yetirmək;
+Əmanət (onun hissəsi) Müştərinin və ya üçüncü şəxslərin ABB qarşısında kredit öhdəliklərinin icrasının
+girov təminatı qismində çıxış etdiyi halda, ABB tərəfindən əmanət məbləğinin (onun hissəsinin)
+qaytarılması öhdəliyinin icrası qaydası və müddətləri ilə bağlı müvafiq girov müqaviləsində fərqli
+qaydalar nəzərdə tutula bilər və bu zaman həmin qaydalar tətbiq ediləcəkdir.
+18.2.3. Əmanət üzrə faizləri müvafiq Müqavilədə nəzərdə tutulmuş miqdarda ödəmək;
+18.2.4. Əmanət və Hesab üzrə aparılan əməliyyatlara dair bank sirrini qorumaq.
+18.3. ABB-nin Depozit seyfi üzrə öhdəlikləri:
+18.3.1. Seyfi, açarları və xüsusi plastik kartı təyinatı üzrə istifadəyə yararlı və texniki cəhətdən saz vəziyyətdə
+Müştəri tərəfdən müvafiq Müqavilədə qeyd olunan icarə haqqı ödənildiyi gündə Müştəriyə təhvil vermək;
+18.3.2. Müştərinin seyfdən istifadəsini qanunvericilikdə, Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə
+tutulan hallar istisna olmaqla məhdudlaşdırmamaq;
+18.3.3. Seyfin saxlanılma yerinin mühafizəsini təmin etmək;
+18.3.4. Qanunvericiliklə nəzərdə tutulan hallar istisna olmaqla Müştəriyə aid məlumatları məxfi saxlamaq;
+18.3.5. ABB tərəfindən müəyyən edilmiş iş günləri və saatlarında Müştərinin və ya onun nümayəndəsinin Seyfə,
+eləcə də saxlama predmetləri ilə konfidensial qaydada işləməsi üçün xüsusi ayrılmış yerə buraxılmasını
+təmin etmək; Bu zaman Müştəri tərəfindən şəxsiyyətini təsdiq edən sənəd, seyfin açarları və xüsusi plastik
+kart, onun nümayəndəsi tərəfindən isə qeyd olunanlarla yanaşı qanunvericiliyə müvafiq olaraq tərtib
+edilmiş etibarnamə təqdim edilməlidir.
+18.3.6. Müştərinin və ya onun nümayəndəsinin seyfdən ABB əməkdaşının və/və ya hər hansı üçüncü şəxsin
+iştirakı olmadan şəxsən istifadə etməsini təmin etmək;
+18.3.7. Müştəriyə və ya onun nümayəndəsinə heç kimin iştirakı olmadan Saxlama predmetlərini seyfə qoymaq
+və seyfdən çıxarmaq imkanını təmin etmək;
+18.3.8. Müştəri və ya onun nümayəndəsi Seyfin açarının və/və ya xüsusi plastik kartın itirilməsi, zədələnməsi,
+məhv olması, oğurlanması, seyfin zədələnməsi və/və ya seyf kilidinin nasazlığı səbəbindən seyfin məcburi
+açılması tələbi ilə yazılı ərizə ilə müraciət etdikdə, seyfi Müştərinin və ya nümayəndəsinin iştirakı ilə
+məcburi açmaq.
+18.4. ABB-nin kredit/Kredit xətti üzrə öhdəlikləri:
+18.4.1. Kredit/Kredit xəttindən istifadəyə görə faizlərin hesablanmasının və tutulmasının düzgünlüyünə riayət
+etmək;
+18.4.2. Kreditin və kredit üzrə hesablanmış faizlərin uçotunu aparmaq;
+18.4.3. Müştəri müvafiq Müqavilə üzrə öhdəliklərini tam icra etdikdə Müştərinin tələbi ilə, sonuncu tərəfindən
+ABB-nin Tariflərində nəzərdə tutulmuş xidmət haqlarının (komisyon haqlar) ödənilməsi şərtilə, ona bu
+barədə müvafiq sənəd təqdim etmək.
+18.5. ABB-nin hesab və Ödəniş kartı üzrə hüquqları:
+18.5.1. Aparılmış əməliyyatlar üzrə xidmət haqqını Hesabdan ABB-nin Tarifləri əsasında akseptsiz qaydada
+(Müştərinin sərəncamı olmadan) silmək;
+18.5.2. Aşağıdakı hallarda Müştəriyə bu Standart Şərtlərdə və müvafiq Müqavilədə qeyd edilən xidmətləri
+göstərməkdən, Kartın (yenidən) buraxılmasından, təqdim edilməsindən, o cümlədən fəaliyyətinin bərpa
+edilməsindən, o cümlədən Müştərinin tapşırığı (sərəncamı) ilə və ya tapşırığı (sərəncamı) olmadan Hesab
+və Ödəniş kartı üzrə əməliyyatların aparılmasından imtina etmək, eləcə də qeyd olunan xidmətlərin və
+əməliyyatların icrasını gecikdirmək və ya təxirə salmaq:
+a) Hesabda kifayət qədər vəsait olmadıqda;
+b) Müştəri xidmət haqqının ödənilməsindən imtina etdikdə;
+c) Müştəri hesablaşma sənədlərinin tərtib edilməsi qaydalarını və onların ABB-ə təqdim edilməsi
+müddətlərini pozduqda;
+d) ABB-nin təqsiri olmadan texniki qüsurlar baş verdikdə;
+e) Üçüncü şəxslər, banklar (habelə, xarici banklar), o cümlədən də vasitəçi bank, müxbir bank, vəsait
+göndərənin/qəbul edənin bankı, kart təşkilatları, ödəniş sistemləri və ABB-nin əməkdaşlıq etdiyi digər
+maliyyə qurumlarından qaynaqlanan səbəblərdən (onların təqsirlərinin olub-olmamasından aslılı
+olmayaraq) dolayı əməliyyatın icrası və xidmətin göstərilməsi qeyri-mümkün olduqda;
+f) Azərbaycan Respublikası və (və ya) digər dövlətlərin səlahiyyətli orqanları, o cümlədən bank sektoru
+və maliyyə bazarlarında nəzarət və tənzimləyici funksiyaları həyata keçirən qurumlar, eləcə də kart
+təşkilatları, beynəlxalq təşkilatlar (qurumlar) və maliyyə qurumları, habelə ödəniş sistemləri tərəfindən
+əməliyyatın icrasını və xidmətin göstərilməsini mümkünsüz edən qərarlar qəbul edildikdə;
+g) Tərəflərin iradəsindən kənar baş verən digər hallar nəticəsində, eləcə də bu Standart Şərtlərin digər
+müddəalarında nəzərdə tutulmuş hallarda əməliyyatın aparılması, xidmətlərin göstərilməsi mümkün
+olmadıqda;
+18.5.3. Bu Standart Şərtlər və müvafiq Müqavilə üzrə göstərilən xidmətə görə Tariflərdə və aparılan
+əməliyyatların qaydalarında birtərəfli qaydada dəyişiklik etmək;
+18.5.4. Hesabın açılması üçün, zəruri olan sənədlərlə yanaşı, Müştərinin pul vəsaitlərinin qeyri-sağlam xarakterli
+əməliyyatlarda, o cümlədən çirkli pulların yuyulmasında və terrorizmin maliyyələşdirilməsində istifadə
+edilmədiyinə əmin olmaq məqsədilə qanunvericiliyə zidd olmayan sənədlərin təqdim edilməsini
+sonuncudan tələb etmək;
+18.5.5. Azərbaycan Respublikasının qanunları, tərəfdar çıxdığı beynəlxalq müqavilə və sazişlərdən irəli gələn,
+həmçinin zəruri hesab etdiyi digər hallarda Müştəridən onun pul axını, maliyyə mənbələri, özünün və imza
+hüququ olan şəxslərin eyniləşdirilməsinə dair, lakin bununla məhdudlaşmayan digər məlumatları tələb
+etmək;
+18.5.6. Azərbaycan Respublikasının mövcud qanunvericiliyində və normativ xarakterli aktlarda nəzərdə tutulmuş
+hallarda Müştərinin hesabını bağlamaq, hesab üzrə əməliyyatları dayandırmaq və ya vəsaitləri təyinatı
+üzrə silmək;
+18.5.7. Qanunvericilikdə və/və ya Standart Şərtlərdə müəyyən olunmuş əsaslar olduqda müvafiq Müqaviləni
+birtərəfli qaydada ləğv etmək;
+18.5.8. Müştərinin ABB, o cümlədən onun törəmə müəssisələri və əməkdaşlıq etdiyi şəxslər qarşısında, habelə
+məcburi ödənişlər və rüsumlarla bağlı dövlət qarşısında icra edilməmiş hər hansı öhdəliyi olduqda onun
+Hesabdakı, habelə Müştəriyə çatacaq bütün vəsaitlərdən pul vəsaitini akseptsiz qaydada (Müştərinin
+sərəncamı olmadan) silmək və/və ya həmin öhdəliklərin icrasını təmin etmək üçün müvafiq pul
+vəsaitlərini bloklaşdırmaq; Müştərinin müvafiq öhdəlikləri Hesabın valyutasından fərqli valyutada
+olduqda, Hesabdakı vəsaitlər Müştəriyə məlumat verilmədən ABB-nin həmin gün üçün müəyyən olunmuş
+məzənnəsinə və ya çarpaz məzənnəyə əsasən konvertasiya edilərək Hesabdan silinir.
+18.5.9. Müştəri Azərbaycan Respublikasının hüquqi aktları və bankdaxili qaydaların hesabın açılması üçün tələb
+olunan sənədləri, zəruri anketləri (dolduraraq) ABB-yə təqdim etmədikdə, lakin, bununla
+məhdudlaşmayaraq ABB-nin öz mülahizəsinə əsasən Kart hesabının açılmasından və Ödəniş
+kartının/Əlavə kartın (yenidən) buraxılmasından, təqdim edilməsindən, o cümlədən fəaliyyətinin bərpa
+edilməsindən səbəblərini göstərmədən imtina etmək;
+18.5.10. Müştərinin ABB, o cümlədən onun törəmə müəssisələri və əməkdaşlıq etdiyi şəxslər qarşısında, habelə
+məcburi ödənişlər və rüsumlarla bağlı dövlət qarşısında hər hansı öhdəliyi olduqda, Kart hesabından və
+Müştərinin ABB-dəki digər hesablarından Ödəniş kartından/Əlavə kartdan istifadə edilməklə aparılmış
+əməliyyatların məbləğlərini, Texniki overdraft üzrə borc məbləğlərini, ABB-nin Tariflərinə uyğun olaraq
+komisyon haqları Ödəniş kartından istifadə (eləcə də ABB-nin kartının ləğv edilməsi, bloklaşdırılması
+və.s) ilə bağlı ABB-nin çəkdiyi faktiki xərclərin məbləğlərini, Kart hesabından istifadə nəticəsində ABB-
+yə dəyən zərəri və bütün növ maliyyə itkilərini, sui-istifadə halları nəticəsində əldə edilmiş əlavə qazanc
+məbləğlərini (cashback, xallar, millər, bonuslar və s.) Müştərinin hesablarından, habelə ona çatacaq bütün
+vəsaitlərdən akseptsiz qaydada (Müştərinin sərəncamı olmadan) silmək və/və ya həmin öhdəliklərin
+icrasını təmin etmək üçün Kart hesabında/Hesabda olan, habelə ona çatacaq pul vəsaitlərini
+bloklaşdırmaq; Müştərinin müvafiq öhdəlikləri Kart hesabının valyutasından fərqli valyutada olduqda,
+Kart hesabındakı vəsaitlər Müştəriyə məlumat verilmədən ABB-nin həmin gün üçün müəyyən olunmuş
+məzənnəsinə və ya çarpaz məzənnəyə əsasən konvertasiya edilərək Kart hesabından silinir.
+18.5.11. Ödəniş kartından istifadə ilə bağlı ABB tərəfindən müəyyən olunmuş birdəfəlik və/və ya gündəlik
+əməliyyat limitlərini öz mülahizəsinə əsasən, habelə Müştərinin müraciəti əsasında Müştəriyə
+münasibətdə dəyişdirmək, ləğv etmək və ya bunlardan imtina etmək;
+18.5.12. Müştəri tərəfindən bu Standart Şərtlərin 5.13-cü bəndində nəzərdə tutulanlar da daxil olmaqla, bu Standart
+Şərtlər və müvafiq Müqavilə üzrə öhdəliklərin icrası pozulduqda, Qanunvericilikdə, Standart Şərtlərdə
+nəzərdə tutulmuş digər hallarda müvafiq Müqaviləni birtərəfli qaydada ləğv etmək, Ödəniş kartını/Əlavə
+kartları bloklaşdırmaq/ləğv etmək, Ödəniş kartını/Əlavə kartları və öhdəliklərin pozulması nəticəsində
+ABB-yə dəyən zərəri və bütün növ maliyyə itkilərini, habelə sui-istifadə halları nəticəsində əldə edilmiş
+əlavə qazanc məbləğlərini Müştəridən geri tələb etmək;
+18.5.13. ABB-nin Tariflərində (o cümlədən Ödəniş kartından istifadə ilə bağlı birdəfəlik və/və ya gündəlik
+limitlərdə) və Kart vasitəsilə aparılan əməliyyatların qaydalarında birtərəfli qaydada dəyişiklik etmək;
+18.5.14. Ödəniş kartı Müştəri tərəfindən götürülmədikdə, onun hazırlanmasından 60 (altmış) gün müddətində
+Ödəniş kartını ləğv etmək, Kart hesabını bağlamaq və müvafiq Müqaviləyə birtərəfli qaydada xitam
+vermək. Bu zaman tutulmuş komisyon haqlar Müştəriyə qaytarılmır.
+18.5.15. Müştəridən onun pul axını, maliyyə mənbələri, özünün və imza hüququ olan şəxslərin eyniləşdirilməsinə
+dair zəruri olan bütün sənədləri və məlumatları almaq;
+18.5.16. Kart hesabının açılması və Ödəniş kartının buraxılması üçün zəruri olan sənədlərlə yanaşı, Müştərinin pul
+vəsaitlərinin qeyri-sağlam xarakterli əməliyyatlarda, o cümlədən çirkli pulların yuyulmasında və
+terrorizmin maliyyələşdirilməsində istifadə edilmədiyinə əmin olmaq məqsədilə qanunvericiliyə zidd
+olmayan digər sənədlərin də təqdim edilməsini tələb etmək;
+18.5.17. Azərbaycan Respublikası mövcud qanunvericiliyində və normativ xarakterli aktlarda nəzərdə tutulmuş
+hallarda Kart hesabını bağlamaq, Ödəniş kartı üzrə əməliyyatları dayandırmaq və ya Kart hesabındakı
+vəsaitləri təyinatı üzrə silmək;
+18.5.18. Qeyri-rezidentlərə və ya alınması üçün müraciət olunan Ödəniş kartlarının/Əlavə kartların aid olduğu
+beynəlxalq kart təşkilatının tələblərinə uyğun olaraq verilməsinə məhdudiyyət qoyulan xarici ölkə
+vətəndaşlarına Ödəniş kartının/Əlavə kartın verilməsindən imtina etmək və zəruri olduğu hallarda
+risklərin sığortalanması üçün depozit məbləğinin ödənilməsini tələb etmək.
+18.5.19. Mövcud qanunvericiliyin tələblərinə uyğun rəsmiləşdirilmiş və ABB-yə təqdim edilmiş məhkəmə
+qərarları, inkasso sərəncamları və digər səlahiyyətli dövlət orqanlarının sərəncamlarını mübahisəsiz
+(Müştərinin sərəncamı olmadan) icra etmək;
+18.5.20. ABB, digər şəxslər tərəfindən, habelə istənilən formada/üsulla Hesaba/Kart hesabına səhv olaraq daxil
+edilmiş, köçürülmüş və ya silinmiş pul vəsaitini müvafiq araşdırma apararaq yanlış əməliyyatın və ya
+digər sui-istifadə halının nəticəsi olduğunu dəqiqləşdirdikdən sonra Müştəriyə xəbər vermədən akseptsiz
+qaydada silmək, geri köçürmək və ya bərpa etmək;
+18.5.21. Müştərinin təqdim etdiyi və ya digər mənbələrdən əldə edilən məlumatlar əsasında Hesabın/Kart
+hesabının Azərbaycan Respublikası ilə digər dövlətlər arasında bağlanmış ikitərəfli və ya çoxtərəfli
+beynəlxalq müqavilələrə və ya “Maliyyə hesabları barədə məlumatların avtomatik mübadiləsi haqqında
+səlahiyyətli orqanlar arasında Çoxtərəfli Razılaşma” (bundan sonra - Çoxtərəfli Razılaşma adlandırılacaq)
+çərçivəsində tətbiq edilən Ümumi Hesabatlılıq Standartına (Common Reporting Standard - CRS) uyğun
+olaraq müvafiq məlumatları səlahiyyətli dövlət orqanına vermək; Bununla Tərəflər razılaşırlar ki, ABB
+səlahiyyətli dövlət orqanına Müştəri haqqında şəxsi məlumatları və onun hesabları haqqında
+məlumatları/hesabatları qanunvericiliklə müəyyən olunan hallarda təqdim edə bilər və belə hesabatların
+göndərildiyi hallarda Müştəriyə heç bir əlavə bildirişin göndərilməsi və/və ya ondan hər hansı şəkildə
+razılıq alınması tələb olunmayacaqdır;
+18.5.22. Müştərinin hesabına səhvən, habelə istənilən formada/üsulla digər sui-istifadə halının nəticəsi olaraq
+mədaxil edilmiş pul vəsaitini müvafiq araşdırma apararaq yanlış əməliyyatın nəticəsi olduğunu
+dəqiqləşdirdikdən sonra akseptsiz qaydada silmək və/və ya geri qaytarmaq;
+18.5.23. Texniki overdraft baş verdiyi təqdirdə mövcud Kredit xəttinin müddəti çərçivəsində birtərəfli qaydada
+Texniki overdraft məbləği qədər Kredit xətti məbləğini artırmaq, Kredit xətti mövcud deyilsə, başlanılma
+(Texniki overdraftın yarandığı gün) və bitmə tarixləri arasında ən azı 1 (bir) gün müddət saxlanılmaqla
+birtərəfli qaydada Texniki overdraft məbləği qədər Kredit xətti təyin etmək;
+18.5.24. Müştərinin ABB, sığorta təşkilatları, o cümlədən onun törəmə müəssisələri və əməkdaşlıq etdiyi şəxslər
+qarşısında onların təqdim etdiyi bank və ya digər müvafiq məhsulların şərtlərindən irəli gələn öhdəliyi
+(sığorta müqaviləsi, digər xidmət müqaviləsi bağlamaq, müəyyən hərəkətləri etmək və ya etməmək və s.)
+mövcud olduqda, həmin öhdəliklərin ilkin olaraq icrasını təmin etmək üçün Kart hesabını/Hesabı
+bloklaşdırmaq və müvafiq hesablara istənilən mədaxil əməliyyatını məhdudlaşdırmaq;
+18.5.25. Qanunvericilikdə, bu Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş digər hüquqları həyata
+keçirmək.
+18.6. ABB-nin əmanət üzrə hüquqları:
+18.6.1. Müştərinin ABB, o cümlədən onun törəmə müəssisələri və əməkdaşlıq etdiyi şəxslər qarşısında, habelə
+məcburi ödənişlər və rüsumlarla bağlı dövlət qarşısında hər hansı öhdəliyi olduqda onun Hesabdakı,
+habelə ona çatacaq bütün pul vəsaitini akseptsiz qaydada (Müştərinin sərəncamı olmadan) silmək və/və
+ya həmin öhdəliklərin icrasını təmin etmək üçün Hesabda olan, habelə ona çatacaq pul vəsaitlərini
+bloklaşdırmaq; Müştərinin müvafiq öhdəlikləri Hesabın valyutasından fərqli valyutada olduqda,
+Hesabdakı vəsaitlər Müştəriyə məlumat verilmədən ABB-nin həmin gün üçün müəyyən olunmuş
+məzənnəsinə və ya çarpaz məzənnəyə əsasən konvertasiya edilərək Hesabdan silinir.
+18.6.2. Müştərinin və ya üçüncü şəxslərin öhdəliklərinin təminatı qismində çıxış edən əmanət məbləği Müştəri
+tərəfindən vaxtından əvvəl geri götürüldüyü təqdirdə, müvafiq öhdəlik üzrə mövcud borcun tam məbləğdə
+ödənilməsini əmanət məbləğindən müvafiq məbləği akseptsiz qaydada silməklə təmin etmək; Müştərinin
+müvafiq öhdəlikləri Hesabın valyutasından fərqli valyutada olduqda, Hesabdakı vəsaitlər Müştəriyə
+məlumat verilmədən ABB-nin həmin gün üçün müəyyən olunmuş məzənnəsinə və ya çarpaz məzənnəyə
+əsasən konvertasiya edilərək Hesabdan silinir.
+18.6.3. Əmanətin məbləğindən çirkli pulların yuyulması, terrorizmin maliyyələşdirilməsi və digər bu kimi
+məqsədlər üçün istifadə edilməsi müəyyən edildikdə, bununla bağlı şübhələr olduqda və ya belə şübhə
+üçün kifayət qədər əsaslar olduqda, Müştəri pul vəsaitlərinin mənbəyi və/və ya benefisiar mülkiyyətçisi
+barədə məlumatları ABB-ə təqdim etmədikdə, müvafiq Müqaviləyə birtərəfli qaydada xitam vermək,
+əmanət üzrə faizlərin ödənilməsini dayandırmaq, ödənilmiş faizləri Müştəridən sonuncunun razılığı
+olmadan tutmaq. Qanunvericiliklə və daxili qaydalarla tələb olunduğu hallarda bu barədə müvafiq
+orqanlara məlumat verilir.
+18.6.4. Qanunvericilikdə, bu Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş digər hüquqları həyata
+keçirmək.
+18.7. ABB-nin Depozit seyfi üzrə hüquqları:
+18.7.1. İcarə haqqının, eləcə də Standart Şərtlər, müvafiq Müqavilə və/və ya ABB-nin Tariflərində nəzərdə
+tutulmuş digər məbləğlərin ödənilməsini müvafiq məbləğdə pul vəsaitlərinin Müştərinin ABB-dəki bütün
+hesablarından akseptsiz qaydada silməklə təmin etmək;
+18.7.2. Müştərini xəbərdar etməklə müvafiq Müqavilədə qeyd olunan seyfin yerləşdiyi ünvanı birtərəfli qaydada
+dəyişdirmək;
+18.7.3. Seyfdə tez alovlanan, partlayıcı, radioaktiv, toksik, kimyəvi aktiv, zəhərli, kəskin qoxulu, narkotik və
+ABB-yə, onun əməkdaşlarının və üçüncü şəxslərin səhhətinə, ətraf mühitə zərər vura bilən digər maddələr,
+ərzaq malları və korlanmaya məruz qalan digər əşyalar, mülki dövriyyədən çıxarılmış əşyalar, silah, silah
+üçün ehtiyat və komplektləşdirici hissələrin, döyüş sursatı və saxlanması ABB-nin təmin edə bilmədiyi
+xüsusi şəraiti və/və ya səlahiyyətli dövlət orqanlarının xüsusi icazələrini tələb edən digər əşyaların və
+maddələrin saxlanması halını aşkar etdikdə və ya belə halların olması ilə bağlı əsaslı ehtimallar olduqda,
+seyfi Müştərinin iştirakı olmadan məcburi açmaq və müvafiq Müqaviləyə birtərəfli qaydada xitam
+vermək;
+18.7.4. Müştəri tərəfindən bu Standart Şərtlər və müvafiq Müqavilə üzrə ABB qarşısında yaranmış borcunun tam
+ödənilməsinə və Müqavilə ilə üzərinə götürdüyü digər öhdəliklərin tam icra edilməsinə qədər Müştərinin
+və ya onun nümayəndəsinin seyfə buraxılmasından və ya Saxlama predmetlərinin Müştəriyə və ya onun
+nümayəndəsinə qaytarılmasından imtina etmək;
+18.7.5. Bu Standart Şərtlərin 9.2-ci bəndində qeyd edilən 1 (bir) aylıq müddətin sonunadək Tərəflərin qarşılıqlı
+razılığı əsasında seyfin icarəsi ilə bağlı yeni müvafiq Müqavilə bağlanmadıqda və ya Müştəri tərəfindən
+seyf (açarlar və xüsusi plastik kart ilə birlikdə) ABB-yə təhvil verilmədikdə, seyfin boşaldılması və icarə
+haqqı üzrə yaranmış borcun ödənilməsi barədə yazılı bildirişin Müştəriyə göndərilməsindən 2 (iki) ay
+sonra sonuncunun iştirakı olmadan seyfi məcburi açmaq, Saxlama predmetlərini seyfdən çıxarmaq və
+saxlamağa götürmək, Ödəniş kartının qeydiyyatını ləğv etmək, seyfin açarlarını və kilidlərini dəyişmək;
+Bu zaman ABB-nin saxlancında olan Saxlama predmetlərinin zədələnməsinə, ilkin vəziyyətinin
+dəyişməsinə görə ABB məsuliyyət daşımır.
+18.7.6. Fors-major hallar (yanğın, daşqın, zəlzələ və s.), eləcə də insanların həyat və sağlamlığına, ABB-nin və
+digər şəxslərin əmlakının məhv olmasına təhlükə olduğunu göstərən digər hallar (seyfin içindəkilərin
+alovlanması, kəskin qoxunun əmələ gəlməsi və s.) yarandığı təqdirdə, həmçinin Standart Şərtlərdə və
+qüvvədə olan qanunvericiliklə nəzərdə tutulmuş digər hallarda seyfi Müştərinin iştirakı olmadan məcburi
+açmaq.
+18.7.7. Bu Standart Şərtlərin 18.7.3-cü, 18.7.5-ci və 18.7.6-cı yarımbəndlərində nəzərdə tutulduğu hallarda ABB
+tərəfindən Depozit seyfi məcburi açıldıqda və Saxlama predmeti saxlamaya götürüldükdə ABB-in
+Tariflərində nəzərdə tutulmuş qaydada və məbləğdə Müştəridən müvafiq xidmət haqqını tutmaq;
+18.7.8. Qanunvericilikdə, bu Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş digər hüquqları həyata
+keçirmək.
+18.8. ABB-nin kredit/Kredit xətti üzrə hüquqları:
+18.8.1. Müştəriyə 1 (bir) təqvim günü əvvəlcədən məlumat verməklə özünün müəyyən etdiyi dövriliklə kreditin
+məqsədli təyinatına uyğun istifadə edilməsinə nəzarəti həyata keçirmək və bunu Müştəridən tələb etmək;
+18.8.2. Kredit üzrə ödəniş müddəti çatmış əsas borcun qaytarılmasını, faizlərin, eləcə də dəbbə pulunun
+ödənilməsini müvafiq məbləğdə pul vəsaitlərinin Müştərinin ABB-dəki bütün Bank hesablarından, habelə
+ona çatacaq bütün vəsaitlərdən akseptsiz qaydada silməklə təmin etmək;
+18.8.3. Kredit üzrə əsas borcun qaytarılmasını, faizlərin, eləcə də dəbbə pulunun ödənilməsini təmin etmək üçün
+müvafiq məbləğdə pul vəsaitlərini Müştərinin ABB-dəki bütün Bank hesablarında bloklaşdırmaq;
+18.8.4. Müştərinin razılığı olmadan bu Standart Şərtlərdən və müvafiq Müqavilədən irəli gələn tələb hüququnu
+istənilən vaxt üçüncü şəxslərə güzəşt etmək;
+18.8.5. Bu Standart Şərtlərin 14.8-ci bəndində qeyd olunmuş hallarda kreditin vaxtından əvvəl qaytarılmasını və
+həmin bənddə müəyyən edilmiş müddətədək hesablanmış faizlərin ödənilməsini Müştəridən tələb etmək,
+bu tələb sonuncu tərəfindən 14.9-cu bənddə müəyyən olunmuş müddətdə yerinə yetirilmədikdə isə
+müvafiq Müqavilə üzrə öhdəliklərin icrasının təminatı qismində çıxış edən təminat predmetinə tutma
+yönəltmək;
+18.8.6. Müştərinin əmlak vəziyyətinin əhəmiyyətli dərəcədə pisləşməsi və ya Müştərinin ABB-yə hər hansı yanlış
+məlumat verməsi səbəbindən borcun vaxtında qaytarılmayacağı açıq-aşkar bəlli olduqda, yaxud Müştəri
+kreditin verilməsi üçün Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş öhdəliyini icra
+etmədikdə, o cümlədən ABB-nin tələbi ilə təminat təqdim etmədikdə, müvafiq Müqavilə imzalandıqdan
+sonra, lakin kredit məbləği müvafiq hesaba köçürülənədək kredit məbləğinin köçürülməsindən və (və ya)
+köçürüldükdən sonra da kreditin Müştəriyə verilməsi öhdəliyinin icrasından tam və ya qismən birtərəfli
+qaydada imtina etmək;
+18.8.7. Kredit vəsaiti hesabına Müştərinin digər kredit üzrə qalıq borcunun ödənilməsi nəzərdə tutulduqda, kredit
+üzrə vəsaiti və ya onun bir hissəsini müvafiq Müqavilədə qeyd edilmiş hesabdan və ya Müştərinin digər
+hesabına mədaxil edərək həmin hesabdan sonuncunun sərəncamı olmadan akseptsiz qaydada silmək;
+18.8.8. Kredit xəttinə bağlı olan Ödəniş kartı ləğv edildiyi təqdirdə Kredit xəttinə xitam vermək;
+18.8.9. Qanunvericilikdə, bu Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş digər hüquqları həyata
+keçirmək.
+18.9. Müştərinin hesab və Ödəniş kartı üzrə öhdəlikləri:
+18.9.1. Azərbaycan Respublikasının hüquqi aktlarına, ABB-daxili qaydalara, eləcə də Azərbaycan Respublikası
+ilə digər dövlətlər arasında bağlanmış ikitərəfli və ya çoxtərəfli beynəlxalq müqavilələrə yaxud Çoxtərəfli
+Razılaşmaya müvafiq olaraq Hesabın/Kart hesabının açılması üçün tələb olunan sənədləri, eləcə də zəruri
+anketləri (dolduraraq) ABB-ə təqdim etmək;
+18.9.2. Hesabda saxlanılan pul vəsaitlərindən Azərbaycan Respublikasının mövcud qanunvericiliyinə uyğun
+istifadə etmək;
+18.9.3. Bu Standart Şərtlər və müvafiq Müqavilə üzrə ABB-nin göstərdiyi xidmətlərə görə xidmət haqqlarını
+ABB-nin Tariflərinə uyğun və vaxtında ödəmək; Standart Şərtlər çərçivəsində müvafiq Müqaviləni
+imzalamaqla Müştəri ABB-nin mövcud Tarifləri ilə tanış olduğunu və onları qəbul etdiyini təsdiq edir.
+18.9.4. ABB, habelə digər şəxslər tərəfindən Hesaba/Kart hesabına səhv mədaxil olunmuş pul vəsaitlərini ABB-
+nin müvafiq tələbini aldıqdan sonra 1 (bir) iş günündən gec olmayaraq geri qaytarmaq;
+18.9.5. Bu Standart Şərtlərin 18.5.4-cü, 18.5.5-ci, 18.5.16-cı və 18.9.17-ci yarımbəndlərində qeyd edilmiş
+sənədləri və məlumatları ABB-nin tələb etdiyi gündən etibarən 1 (bir) iş günü müddətində ABB-yə təqdim
+etmək;
+18.9.6. Adı, soyadı, atasının adı, vətəndaşlığı, ünvanı və digər əlaqə vasitələri dəyişdikdə, müvafiq dəyişikliklərlə
+bağlı zəruri məlumatları 5 (beş) iş günü ərzində ABB-yə təqdim etmək;
+18.9.7. ABB, o cümlədən onun törəmə müəssisələri və əməkdaşlıq etdiyi şəxslər qarşısında üzərinə götürdüyü
+borc öhdəlikləri üzrə, o cümlədən əsas məbləğlər, faizlər, ABB tərəfindən tətbiq edilən cərimə (dəbbə)
+sanksiyaları və digər pul öhdəlikləri üzrə pul vəsaitlərini, eləcə də ABB-nin Tariflərinə əsasən Hesab
+vasitəsilə aparılan əməliyyatlar üzrə xidmət haqqını, o cümlədən Bu Standart Şərtlərin 18.9.14-18.9.15-ci
+yarımbəndlərində qeyd olunmuş məbləğləri akseptsiz qaydada (Müştərinin sərəncamı olmadan)
+Hesabdan/Kart hesabından, habelə Müştəriyə çatacaq vəsaitdən silmək və/və ya həmin öhdəliklərin
+icrasını təmin etmək üçün hesabda olan pul vəsaitlərini bloklaşdırmaq hüququnu ABB-yə vermək;
+Müştərinin bu yarımbənddə nəzərdə tutulmuş təsdiqi nağdsız hesablaşmaların aparılması üçün ödəniş
+sənədi hesab edilir və ABB tərəfindən icra olunur.
+18.9.8. Standart Şərtlər çərçivəsində müvafiq Müqavilə ləğv edildiyi halda, istifadə edilməmiş çeklərlərlə birlikdə
+çek kitabçasını ABB-yə qaytarmaq;
+18.9.9. Hesabda olan pul vəsaitindən hər hansı qeyri-qanuni məqsəd, o cümlədən çirkli pulların yuyulması (qeyri-
+qanuni yolla əldə edilmiş gəlirlərin leqallaşdırılması) və terrorizmin maliyyələşdirilməsi üçün istifadə
+etməyəcəyinə təminat vermək və buna görə məsuliyyət daşımaq;
+18.9.10. Standart Şərtlər çərçivəsində müvafiq Müqavilə imzalandığı tarixdən sonra, Müştərinin ABB-yə təqdim
+etdiyi anketlərdə, formalarda və ya digər sənədlərdə qeyd edilmiş faktiki\hüquqi vəziyyətin\məlumatların
+(soyadı, adı, ata adı, ünvanı, eləcə də Standart Şərtlərin 28.9-cu bəndində göstərilən məlumatlar istisna
+olmaqla) digər şəkildə dəyişməsi və ya həqiqətə uyğun olmaması aşkar olunduğu təqdirdə, bu barədə
+ABB-yə 30 (otuz) iş günü ərzində yazılı formada məlumat vermək;
+18.9.11. Ödəniş kartı vasitəsilə əməliyyatları Azərbaycan Respublikasının mövcud qanunvericiliyinə və
+beynəlxalq ödəniş sistemləri tərəfindən qəbul edilən qaydalara uyğun aparmaq;
+18.9.12. Ödəniş kartını digər şəxslərə verməmək, ŞEN-kodu, ABB tərəfindən verilən müştəri eyniləşdirmə
+nömrəsini (CIF) gizli saxlamaq;
+18.9.13. Ödəniş kartı üzrə əməliyyatları, müvafiq əməliyyata görə komisyon haqları da nəzərə almaqla, Kart
+hesabındakı pul vəsaitləri həddində həyata keçirmək; müvafiq Müqavilədə ayrı qayda nəzərdə
+tutulmayıbsa, Müştəriyə Kart hesabı üzrə Overdraft təqdim edilmir.
+18.9.14. Ödəniş kartından istifadə üzrə xidmət haqqını və ABB-nin Tariflərində nəzərdə tutulmuş halda digər
+məbləğləri (sığorta depoziti və s.), Ödəniş kartı vasitəsilə apardığı əməliyyatların məbləğlərini, ABB-nin
+Tariflərinə uyğun olaraq komisyon haqları və cərimə faizlərini, eləcə də Ödəniş kartından istifadə ilə bağlı
+ABB-nin çəkdiyi digər xərclərin əvəzini, Kart hesabından istifadə nəticəsində ABB-ə dəyən zərəri və
+bütün növ maliyyə itkilərini, sui-istifadə halları nəticəsində əldə edilmiş əlavə qazanc məbləğlərini ABB-
+ə ödəmək;
+18.9.15. Texniki overdraft baş verdiyi təqdirdə mövcud Kredit xəttinin müddəti çərçivəsində ABB tərəfindən
+birtərəfli qaydada Texniki overdraft məbləği qədər Kredit xətti məbləğinin artırılmasına, Kredit xətti
+mövcud deyilsə, başlanılma (Texniki overdraftın yarandığı gün) və bitmə tarixləri arasında ən azı 1 (bir)
+gün müddət saxlanılmaqla ABB tərəfindən birtərəfli qaydada Texniki overdraft məbləği qədər Kredit xətti
+təyin edilməsinə Azərbaycan Respublikasının Mülki Məcəlləsinin 356-cı maddəsinin tələbləri nəzərə
+alınmaqla qabaqcadan razılıq vermək və bu razılığı heç bir halda ləğv etməmək;
+18.9.16. Ödəniş kartının qorunub saxlanmasını təmin etmək və onun yararsız hala düşməsinə yol verməmək;
+18.9.17. Ödəniş kartı vasitəsilə aparılmış əməliyyatlar üzrə sənədləri özündə saxlamaq və hər hansı bir əməliyyatı
+mübahisələndirdiyi halda müvafiq əməliyyata dair sənədləri ABB-yə təqdim etmək və əməliyyatın
+mübahisələndirilməsi ilə bağlı ABB-nin Tariflərində nəzərdə tutulan xidmət haqlarını ödəmək;
+18.9.18. Kart/Əlavə kart/ŞEN-kod itirildikdə, oğurlandıqda, məhv olduqda, səlahiyyəti olmayan şəxs tərəfindən
+qanunsuz istifadə edildikdə, zədələndikdə, habelə fırıldaqçılıq (fraud) əməliyyatları baş verdikdə, o
+cümlədən Ödəniş kartı vasitəsilə (o cümlədən internet vasitəsilə) əməliyyatların aparılması zamanı Ödəniş
+kartının rekvizitlərinin üçüncü şəxslərə açıqlanması şübhələri yarandıqda Ödəniş kartının bloklaşdırılması
+üçün dərhal ABB-nin müştəri xidmətinin telefon nömrəsi və ya “Azərikard” prosessinq mərkəzinin
+Ödəniş kartının arxasında göstərilən telefon nömrəsi vasitəsilə müvafiq olaraq ABB-ni və ya “Azərikard”
+prosessinq mərkəzini xəbardar etmək və kartın bloklanılması barədə xidmət göstərən məsul işçinin
+təsdiqini almaq; Bu hallarda Müştərinin ABB tərəfindən eyniləşdirilməsi üçün zəruri olan bütün
+məlumatlar ABB əməkdaşına bildirilməlidir. ABB mobile – Mobil Bank və ABB banking - İnternet Bank
+xidmətlərinin istifadəçiləri həmin xidmətlərdən istifadə etməklə də Ödəniş kartını bloklaşdıra bilərlər.
+18.9.19. Kart hesabında olan pul vəsaitindən hər hansı qeyri-qanuni məqsəd, o cümlədən çirkli pulların yuyulması
+(qeyri-qanuni yolla əldə edilmiş gəlirlərin leqallaşdırılması) və terrorizmin maliyyələşdirilməsi üçün
+istifadə etməyəcəyinə təminat vermək və buna görə məsuliyyət daşımaq;
+18.9.20. Əlavə kartın istifadəçisini bu Standart Şərtlər və müvafiq Müqavilənin tələbləri ilə tanış etmək;
+18.9.21. Hesab üzrə sərəncam vermək səlahiyyətinin digər şəxsə həvalə edilməsinə dair etibarnaməni ləğv etdikdə
+bununla bağlı dərhal ABB-ni xəbərdar etmək;
+18.9.22. Hər hansı səbəbdən Ödəniş kartı ABB-ə məxsus bankomatda qaldıqda və ya ABB-ə məxsus bankomat
+vasitəsilə əməliyyat aparılan zaman pul vəsaitini ağlabatan vaxt ərzində həmin bankomatdan məxaric
+etmək mümkün olmadıqda dərhal bu barədə ABB-ə məlumat vermək, ABB əməkdaşının tövsiyələrini
+almadan bankomatın yanından ayrılmamaq və müvafiq tövsiyələrə əməl etmək; Müştəri bu bəndin
+tələblərinə riayət etmədikdə, eləcə də Ödəniş kartı ABB-ə məxsus olmayan bankomatda qaldıqda və ya
+pul vəsaitini ağlabatan vaxt ərzində həmin bankomatdan məxaric etmək mümkün olmadığı üçün
+Müştəriyə dəymiş zərərə və bütün növ maliyyə itkilərinə görə ABB məsuliyyət daşımır.
+18.9.23. Beynəlxalq Kart Təşkilatları tərəfindən qəbul edilmiş “məsuliyyətin ötürülməsi qaydası”nın (liability shift
+rule) tətbiq olunub-olunmamasından asılı olmayaraq, Kart/Əlavə kartın istifadəsi və həmin kartlar
+vasitəsilə aparılan istənilən əməliyyata görə tam məsuliyyət daşımaq, habelə kartların istifadəsi
+nəticəsində ABB-yə və digər üçüncü şəxslərə dəyən zərərin və bütün növ maliyyə itkilərinin əvəzinin tam
+həcmdə ödənilməsini həyata keçirmək;
+18.9.24. Bu Standart Şərtlər və qanunvericiliyin tələbləri nəzərə alınmaqla, Beynəlxalq Kart Təşkilatları tərəfindən
+qəbul edilən qaydalara əməl etmək.
+18.10. Müştərinin əmanət üzrə öhdəlikləri:
+18.10.1. Soyadı, adı, ata adı, ünvanı və digər əlaqə vasitələri dəyişdikdə, müvafiq dəyişikliklərlə bağlı zəruri
+məlumatları 5 (beş) iş günü ərzində ABB-yə təqdim etmək;
+18.10.2. Əmanət barədə sərəncam vermək səlahiyyətinin digər şəxsə həvalə edilməsinə dair etibarnaməni ləğv
+etdikdə bununla bağlı dərhal ABB-ni xəbərdar etmək.
+18.11. Müştərinin Depozit seyfi üzrə öhdəlikləri:
+18.11.1. Seyfin icarəsi üzrə icarə haqqını müvafiq Müqaviləni imzaladığı gündə ödəmək;
+18.11.2. Seyfin icarə müddəti bu Standart Şərtlərin 9.2-ci bəndinə müvafiq olaraq uzadıldıqda, uzadılmış müddət
+üçün icarə haqqını ABB-nin Tariflərinə uyğun olaraq müvafiq Müqavilədə göstərilmiş müddətin bitdiyi
+tarixdən sonrakı iş günündə ödəmək;
+18.11.3. Standart Şərtlərin 9.2-ci bəndində qeyd olunmuş müddətin bitməsinədək 18.11.9-cu yarımbənddə
+göstərilən öhdəliklər icra edilmədikdə, 18.7.5-ci yarımbəndə müvafiq olaraq seyfin ABB tərəfindən
+məcburi açılmasınadək keçən dövr üçün hesablanmış icarə haqqını ABB-nin Tariflərinə müvafiq olaraq
+ödəmək;
+18.11.4. Seyfin açarlarını aldıqdan sonra həmin açarlarla seyfin açılıb-bağlanmasını və seyfin saz vəziyyətdə
+olmasını yoxlamaq və bundan sonra seyfi qəbul etmək;
+18.11.5. Seyfdən bu Standart Şərtlərdə göstərilmiş məqsədlər üçün istifadə etmək;
+18.11.6. Seyfdən istifadə zamanı ABB-yə ziyan vuran hərəkətlərə yol verməmək və seyfin istifadəyə yararlı
+vəziyyətdə saxlanılmasını təmin etmək;
+18.11.7. Seyfin açarlarını ciddi mühafizə etmək və onları (o cümlədən dublikatlarını), Ödəniş kartını, xüsusi plastik
+kartı və ŞEN-kodu heç kəsə verməmək;
+18.11.8. İcarə müddəti bitdikdə və ya müvafiq Müqaviləyə vaxtından əvvəl xitam verildikdə seyfi Saxlama
+predmetlərindən boşaltmaq və açarları, habelə xüsusi plastik kartı ilə birlikdə istifadəyə yararlı və texniki
+saz vəziyyətdə ABB-yə təhvil vermək;
+18.11.9. Müvafiq Müqavilənin qüvvədə olduğu müddət ərzində özünün və ya nümayəndəsinin təqsiri üzündən
+seyfin və ya seyf kilidinin zədələndiyi, korlandığı və/və ya seyfin açarlarının (o cümlədən Ödəniş kartının
+və xüsusi plastik kartın) zədələndiyi, məhv olduğu və ya itirildiyi halda, bu barədə dərhal seyfin nömrəsi
+göstərilməklə ABB-ni yazılı şəkildə xəbərdar etmək;
+18.11.10. Özünün və ya nümayəndəsinin təqsiri üzündən seyfin zədələndiyi, korlandığı və/və ya seyfin açarlarının
+və/və ya xüsusi plastik kartın zədələndiyi, məhv olduğu və ya itirildiyi halda, ABB-nin Tariflərində
+nəzərdə tutulmuş cəriməni, seyfin məcburi açılmasına (həyata keçirildiyi halda), seyfin və/və ya seyf
+kilidinin dəyişdirilməsinə və ya təmirinə görə, eləcə də yeni açarın və/və ya xüsusi plastik kartın
+hazırlanmasına görə ABB-nin çəkdiyi xərclərin əvəzini ödəmək;
+18.11.11. ABB-nin Tariflərinə müvafiq olaraq Standart Şərtlər və müvafiq Müqavilə üzrə öhdəliklərin icrasının
+gecikdirilməsinə görə cəriməni və seyfdən çıxarılmış Saxlama predmetlərinin ABB tərəfindən saxlanca
+götürülməsinə görə xidmət haqqını ABB-yə ödəmək.
+18.12. Müştərinin kredit/Kredit xətti üzrə öhdəlikləri:
+18.12.1. Kreditdən müvafiq Müqavilədə göstərilən məqsədli təyinatına uyğun istifadə etmək; Müştəri kreditdən
+hər hansı qeyri-qanuni məqsəd, o cümlədən çirkli pulların yuyulması (qeyri-qanuni yolla əldə edilmiş
+gəlirin leqallaşdırılması) və terrorizmin maliyyələşdirilməsi üçün istifadə etməyəcəyinə təminat verir və
+buna görə məsuliyyət daşıyır;
+18.12.2. Kreditin qaytarılması və ondan istifadəyə görə faizlərin ödənilməsi üzrə öhdəliklərini bu Standart
+Şərtlərdə və müvafiq Müqavilədə müəyyən olunmuş qaydada və müddətlərdə icra etmək; Faizlərin
+ödənilməsi və əsas borcun qaytarılması üzrə Müştərinin öhdəlikləri müvafiq məbləğdə pul vəsaitlərinin
+Müştərinin cari hesabına daxil edilməsi üçün ABB-nin kassasına mədaxil olunduqdan və ya müxbir
+hesabına daxil edildikdən sonra icra edilmiş hesab edilir.
+18.12.3. ABB tərəfindən tələb edildiyi halda, kreditin verildiyi tarixdən etibarən 30 (otuz) təqvim günündən gec
+olmayaraq kreditin öz təyinatına uyğun istifadə edilməsini təsdiq edən müvafiq sənədi ABB-ə təqdim
+etmək;
+18.12.4. Özündən asılı olmayan səbəblərə görə kreditdən onun verildiyi tarixdən 30 (otuz) təqvim günü
+müddətində məqsədli təyinatına uyğun istifadə edə bilmədiyi təqdirdə dərhal bu barədə ABB-ni xəbərdar
+etmək və ABB tərəfindən tələb edildiyi halda, aldığı krediti qaytarıldığı günədək hesablanmış faizlərlə
+birlikdə sonuncuya qaytarmaq;
+18.12.5. Standart Şərtlərdən və müvafiq Müqavilədən irəli gələn öhdəliklərin vaxtında və lazımi qaydada icra
+edilməməsinə və ya pozulmasına görə müvafiq Müqavilədə müəyyən olunmuş dəbbə pulunun (cərimə,
+penya) ABB-yə ödənilməsini təmin etmək;
+18.12.6. Kredit üzrə ödəniş müddəti çatmış əsas borcun qaytarılmasını, faizlərin, eləcə də dəbbə pulunun
+ödənilməsini təmin etmək üçün müvafiq məbləğdə pul vəsaitlərinin özünün ABB-dəki hesablarından,
+habelə ona çatacaq bütün vəsaitlərdən akseptsiz qaydada silmək və/və ya həmin öhdəliklərin icrasını təmin
+etmək üçün müvafiq pul vəsaitlərini bloklaşdırmaq hüququnu ABB-yə vermək; Müştərinin bu
+yarımbənddə nəzərdə tutulmuş təsdiqi nağdsız hesablaşmaların aparılması üçün ödəniş sənədi hesab edilir
+və ABB tərəfindən icra olunur.
+18.12.7. Müvafiq Müqavilə üzrə kreditin verilməsi məqsədi ilə hüquqi aktların və ABB-nin daxili qaydalarının
+tələblərinə uyğun müvafiq sənədləri sonuncuya təqdim etmək; Kreditin alınması üçün ABB-yə təqdim
+etdiyi sənədlərdə və/və ya məlumatlarda hər hansı bir dəyişiklik baş verdikdə, həmin dəyişikliyin baş
+verməsindən sonrakı 5 (beş) iş günü ərzində bu barədə ABB-ni yazılı surətdə xəbərdar etmək;
+18.12.8. Müvafiq Müqavilənin qüvvədə olduğu müddət ərzində həmin Müqavilədə qeyd olunan təminat
+müqaviləsinə hər hansı əsasla xitam verilərsə, ABB tərəfindən tələb irəli sürüldükdən sonra 2 (iki) ay
+müddətində ABB-nin tələblərinə cavab verən anoloji təminat müqaviləsinin bağlanmasını təmin etmək;
+18.12.9. Kreditin verilməsinə və rəsmiləşdirilməsinə görə Standart Şərtlərdə, müvafiq Müqavilədə və/və ya ABB-
+nin Tariflərində nəzərdə tutulduğu halda müvafiq xidmət haqlarını və komisyon haqlarıödəmək;
+18.12.10. Soyadı, adı, ata adı, ünvanı və digər əlaqə vasitələri dəyişdikdə, müvafiq dəyişikliklərlə bağlı zəruri
+məlumatları 5 (beş) iş günü ərzində ABB-yə təqdim etmək.
+18.13. Müştərinin hesab və Ödəniş kartı üzrə hüquqları:
+18.13.1. ABB-ə təqdim etdiyi sərəncam əsasında pul vəsaitinin qəbul edilməsini və Hesaba mədaxil edilməsini,
+Hesabdan müvafiq məbləğlərin köçürülməsini və verilməsini, Hesab üzrə digər əməliyyatların
+aparılmasını ABB-dən tələb etmək;
+18.13.2. ABB-dən Hesabın/Kart hesabının vəziyyəti barədə hesabdan çıxarış və ya arayış almaq;
+18.13.3. Ödəniş kartından bankomat, POS-terminallar və digər elektron qurğulardan nağd pulun çıxarılması üçün
+və nağdsız ödənişlərin aparılması üçün istifadə etmək;
+18.13.4. Ödəniş kartı/Əlavə kart/ŞEN-kod itirildikdə, oğurlandıqda, məhv olduqda, səlahiyyəti olmayan şəxs
+tərəfindən qanunsuz istifadə edildikdə, zədələndikdə, habelə fırıldaqçılıq (fraud) əməliyyatları baş
+verdikdə, o cümlədən Ödəniş kartı vasitəsilə (o cümlədən internet vasitəsilə) əməliyyatların aparılması
+zamanı Ödəniş kartının rekvizitlərinin üçüncü şəxslərə açıqlanması şübhələri yarandıqda Ödəniş kartının
+bloklaşdırılması üçün 18.9.18-ci yarımbənddə nəzərdə tutulmuş qaydada ABB-yə məlumat verərək yeni
+Ödəniş kartının verilməsinə dair ərizə ilə ABB-yə müraciət etmək;
+18.13.5. Ödəniş kartından istifadə edilməsi qaydalarına dair ABB-dən məsləhətlər almaq;
+18.13.6. Ödəniş kartı vasitəsi ilə aparılmış əməliyyatlara görə pul vəsaitlərinin Kart hesabından silinməsindən 45
+(qırx beş) gün müddətində istənilən əməliyyatı mübahisələndirmək; Əməliyyat həmin müddətdə
+mübahisələndirilmədikdə silinmənin düzgünlüyü Müştəri tərəfindən təsdiqlənmiş hesab edilir.
+18.13.7. Öz mülahizəsinə əsasən seçdiyi yaxın qohumlarının (ata, ana, baba, nənə, ər, arvad, övlad, bacı, qardaş)
+adına Əlavə kartın buraxılması ilə bağlı ABB-yə ərizə ilə müraciət etmək; ABB tərəfindən Əlavə kartın
+verilməsi barədə müsbət qərar qəbul edildikdə, Əlavə kart 22 (iyirmi iki) iş günü ərzində müvafiq ərizədə
+göstərilmiş şəxsə və ya Əlavə kartın bağlı olduğu Kart hesabının sahibinə, Əlavə kartı alan şəxs tərəfindən
+şəxsiyyətini təsdiq edən sənədin təqdim edilməsi şərtilə təqdim edilir. Müvafiq hüquqi aktda nəzərdə
+tutulan qaydada müvafiq dövlət orqanlarının (qurumlarının) elektron informasiya sisteminə inteqrasiyası
+təmin oldunduğu halda Əlavə kartı alan şəxsin şəxsiyyətini təsdiq edən sənəd məlumatları kassa
+əməliyyatlarının aparılması üçün həmin sistem vasitəsilə əldə olunur. Əlavə kart vasitəsilə aparılmış bütün
+əməliyyatlar, o cümlədən həmin əməliyyatlar üzrə komisyon haqlar üzrə bütün silinmələr Ödəniş kartı
+üzrə Kart hesabından həyata keçirilir. Əlavə kart vasitəsilə aparılmış bütün əməliyyatlara görə məsuliyyəti
+Müştəri daşıyır. Ödəniş kartı üzrə eyni vaxtda qüvvədə olan Əlavə kartların sayına ABB tərəfindən
+məhdudiyyət qoyula bilər.
+18.13.8. Ödəniş kartı/Əlavə kart avtomatik olaraq bloklaşdırıldıqda ABB-nin müştəri xidmətinin nömrəsinə və ya
+“Azərikard” prosessinq mərkəzinin Ödəniş kartının arxasında göstərilən telefon nömrəsinə zəng etməklə
+və əvvəlcədən ABB-yə təqdim etdiyi məxfi kodu bildirməklə Ödəniş kartını blokdan çıxarmaq və Kart
+hesabı üzrə əməliyyatların aparılmasını bərpa etmək;
+18.13.9. ABB-nin bu barədə 30 (otuz) gün əvvəlcədən yazılı şəkildə xəbərdar edilməsi, ABB qarşısında bu Standart
+Şərtlərdən və müvafiq Müqavilədən irəli gələn bütün öhdəliklərin icra edilməsi və ABB tərəfindən tələb
+irəli sürüldükdə Ödəniş kartının və bütün Əlavə kartların ABB-yə qaytarılması şərtilə müvafiq Müqaviləni
+birtərəfli qaydada ləğv etmək.
+18.14. Müştərinin əmanət üzrə hüquqları:
+18.14.1. Azərbaycan Respublikasının qanunvericiliyinin, bu Standart Şərtlərin və müvafiq Müqavilənin tələbləri
+nəzərə alınmaqla əmanət barədə sərəncam vermək;
+18.14.2. Bu Standart Şərtlərin tələbləri nəzərə alınmaqla müvafiq Müqavilədə nəzərdə tutulmuş şərtlərlə və
+qaydada əmanət məbləğini və həmin məbləğ üzrə hesablanmış faizləri almaq.
+18.15. Müştərinin Depozit seyfi üzrə hüquqları:
+18.15.1. Müvafiq Müqavilədə qeyd olunmuş icarə haqqını ödədikdən sonra, istifadəyə yararlı vəziyyətdə seyfin
+ona təhvil verilməsini ABB-dən tələb etmək;
+18.15.2. Seyfdən bu Standart Şərtlərdə və ya müvafiq Müqavilədə qeyd olunmuş məqsədlər üçün və istifadə
+qaydalarına müvafiq olaraq istifadə etmək;
+18.15.3. Seyfdən istifadə hüququnu Azərbaycan Respublikası qanunvericiliyinə uyğun olaraq təsdiq edilmiş
+etibarnamə əsasında üçüncü şəxsə vermək; Bu zaman seyflərin saxlandığı sahəyə buraxılış hüququ olan
+ABB-nin əməkdaşları Müştərinin etibarnamə əsasında nümayəndəsi qismində çıxış edə bilməz.
+18.15.4. Seyfin saxlanılma yerinə daxil olmaq və Seyfə çıxış əldə etmək üçün Müştərinin əvvəlcədən ABB-də
+qeydiyyatdan keçirdiyi Ödəniş kartının və ŞEN-kodun qeydiyyatının dəyişdirilməsi ilə bağlı ABB-yə
+yazılı şəkildə müraciət etmək;
+18.15.5. Müvafiq Müqavilənin qüvvədə olduğu müddət ərzində Standart Şərtlər və müvafiq Müqavilə üzrə
+borcunun olmadığı təqdirdə Müqaviləyə birtərəfli qaydada xitam vermək və seyfi boşaldaraq açarla
+birlikdə texniki saz vəziyyətdə ABB-ə təhvil vermək.
+18.16. Müştərinin kredit/Kredit xətti üzrə hüquqları:
+18.16.1. Standart Şərtlər və müvafiq Müqavilə üzrə öhdəliklərini tam icra etdikdə, sonuncu tərəfindən ABB-nin
+Tariflərində nəzərdə tutulmuş xidmət haqlarının (komisyon haqların) ödənilməsi şərtilə, bu barədə
+müvafiq sənədin ona verilməsini ABB-dən tələb etmək;
+18.16.2. Kredit məbləği ona verilənədək kredit alınmasından tam və ya qismən birtərəfli qaydada imtina etmək;
+18.16.3. Müvafiq Müqavilə üzrə kredit vəsaiti ona verildiyi gündən 30 (otuz) təqvim günü müddətində heç bir
+səbəb göstərmədən müvafiq Müqavilədən imtina etmək; Bu halda, Müştəri müvafiq Müqavilə üzrə
+verilmiş kredit vəsaitini və həmin kredit vəsaitinin verildiyi gündən qaytarıldığı günədək hesablanan
+faizləri ödəməlidir. ABB tərəfindən ödənilən dövlət rüsumu və xidmət haqlarının məbləği istisna olmaqla,
+Müştəridən kompensasiya və hər hansı digər ödənişlərin alınması yolverilməzdir.
+18.16.4. Krediti istənilən vaxt xəbərdarlıq etmədən qismən və yaxud tam şəkildə vaxtından əvvəl qaytarmaq; Bu
+halda, kreditin qalıq müddətinə görə hesablanmış faizlər və (və ya) digər haqlar vaxtından əvvəl ödənilmiş
+məbləğə mütənasib olaraq azaldılır və Müştəri tərəfindən kreditdən faktiki istifadə olunduğu müddət üçün
+hesablanmış faizlər və (və ya) digər haqlar kredit məbləği ilə birlikdə ABB-yə ödənilir.
+18.16.5. Öz kredit borcları haqqında məlumatların alınması və onun haqqında toplanan məlumatlarda qeyri-
+dəqiqliyin aradan qaldırılması üçün yazılı formada, kredit tarixçəsi subyektlərinin məlumatlarının
+toplandığı qanunvericiliklə nəzərdə tutulmuş müvafiq mənbələrə, bürolara müraciət etmək;
+18.16.6. Müvafiq Müqavilənin qüvvədə olduğu müddətdə ABB-yə verdiyi sorğu əsasında təqvim ili ərzində 2 (iki)
+dəfə ödənişsiz olaraq kağız daşıyıcıda, digər davamlı daşıyıcıda isə istənilən zaman ödənişsiz olaraq
+Kreditin qalığı barədə hesabdan çıxarışı Kreditin ödəniş qrafiki şəklində əldə etmək.
+19. Hesab üzrə göstərilən əlavə xidmətlər
+19.1. “Məlumat mərkəzi” xidməti:
+19.1.1. ABB Müştəriyə “Məlumat mərkəzi” xidmətini göstərir. “Məlumat mərkəzi” xidməti dedikdə Telefonla
+ABB-yə zəng edərək müraciəti əsasında ona verilmiş “Məlumat kodu”-nu telefonun klaviaturasında yığan
+və özünü təqdim edən Müştəriyə hesabdakı pul vəsaitinin miqdarı və hesab üzrə aparılmış əməliyyatlar
+barədə məlumat verilməsi başa düşülür.
+19.1.2. Müştəri “Məlumat kodu”-nu mühafizə etməlidir. ABB “Məlumat kodu”-nun ABB-nin təqsiri olamayan
+hallarda üçüncü şəxslərin əlinə keçməsinə görə məsuliyyət daşımır.
+19.2. “SMS/E-mail məlumatlandırma” xidməti:
+19.2.1. Müştəri bu Standart Şərtlər çərçivəsində imzalanan müvafiq Müqavilələrin qüvvədə olduğu müddətdə
+ABB-yə ərizə təqdim etməklə “SMS/E-mail məlumatlandırma” xidmətinə qoşula bilər.
+19.2.2. Müştəri “Cari hesab üzrə SMS-Məlumatlandırma” xidmətinə qoşulduqda Hesab üzrə aparılmış əməliyyat
+barədə mobil telefon nömrəsinə SMS şəklində məlumat (bildiriş), “E-mail-Məlumatlandırma” xidmətinə
+qoşulduqda isə aparılan əməliyyatlara dair Bank hesabından çıxarış elektron poçt ünvanına göndərilir.
+19.2.3. Aparılmış müvafiq əməliyyatlara dair məlumat Müştəriyə aşağıdakı qaydada və müddətlərdə göndərilir:
+19.2.3.1. SMS vasitəsilə: əməliyyatın aparıldığı gün (Müştərinin seçimindən asılı olaraq, hesab üzrə yalnız mədaxil
+əməliyyatları və ya məxaric əməliyyatları yaxud hər iki əməliyyat növü üzrə bildirişlər göndərilə bilər);
+19.2.3.2. E-mail vasitəsilə: Müştərinin seçiminə uyğun olaraq, əməliyyatın aparıldığı gündən sonrakı iş günü,
+həftədə bir dəfə və ya ayda bir dəfə.
+19.2.4. Müştəri “E-mail-Məlumatlandırma” xidmətinin istifadəsi üçün işlək elektron poçt ünvanına, “SMS-
+Məlumatlandırma” xidmətinin istifadəsi üçün isə işlək mobil telefon nömrəsinə malik olmalı və ABB-yə
+təqdim etməlidir.
+19.2.5. Müştəri ona təqdim olunan xüsusi kodu və özünün müəyyən etdiyi kod sözü kənar şəxslərə açıqlamamağı,
+həmçinin elektron poçt qutusunu və mobil telefonunu kənar şəxslərin müdaxiləsindən qorumağı öhdəsinə
+götürür, buna görə məsuliyyət daşıyır.
+19.2.6. Müştəri elektron poçt ünvanını və ya mobil telefonun nömrəsini dəyişdikdə, onun kompüteri və ya mobil
+telefonu və ya mobil telefonunun SİM-kartı itirildikdə, həmçinin öz elektron poçt qutusuna kənar şəxslərin
+müdaxiləsini aşkar etdikdə dərhal bu barədə ABB-ə rəsmi olaraq müraciət etməlidir.
+19.2.7. Müştəri müvafiq xidmətlərə qoşulmaya dair ABB-ə təqdim etdiyi ərizədə müvafiq məlumatların
+dəqiqliyinə və düzgünlüyünə görə məsuliyyət daşıyır.
+19.2.8. Müştəri ABB-dən asılı olmayan səbəblərdən irəli gələn bütün riskləri öz üzərinə götürür. ABB, ondan
+asılı olmayan səbəblərə görə (üçüncü şəxslərin avadanlığında, şəbəkələrində və əlaqə xətlərində qəzalar
+və başqa nasazlıqlar və s.) müvafiq məlumatların Müştəriyə göndərilməsində gecikmələrə, habelə bu kimi
+hallarda məlumatların bütövlüyünə və məxfiliyinə görə məsuliyyət daşımır və Müştəri ABB-dən asılı
+olmayan səbəblərdən irəli gələn bütün riskləri öz üzərinə götürür.
+19.2.9. “SMS/E-mail məlumatlandırma” xidmətlərinə görə Müştəridən ABB-nin Tariflərinə uyğun xidmət haqqı
+tutulur.
+19.3. “ABB mobile – Mobil Bank” və “ABB banking - İnternet Bank” xidmətləri:
+19.3.1. Müştərinin müraciəti əsasında və ABB-nin rəsmi internet səhifəsində (www.abb-bank.az) yerləşdirilmiş
+“ABB mobile - Mobil Bank” və “ABB banking - İnternet Bank” xidmətlərdən istifadə qaydaları ilə tanış
+olmaqla Müştəri “ABB mobile - Mobil Bank” və “ABB banking - İnternet Bank” xidmətlərinə qoşula
+bilər.
+19.3.2. Müştərinin Şəxsi imzasının başqa analoqundan istifadə edilməklə “ABB mobile - Mobil Bank” və “ABB
+banking - İnternet Bank” vasitəsilə əməliyyatların aparılması və sənədlərin imzalanması zamanı ABB-nin
+təqsiri olmadan yarana biləcək bütün risklərə görə məsuliyyət Müştərinin üzərinə düşür və ABB buna
+görə məsuliyyət daşımır.
+19.3.3. Müştəri tərəfindən proqram təminatının düzgün quraşdırılmamasından əmələ gələn problemlərə görə,
+eləcə də İnternet şəbəkəsində yaranmış problemlər səbəbindən Mobil Bankın əlavəsinin, mobil cihazın və
+ya İnternet Bankçılıq proqramının müvafiq qaydada işləməməsinə görə, Müştəri tərəfindən məlumatların
+ötürülməsi və qəbulu zamanı yaranan problemlərə görə ABB məsuliyyət daşımır.
+19.3.4. Müştəri İnternet Bankçılıq sistemi vasitəsilə həyata keçirilən elektron əməliyyatların mövcud
+qanunvericiliyə uyğun tərtib edilməsinə, onların buraxılış məlumatlarını istifadə etməklə təsdiq
+edilməsinə, habelə Müştəri tərəfindən İnternet Bankçılıq sisteminə daxil edilən məlumatların
+dürüstlüyünə və tamlığına görə məsuliyyət daşıyır, bununla bağlı yarana biləcək bütün risklərə və
+Müştəriyə dəymiş zərərə, eləcə də bütün növ maliyyə itkilərinə görə görə məsuliyyəti tam olaraq Müştəri
+daşıyır.
+19.3.5. Bank “ABB mobile - Mobil Bank” və “ABB banking - İnternet Bank” xidmətlərinə dair birtərəfli qaydada
+dəyişiklər edə bilər və bununla bağlı yenilənmiş qaydalar ABB-nin internet səhifəsində (www.abb-
+bank.az) yerləşdirildiyi gün Müştəri tərəfindən onların qəbul edildiyi gün sayılır.
+20. Tərəflərin məsuliyyəti
+20.1. Tərəflər bu Standart Şərtlərdə, habelə onun çərçivəsində imzalanan müvafiq Müqavilələrdə nəzərdə
+tutulmuş öhdəliklərin lazımınca yerinə yetirilməməsinə görə Azərbaycan Respublikasının qüvvədə olan
+qanunvericiliyi ilə məsuliyyət daşıyırlar.
+20.2. ABB, müvafiq hüquqi aktlara və ABB-nin daxili sənədlərinə uyğun tərtib olunmamış ödəniş sənədlərinin
+icrasına və ya ödəniş sənədlərində düzgün göstərilməyən məlumatlara görə məsuliyyət daşımır.
+20.3. ABB, hüquqi aktlarda nəzərdə tutulan hallarda Hesabdakı pul vəsaiti üzərinə həbs qoyulduğu və ya
+hesablar üzrə əməliyyatların dayandırıldığı hallarda ödəniş sənədlərinin icrasına görə məsuliyyət daşımır.
+20.4. Müştəri tərəfindən ABB-yə təqdim edilən məlumatlar (telefon nömrəsi, email adresi və s.) əsasında
+Müqavilə(lər)in üçüncü şəxs(lər) tərəfindən qanunsuz olaraq bağlanmasına görə ABB məsuliyyət daşımır.
+20.5. Müştəri Azərbaycan Respublikasının hüquqi aktlarının, habelə vergi və maliyyə məlumatlarının
+mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin
+tələblərinin tam və ya qismən yerinə yetirməməsi nəticəsində ABB-yə tətbiq edilə biləcək maliyyə
+sanksiyaları və ya digər şəkildə dəyəcək zərərin, eləcə də bütün növ maliyyə itkilərinin əvəzinin tam
+ödənilməsinə məsuliyyət daşıyır.
+20.6. Beynəlxalq Kart Təşkilatları tərəfindən qəbul edilmiş “məsuliyyətin ötürülməsi qaydası”nın (liability shift
+rule) tətbiq olunub-olunmamasından asılı olmayaraq, internet vasitəsilə Kartdan istifadə etməklə
+aparılmış, həmçinin ölkə xaricində aparılmış bütün əməliyyatlar üzrə, habelə Kartdan istifadə zamanı
+təhlükəsizlik qaydalarına əməl edilməməsinə görə (Kartı üçüncü şəxslərə verməmək, ŞEN-kodu gizli
+saxlamaq, beynəlxalq ödəniş sistemlərinin müəyyən etdiyi təhlükəsizlik kodunu (3D Secure code) digər
+şəxslərlə paylaşmamaq və s.) ABB məsuliyyət daşımır. Bu bənddə nəzərdə tutulan əməliyyatlar
+nəticəsində Müştəri özünə, ABB-ə və digər üçüncü şəxslərə dəymiş zərər, eləcə də bütün növ maliyyə
+itkiləri və müvafiq zərərin aradan qaldırılmasına sərf olunmuş xərclər (xidmət haqları, komisyon haqlar
+və s.) həcmində tam məsuliyyət daşıyır.
+20.7. Əlavə kartlarla aparılmış bütün əməliyyatlar üzrə məsuliyyəti tam şəkildə Müştəri özü daşıyır.
+20.8. ABB-yə məxsus olmayan bankomat və ya POS-terminal şəbəkəsində, eləcə də elektron platformalar
+üzərindən skimminq və ya şimminq yolu ilə hazırlanmış saxta kartlarla həyata keçirilən əməliyyatlara
+görə və belə əməliyyatların nəticəsində Müştəriyə vurulmuş ziyana görə ABB məsuliyyət daşımır;
+20.9. Bu Standart Şərtlərin və müvafiq Müqavilənin şərtlərinin pozulmasında təqsirli olan Tərəf digər Tərəfə
+vurduğu zərəri və bütün növ maliyyə itkilərini tam həcmdə ödəməlidir.
+20.10. ABB seyfdə saxlanılan Saxlama predmetlərinin mexaniki zədələnməsinə və ya məhv olmasına, onların
+xassələrinin dəyişməsinə görə, bu hallar Saxlama predmetlərinin öz-özünə törəyən təsiri nəticəsində və ya
+fors-major halları nəticəsində baş vermişsə, məsuliyyətdən azad olunur.
+20.11. Seyfin açarlarının (dublikatlarının), Ödəniş kartının, xüsusi plastik kartın və ŞEN-kodun digər şəxslərə
+verilməsinə görə məsuliyyəti tam şəkildə Müştəri özü daşıyır.
+20.12. Müştəri və ya onun nümayəndəsi seyfi açmazdan əvvəl seyfin və/və ya seyf kilidinin zədələnməsi və nasaz
+olması barədə yazılı şəkildə ABB-ni xəbərdar etmədiyi və seyfin məcburi açılması haqqında tələb irəli
+sürmədiyi halda ABB məsuliyyətdən azad olunur.
+20.13. Müştəri tərəfindən kredit üzrə əsas borcun tam məbləğinin və ya onun bir hissəsinin qaytarılması
+müddətləri pozulduqda, ABB tərəfindən Müştəriyə gecikdirmənin hər günü üçün gecikdirilmiş əsas borc
+məbləğinə müvafiq Müqavilədə müəyyən edilmiş qaydada və miqdarda cərimə hesablana bilər.
+20.14. Qanunvericilikdə, Standart Şərtlərdə və müvafiq Müqavilədə nəzərdə tutulmuş hallarda ABB kreditin
+vaxtından əvvəl qaytarılmasını tələb etdikdə və Müştəri Standart Şərtlərin 14.9-cu bəndində müəyyən
+olunmuş müddətdə krediti vaxtından əvvəl qaytarmadıqda, həmin müddətin bitdiyi andan kredit üzrə cari
+tarixə mövcud olan əsas borc məbləği gecikdirilmiş əsas borc kateqoriyasına aid edilir və həmin məbləğə
+bu Standart Şərtlərin 20.13-cü bəndində nəzərdə tutulmuş qaydada hesablana bilər.
+20.15. Standart Şərtlər çərçivəsində imzalanan müvafiq Müqavilədə nəzərdə tutulmuş dəbbə pulunun (cərimə,
+penya) ödənilməsi Müştərini müvafiq öhdəliklərin icrasından azad etmir.
+20.16. Bu Standart Şərtlər və müvafiq Müqavilə üzrə verilmiş kreditin valyutasının mübadilə məzənnəsinin
+Müştəri üçün əlverişsiz dəyişməsi nəticəsində yarana biləcək maliyyə itkisi riski Müştərinin üzərinə düşür.
+Bu cür halın baş verməsi, Müştərinin kredit öhdəliyinin icrasından imtina etməsinə və ya bu öhdəliyin
+icrasını gecikdirməsinə haqq qazandırmır və heç bir halda Müştərinin kredit öhdəliklərinin yenidən
+hesablanmasına səbəb ola bilməz.
+20.17. Bu Standart Şərtlərin 18.5.2-ci yarımbəndində göstərilən hallarda ABB tərəfindən bu Standart Şərtlərdə
+və müvafiq Müqavilədə qeyd edilən xidmətlərin göstərilməsindən, o cümlədən Hesab və Ödəniş kartı
+üzrə əməliyyatların aparılmasından imtina edilməsi, eləcə də qeyd olunan xidmətlərin və əməliyyatların
+icrasının gecikdirdirilməsi və ya təxirə salınması nəticəsində Müştəriyə dəymiş (dəyəcək) zərərə və bütün
+növ maliyyə itkilərinə görə ABB məsuliyyət daşımır.
+20.18. Azərbaycan Respublikası və (və ya) digər dövlətlərin səlahiyyətli orqanları, o cümlədən bank sektoru və
+maliyyə bazarlarında nəzarət və tənzimləyici funksiyaları həyata keçirən qurumlar, eləcə də kart
+təşkilatları, beynəlxalq təşkilatlar (qurumlar) və ödəniş sistemləri, habelə banklar (xarici banklar daxil
+olmaqla), o cümlədən də vasitəçi bank, müxbir bank, vəsait göndərənin/qəbul edənin bankı və ABB-nin
+əməkdaşlıq etdiyi digər maliyyə qurumları tərəfindən qəbul edilən qərarlar, tətbiq edilən məhdudiyyətlər
+nəticəsində Müştəriyə dəymiş (dəyəcək) zərərə və bütün növ maliyyə itkilərinə görə ABB məsuliyyət
+daşımır.
+20.19. Üçüncü şəxslər, banklar (habelə, xarici banklar), o cümlədən də vasitəçi bank, müxbir bank, vəsait
+göndərənin/qəbul edənin bankı, kart təşkilatları, ödəniş sistemləri və ABB-nin əməkdaşlıq etdiyi digər
+maliyyə qurumlarının təqsirinə, ləğvinə, fəaliyyətinin dayandırılmasına, müflis elan edilməsinə və (və
+ya) onlardan asılı olan digər səbəblərə görə Müştəriyə dəymiş (dəyəcək) zərərə və bütün növ maliyyə
+itkilərinə görə ABB məsuliyyət daşımır.
+20.20. Vasitəçi bank, müxbir bank, vəsait göndərənin/qəbul edənin bankı, kart təşkilatları, ödəniş sistemləri və
+ABB-nin əməkdaşlıq etdiyi digər maliyyə qurumlarının ləğvi, fəaliyyətinin dayandırılması, fəaliyyətində,
+tələblərində və göstərdiyi xidmətlərdə dəyişiklik edilməsi, o cümlədən Azərbaycan Respublikası və (və
+ya) digər dövlətlərin səlahiyyətli orqanları, o cümlədən bank sektoru və maliyyə bazarlarında nəzarət və
+tənzimləyici funksiyaları həyata keçirən qurumlar tərəfindən qəbul edilən istənilən qərar barədə ABB-
+nin Müştəriyə məlumat təqdim etmək öhdəliyi yoxdur və qeyd edilən səbəblərdən dolayı, eləcə də müvafiq
+məlumatın təqdim edilməməsi nəticəsində Müştəriyə dəymiş (dəyəcək) zərərə və bütün növ maliyyə
+itkilərinə görə ABB məsuliyyət daşımır.
+20.21. Bu Standart Şərtlər və müvafiq Müqavilə əsasında əldə olunan məhsullar/xidmətlər üzrə Müştəri ABB-yə
+məxsus ATM, ödəmə terminalı və digər elektron qurğulara, o cümlədən elektron platformalara vurduğu
+zərərə görə tam həcmdə məsuliyyət daşıyır.
+20.22. Müştərinin bu Standart Şərtlər və müvafiq Müqavilə əsasında əldə olunan məhsullar/xidmətlərdən ABB-
+yə məxsus olan və olmayan ATM, ödəmə terminalı və digər elektron qurğuların, o cümlədən elektron
+platformaların işləməməsi və ya qüsurlu işləməsi səbəbindən istifadə edə bilməməsi nəticəsində Müştəriyə
+dəymiş (dəyəcək) zərərə və bütün növ maliyyə itkilərinə görə ABB məsuliyyət daşımır.
+21. Digər şərtlər
+21.1. Bank hesabı və Ödəniş kartı üzrə:
+21.1.1. Hesabının açılmasına dair müvafiq Müqavilə imzalandığı tarixdən qüvvəyə minir və Tərəflər müvafiq
+Müqavilə, o cümlədən hazırkı Standart Şərtlər üzrə bütün öhdəliklərini tam icra edənədək qüvvədə qalır.
+21.1.2. Müvafiq Müqavilə Müştərinin və ya səlahiyyətli nümayəndəsinin ərizəsi üzrə istənilən vaxt ləğv edilir.
+21.1.3. ABB aşağıdakı hallarda müvafiq Müqaviləni ləğv edə və Bank hesabını bağlaya bilər:
+21.1.3.1. Müştəri Hesab üzrə azı 1 (bir) il ərzində əməliyyat aparmadığı təqdirdə;
+21.1.3.2. Müştərini 30 (otuz) təqvim günü əvvəlcədən xəbərdar etməklə ABB tərəfindən müəyyən edilən bankdaxili
+nəzarət qaydalarına müvafiq olaraq;
+21.1.3.3. Müştəri tərəfindən hesabdan çirkli pulların yuyulması, terrorizmin maliyyələşdirilməsi və fırıldaqçılıq
+(fraud) əməliyyatlarının aparılması və s. qeyri-qanuni bu kimi məqsədlər üçün istifadə edilməsi müəyyən
+edildikdə və ya bununla bağlı şübhələr olduqda və ya belə şübhə üçün kifayət qədər əsaslar yarandıqda;
+21.1.3.4. Standart Şərtlərdə, müvafiq Müqavilədə və qanunvericilikdə qeyd edilən sənədlər və/və ya məlumatlar
+Müştəri tərəfindən təqdim edilmədikdə;
+21.1.3.5. Müştərinin ölümü barədə ABB-yə rəsmi yazılı məlumat daxil olduqda;
+21.1.3.6. Müştərinin eyniləşdirilməsi və verifikasiyası ilə bağlı tələbləri yerinə yetirmək mümkün olmadığı və/və
+ya Müştəri ilə bağlı əvvəllər təqdim edilmiş eyniləşdirmə məlumatlarının doğru olmadığına dair şübhələr
+olduğu və/və ya Müştərinin işgüzar münasibətlərinin mahiyyəti və məqsədi barədə məlumatlar əldə etmək
+mümkün olmadığı hallarda;
+21.1.3.7. Müştərinin hesabında saxlanan pul vəsaitinin məbləği ABB-nin qaydaları və ya müvafiq Müqavilə ilə
+nəzərdə tutulmuş minimum miqdardan az olduqda, bir şərtlə ki, belə məbləğ ABB-nin bu barədə
+xəbərdarlıq etdiyi gündən bir ay ərzində bərpa edilməmiş olsun;
+21.1.3.8. Bu Standart Şərtlərin 5.13-cü bəndinin tələbləri də daxil olmaqla, Standart şərtlər və onun çərçivəsində
+imzalanan müvafiq Müqavilə üzrə öhdəliklərin icrası Müştəri tərəfindən pozulduqda;
+21.1.3.9. ABB tərəfindən Müştəriyə Kredit verilməsi və ya Kredit xəttinin təyin edilməsi məqsədləri üçün açılmış
+Bank hesab(lar)ına münasibətdə həmin Kredit və ya Kredit xətti üzrə borc tam bağlandıqda;
+21.1.3.10. Qanunvericilikdən irəli gələn digər hallarda.
+21.1.4. Müvafiq Müqavilənin ləğv edilməsi Müştərinin Hesabının/Kart hesabının bağlanması üçün əsasdır.
+21.1.5. Müvafiq Müqavilə ləğv edildikdə ABB Hesabdakı pul vəsaitinin qalığını Müştəriyə verir və ya Müştərinin
+göstərişi ilə onun müvafiq yazılı ərizəsinin alındığı gündən ən geci 7 (yeddi) təqvim günü keçənədək başqa
+hesaba köçürür. Hesabın qalığı Müştəri tərəfindən geri alınmadıqda və ya vəsaitin köçürülməli olan yeni
+hesab ABB-yə bildirilmədikdə, həmin vəsait müvafiq müştəri kateqoriyasının bağlanmış hesablarının
+uçotu aparılan hesaba köçürülür və Müştəriyə bu barədə yazılı məlumat verilir.
+21.1.6. Kart hesabının açılmasına dair müvafiq Müqavilə imzalandığı tarixdən qüvvəyə minir və Ödəniş kartının
+istifadə müddətinin bitdiyi gündən 45 (qırx beş) gün sonra (Kart hesabına Priority Pass kartları
+bağlandıqda 60 (altmış) gün) qüvvədən düşmüş sayılır, bir şərtlə ki, Müştəri müvafiq Müqavilə qüvvədə
+olan müddət ərzində yeni Ödəniş kartının buraxılması barədə ABB-yə ərizə ilə müraciət etməsin və ABB
+tərəfindən ona yeni Ödəniş kartının verilməsi barədə müsbət qərar qəbul edilməsin.
+21.1.7. Kart hesabının açılmasına dair müvafiq Müqaviləyə Tərəflərin qarşılıqlı razılığı əsasında və
+qanunvericilikdə, Standart Şərtlərdə və/və ya müvafiq Müqavilədə nəzərdə tutulmuş hallarda və qaydada
+Tərəflərin biri tərəfindən birtərəfli qaydada vaxtından əvvəl xitam verilə bilər.
+21.1.8. Müvafiq Müqaviləyə hər hansı səbəbdən xitam verildikdə, ABB-in tələbi ilə Müştəri 3 (üç) iş günü
+müddətində bütün Ödəniş kartlarını/Əlavə kartları ABB-ə qaytarmalıdır.
+21.1.9. ABB tərəfindən Kart hesabının açılmasına dair müvafiq Müqaviləyə, həmçinin, aşağıdakı hallarda
+birtərəfli qaydada ləğv edilə bilər:
+21.1.9.1. Müştəri tərəfindən hesabdan çirkli pulların yuyulması, terrorizmin maliyyələşdirilməsi və digər bu kimi
+məqsədlər üçün istifadə edilməsi müəyyən edildikdə, bununla bağlı şübhələr olduqda və ya belə şübhə
+üçün kifayət qədər əsaslar yarandıqda;
+21.1.9.2. Standart Şərtlərdə, müvafiq Müqavilədə və qanunvericilikdə qeyd edilən sənədlər və/və ya məlumatlar
+Müştəri tərəfindən təqdim edilmədikdə;
+21.1.10. Müvafiq Müqavilə Standart Şərtlərin 21.1.3.3-cü, 21.1.3.4-cü, 21.1.9.1-ci və 21.1.9.2-ci yarımbəndlərinə
+əsasən ləğv edildiyi hallarda, Müştərinin Hesabındakı/Kart hesabındakı aktiv və passivləri üzrə
+əməliyyatlar, o cümlədən, depozit faizlərinin ödənilməsi, Hesab/Kart hesabı üzrə Müştəri tapşırıqlarının
+yerinə yetirilməsi ABB tərəfindən birtərəfli qaydada dayandırılır və Müştəridən ABB qarşısındakı kredit
+öhdəliklərinin vaxtından əvvəl ödənilməsi tələb edilir. Qanunvericiliklə və daxili qaydalarla tələb
+olunduğu hallarda bu barədə müvafiq orqanlara məlumat verilir.
+21.2. Bank əmanəti üzrə:
+21.2.1. Əmanətin müddəti müvafiq Müqavilə ilə müəyyən edilir;
+21.2.2. Müvafiq Müqavilə ilə təsbit olunmuş bank əmanəti üzrə münasibətlər əmanətin Müştəri tərəfindən Hesaba
+mədaxil edildiyi andan başlamış hesab olunur və Müqavilədə nəzərdə tutulmuş əmanət müddətinin
+bitməsinə və ya əmanətin Hesabdan çıxarılmasına (silinməsinə) qədər öz qüvvəsini saxlayır.
+Qanunvericilikdə və/və ya müvafiq Müqavilədə nəzərdə tutulmuş əsaslarla əmanətin bir hissəsi Hesabdan
+silindikdə müvafiq Müqaviləyə avtomatik xitam verilir və əmanətdə olan vəsaitlərin qalığına münasibətdə
+cari Bank hesabı üzrə Müqavilənin müddəaları tətbiq edilir.
+21.2.3. Müvafiq Müqaviləyə dair bütün əlavə və dəyişikliklər bu Standart Şərtlərdə nəzərdə tutulan formada tərtib
+edilir.
+21.2.4. Müvafiq Müqavilənin hər hansı səbəbə görə ləğv olunması Müştəriyə açılan Hesabın bağlanılması üçün
+əsasdır.
+21.3. Kredit/Kredit xətti üzrə:
+21.3.1. Kredit/Kredit xəttinin verilməsinə dair müvafiq Müqavilə imzalandığı tarixdən qüvvəyə minir və Tərəflər
+müvafiq Müqavilə, o cümlədən hazırki Standart Şərtlər üzrə öhdəliklərini tam icra edənədək qüvvədə
+qalır.
+22. Tətbiq edilən hüquq və mübahisələrin həll edilməsi qaydası
+22.1. Bu Standart Şərtlərlə tənzimlənməyən münasibətlər müvafiq Müqavilə, Azərbaycan Respublikasının
+Mülki Məcəlləsi, Azərbaycan Respublikası Mərkəzi Bankının qəbul etdiyi normativ xarakterli aktları,
+ABB-daxili qaydaları, Azərbaycan Respublikasının digər hüquqi aktları və Beynəlxalq Kart Təşkilatları
+tərəfindən qəbul edilən qaydalarla tənzimlənir.
+22.2. Bu Standart Şərtlər və ya onunla əlaqədar yaranan bütün mübahisələr, münaqişələr, fikir ayrılıqları və/və
+ya tələblər Tərəflər arasında danışıqlar yolu ilə həll edilir.
+22.3. Bu Standart Şərtlərin 22.2-ci bəndində qeyd olunan yolla nizama salınmayan mübahisələr Azərbaycan
+Respublikasının qüvvədə olan qanunvericiliyinə uyğun olaraq Azərbaycan Respublikasının
+məhkəmələrində həll edilir.
+23. Məxfilik
+Tərəflər Standart Şərtlər, müvafiq Müqavilə və onun icrası ilə bağlı bir-birinə təqdim etdikləri
+məlumatların məxfiliyini qorumalı və qanunvericilikdə nəzərdə tutulmuş hallar (məlumatlar) istisna
+olmaqla, digər Tərəfin yazılı razılığı olmadan həmin məlumatları üçüncü şəxslərə açıqlamamalıdırlar.
+24. Fors-Major
+Tərəflər bu Standart Şərtlər və müvafiq Müqavilə ilə üzərlərinə götürdükləri öhdəliklərin tam və ya qismən
+icra edilməməsinə görə məsuliyyətdən o vaxt azad olunurlar ki, bu icra etməmə müvafiq Müqavilənin
+bağlanmasından sonra yaranmış, Tərəflərin iradəsindən asılı olmayan, əvvəlcədən görə və təsirinə mane
+ola bilmədikləri qarşısıalınmaz qüvvənin təsirindən əmələ gəlmiş olsun. Bu cür hallara daşqın, zəlzələ,
+yanğın, yer sürüşməsi və digər təbii fəlakətlər, müharibə və hərbi əməliyyatlar, kütləvi iğtişaşlar,
+epidemiya, epizootiya, moratorium, Tərəflər arasındakı mövcud münasibətləri bilavasitə dəyişdirən
+qanunvericilikdə dəyişikliklər, dövlət və yerli özünüidarəetmə orqanlarının bu Standart Şərtlərin və
+müvafiq Müqavilənin icrasının mümkünsüzlüyünə səbəb olan hərəkətləri və ya qəbul etdikləri aktları
+aiddir. Fors-major halların təsirinə məruz qalan Tərəf digər Tərəfi belə halların baş verdiyi gündən 5 (beş)
+təqvim günündən gec olmayaraq yazılı surətdə xəbərdar etməlidir. Fors-major hallarında digər tərəfi
+vaxtında yazılı şəkildə xəbərdar etməyən Tərəf Müqavilə üzrə öhdəliklərini icra edə bilmədikdə fors-
+major hallara istinad etmək hüququnu itirir. Fors-major halların mövcudluğu və təsir müddəti səlahiyyətli
+dövlət orqanları və ya digər səlahiyyətli təşkilatlar tərəfindən verilən sənədlərlə təsdiq olunmalıdır.
+25. Antikorrupsiya
+25.1. Müştəri öz fəaliyyətində korrupsiyaya qarşı mübarizəyə dair ABB-nin rəsmi internet səhifəsində
+yerləşdirilmiş (https://abb-bank.az/az/haqqimizda/siyasetlerimiz/korrupsiyaya-qarsi-mubarize-siyaseti)
+daxili siyasətindən müvafiq çıxarışın, yerli qanunvericiliyin və Azərbaycan Respublikasının tərəfdar
+çıxdığı beynəlxalq müqavilələrin tələblərini rəhbər tutur və həmin tələblərə riayət edilməməsinə görə
+məsuliyyət daşıyır.
+26. Müştərinin əlavə təsdiq və razılıqları
+26.1. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, bu Standart Şərtlər və onun çərçivəsində
+imzalanan müvafiq Müqavilənin icrası və digər bütün bank əməliyyatlarının həyata keçirilməsi məqsədi
+ilə “E-sosial”, “ASAN Finans” elektron portalları, habelə digər dövlət və qeyri-dövlət informasiya
+ehtiyatları vasitəsilə şəxsiyyətini təsdiq edən sənəd (şəxsiyyət vəsiqəsi, müvəqqəti yaşayış icazəsi və ya
+şəxsiyyəti təsdiq edən digər sənəd) üzrə müəyyən olunan məlumatların (sənədin FİN-i, seriya və nömrəsi,
+ad, soyad, ata adı, qeydiyyat ünvanı, sənədi verən orqanın adı, sənədin verilmə və bitmə tarixi, cins, doğum
+tarixi, doğum yeri, ailə vəziyyəti, vətəndaşlığı), iş yeri üzrə müəyyən olunan məlumatların (o cümlədən iş
+yeri, vəzifə, əmək müqaviləsinin tipi (müddətli və ya müddətsiz), əmək müqaviləsinin bağlanma və bitmə
+tarixi, iş yerinin növü (əsas və ya əvəzçilik üzrə), əmək haqqının məbləği), habelə pensiya, müavinət,
+təqaüd və kompensasiya ilə bağlı məlumatların (pensiyanın, sosial müavinətin, təqaüdün, digər sosial
+ödənişlərin (kompensasiya, ünvanlı sosial yardım) növü, məbləği, başlanma və bitmə tarixləri, əlilliyə
+görə pensiya, sosial müavinət və ya təqaüd alan şəxsin əlilliyinin səbəbi (diaqnozları), müddəti), lakin,
+bununla məhdudlaşmayaraq müvafiq bank məhsulunun/xidmətinin əldə edilməsi üçün tələb olunan bütün
+digər məlumatların (telefon nömrəsi və elektron ünvanı, yaşadığı və olduğu yer, ixtisası, şəkli və s.) ABB-
+yə təqdim olunmasına razılıq verir.
+26.2. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, ABB-nin digər kredit təşkilatlarından Müştəriyə
+məxsus əmlak/vəsait barədə məlumatları əldə etməsinə razılıq verir.
+26.3. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, bu Standart Şərtlər və onun çərçivəsində
+imzalanan müvafiq Müqavilələr üzrə Müştəri tərəfindən ABB-yə təqdim edilən və ya ABB tərəfindən
+müxtəlif informasiya ehtiyatlarından əldə edilən bütün məlumatların ABB tərəfindən analitika,
+monitorinq, marketinq, Müştəriyə göstərilən əlavə xidmətlər (o cümlədən də konsiyerj xidmətləri) və
+qanunvericilikdə qadağan olunmamış digər məqsədlər üçün təhlil və emal edilməsinə,
+ümumiləşdirilməsinə, özünün törəmə müəssisələrinə və digər partnyorlarına (müqavilə bağladığı şəxslərə)
+təqdim edilməsinə, transsərhəd qaydada ötürülməsinə, işlənməsinə, eləcə də qanunvericiliklə qadağan
+edilməyən digər məqsədlər üçün istifadəsinə razılıq verir. Bu zaman, müvafiq məlumatların əldə
+edilməsinə, təqdim edilməsinə və ötürülməsinə görə Müştərinin əlavə razılığı tələb olunmur. Müvafiq
+Müqavilə əsasında əldə edilmiş məlumatların saxlanma müddəti müvafiq xidmətdən istifadə müddəti ilə
+eynidir və həmin xidmətə xitam verildikdən sonra, eləcə də Müştərinin ölümü halında məlumatlar
+qanunvericilikdə nəzərdə tutulmuş qaydada arxivləşdirilir. Standart Şərtlərin bu bəndi üzrə qeyd olunmuş
+Müştəri tərəfindən verilən razılığın müddəti Müvafiq müqavilənin imzalanma tarixindən 10 (on) il təşkil
+edir. Müştəri müvafiq Müqaviləyə xitam verildikdən sonra ABB-ə müraciət edərək qarşılıqlı razılıq
+əsasında bu bənddə göstərilən müddətdən daha tez vaxtda razılığı geri götürə bilər.
+26.4. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, müxtəlif məhsullara dair kampaniya və reklam
+xarakterli məlumatların (SMS, bildiriş, e-mail, mobil tətbiq və s. elektron formada) ABB tərəfindən
+Müştəriyə göndərilməsinə razılıq verir.
+26.5. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, kredit üzrə əsas borcun qaytarılmasını, faizlərin,
+eləcə də dəbbə pulunun ödənilməsini təmin etmək üçün müvafiq məbləğdə pul vəsaitlərinin özünün ABB-
+dəki hesablarından, habelə ona çatacaq bütün vəsaitlərdən ödəniş müddətinin çatmasına 15 (on beş)
+təqvim günü qalmış akseptsiz qaydada silmək və/və ya həmin öhdəliklərin icrasını təmin etmək üçün
+müvafiq pul vəsaitlərini bloklaşdırmaq hüququnu ABB-yə verir. Müştərinin bu bənddə nəzərdə tutulmuş
+razılığı nağdsız hesablaşmaların aparılması üçün ödəniş sənədi hesab edilir və ABB tərəfindən icra olunur.
+26.6. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, müvafiq Müqavilə imzalandığı tarixə qədər və
+ya imzalandığı tarixdən sonra onun əri/arvadı tərəfindən götürülən bütün kredit, o cümlədən ipoteka
+krediti üzrə borc məbləğinin Müştərinin Bankda açılmış hesablarından, habelə ona çatacaq bütün
+vəsaitlərdən Müştərinin sərəncamı olmadan (akseptsiz qaydada) silinməsinə razılıq verir. Müştərinin bu
+bənddə nəzərdə tutulmuş razılğı nağdsız hesablaşmaların aparılması üçün ödəniş sənədi hesab edilir və
+ABB tərəfindən icra olunur.
+26.7. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, özü tərəfindən və ya ABB-nin təqsiri olmadan
+digər şəxslər tərəfindən Müştəriyə aid bütün məlumatların (fərdi məlumatlar və bank sirri məlumatları da
+daxil olmaqla) üçüncü şəxslərə təqdim edilməsi nəticəsində dəymiş (dəyə biləcək) zərərə, eləcə də bütün
+növ maliyyə itkilərinə görə bütün riskləri və məsuliyyəti öz üzərinə götürdüyünə razılıq verir.
+26.8. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, həmin müvafiq Müqavilə və ya digər müqavilələr
+əsasında ABB-nin əmək haqqı, o cümlədən digər kart məhsullarından istifadə etdiyi zaman Standart
+Şərtlərin müvafiq müddəalarını qəbul etmiş sayılır.
+26.9. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, Hesab və Ödəniş kartı üzrə bütün əməliyyatların
+aparılması ilə bağlı müvafiq kart təşkilatlarını, ödəniş sistemlərini, bankları (o cümlədən, müxbir bankları)
+və ABB-nin əməkdaşlıq edəcəyi digər maliyyə qurumlarını seçməyi ABB-yə həvalə etdiyinə və bunun
+nəticəsində dəymiş (dəyə biləcək) zərərə, eləcə də və bütün növ maliyyə itkilərinə görə bütün riskləri və
+məsuliyyəti öz üzərinə götürdüyünə razılıq verir.
+26.10. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, bu Standart Şərtlər əsasında istifadə etdiyi bank
+məhsulları üzrə ABB-nin qarşısında yaranan öhdəliklərinə münasibətdə ABB tərəfindən tələbin üçüncü
+şəxslərə güzəşt edilməsinə Azərbaycan Respublikasının Mülki Məcəlləsinin 356-cı maddəsinin tələbləri
+nəzərə alınmaqla qabaqcadan razılıq verir və bu razılığı heç bir halda ləğv etməyəcəyini bəyan edir.
+26.11. Müştəri müvafiq Müqaviləni imzalamaqla təsdiq edir ki, digər şəxslərin telefon nömrələrini ABB-yə
+təqdim edən zaman Müştəri həmin şəxslərin razılığını almışdır, eləcə də bu razılığın alınmamasına görə
+ABB Müştəri və həmin şəxslər qarşısında hər hansı məsuliyyət daşımır.
+27. Tam kart
+Ümumi şərtlər
+27.1. Tam kart – məhsulun növündən asılı olaraq ön tərəfi debet və ya əmək haqqı kartı, arxa tərəfi kredit kartı,
+yaxud ön tərəfi kredit kartı, arxa tərəfi debet və ya əmək haqqı kartı olan, Müştəriyə Standart Şərtlər və
+müvafiq Müqavilədə nəzərdə tutulmuş şərtlərlə və qaydada bir sıra bank əməliyyatlarını aparmağa, o
+cümlədən bank xidmətlərindən yararlanmağa imkan verən Ödəniş kartıdır.
+27.2. Müştəriyə ayrılmış Kredit xətti daxilində Tam kartdan ABB-yə məxsus POS-terminallar vasitəsilə ABB-
+nin Partnyor şəbəkəsi subyektlərində (siyahısı ABB-nin rəsmi internet səhifəsi www.abb-bank.az da və/və
+ya Tam kartın rəsmi internet səhifəsi www.tamkart.az da yerləşdirilmişdir) istifadə olunan zaman məhsul
+və xidmətlərin dəyəri 24 (iyirmi dörd) ayadək bərabər hissələrə bölünərək faizlər hesablanmadan
+ödənilməsi (bundan sonra - “Taksit əməliyyatları” adlandırılacaq) imkanı yaradılır.
+27.3. Tam kartın sifarişi, Tam kart, eləcə də Hesablar vasitəsilə əməliyyatların aparılması üzrə bank
+xidmətlərinin haqqı ABB-nin müvafiq əməliyyatın aparıldığı günə qüvvədə olan Tariflərinə uyğun olaraq
+müəyyən olunur və ABB tərəfindən Müştərinin Hesablarındakı, habelə ona çatacaq bütün pul vəsaitindən
+akseptsiz qaydada tutulur.
+27.4. Qüvvədə olan hüquqi aktların tələblərinə müvafiq olaraq, ön tərəfi kredit kartı olan Tam kartdan POS-
+terminallar vasitəsilə ŞEN-kod daxil edilmədən həyata keçirilən nağdsız əməliyyatlarda müvafiq vəsait,
+Müştərinin kredit kartı hesabından silinməklə sonuncuya Kredit xətti çərçivəsində verilən kredit hesab
+olunur.
+27.5. Müştəri tərəfindən Kredit xətti üzrə kredit məbləğinin istifadə edilməsi tarixi Tam kart vasitəsilə müvafiq
+əməliyyatın faktiki aparılması tarixindən asılı olmayaraq həmin əməliyyat üzrə məlumatların ABB-nin
+avtomatlaşdırılmış əməliyyat sistemində işlənmə günü hesab edilir.
+27.6. Tam kartın qüvvədə olma müddəti onun üzərində göstərilmiş müvafiq ilin müvafiq ayının sonuncu günü
+bitir.
+27.7. Müştəri tərəfindən Tam kart vasitəsilə nağdsız əməliyyatlar həyata keçirilən zaman müvafiq əməliyyat
+üzrə istifadə olunan vəsaitin ABB tərəfindən müəyyən edilən hissəsi (bundan sonra – “Cashback məbləği”
+adlandırılacaq) Müştərinin müvafiq Hesabına geri qaytarıla bilər. Cashback məbləğlərinin əldə edilməsi
+ilə bağlı ABB tərəfindən fırıldaqçılıq və ya sui-istifadə halları aşkar edildikdə, lakin bununla
+məhdudlaşmayaraq istənilən halda müvafiq məbləğlərin hesablanması dayandırıla, hesablanmış və
+Hesaba qaytarılmış məbləğlər akseptsiz (Müştərinin sərəncamı olmadan) qaydada silinə bilər. Cashback
+məbləğləri ilə bağlı məlumatlar Tam kartın rəsmi internet səhifəsi olan www.tamkart.az - da
+yerləşdirilmişdir.
+27.8. Müştərinin adına ABB-də açılmış debet kartın (Tam kartın debet hissəsinin) bağlı olduğu kart hesabının
+qalığına ABB tərəfindən müəyyən edilən məbləğ limitləri və illik faiz dərəcələri çərçivəsində Tam kartın
+növündən asılı olaraq gündəlik əsasda faizlər hesablana bilər. Qeyd olunan məbləğ limitləri və illik faiz
+dərəcələri ABB tərəfindən birtərəfli qaydada dəyişdirilə və ya ləğv edilə bilər. Faizlər hesablanan Tam
+kartın növü, məbləğ limitləri, illik faiz dərəcələri və hesablanmış faizlərin ödənilməsi qaydası ilə bağlı
+məlumatlar Tam kartın rəsmi internet səhifəsi www.tamkart.az da yerləşdirilmişdir. Debet kartın bağlı
+olduğu kart hesabı istisna olmaqla digər Hesablarda olan qalığa və ya Hesablardakı pul vəsaitlərindən
+istifadə etməsinə görə ABB Müştəriyə heç bir faizlər ödəmir.
+27.9. Müştəri Kredit xətti üzrə kreditdən yalnız kredit kartı vasitəsilə və ABB-nin kartları vasitəsilə aparılan
+əməliyyatlar üzrə müəyyənləşdirdiyi limitlər çərçivəsində istifadə edə bilər.
+27.10. Tam kartın ön tərəfi əmək haqqı kartı olduqda işəgötürənlə ABB arasında bağlanmış əmək haqqı kartları
+üzrə hesabların açılması və əmək haqqı kartlarından istifadə şərtlərini tənzimləyən müvafiq Müqaviləyə,
+eləcə də Müştəri ilə işə götürən arasındakı əmək münasibətlərinə xitam verildiyi təqdirdə, müvafiq
+Müqavilə öz hüquqi qüvvəsini saxlayır. Bu halda Tam kartın əmək haqqı funksiyalı kart kimi istifadə
+edilməsi rejimi dayandırılır.
+27.11. Müvafiq Müqaviləyə xitam verildikdə Tam kartın ön tərəfi əmək haqqı kartıdırsa, Tam kartın yalnız kredit
+funksiyalı kart kimi istifadə edilməsi rejimi dayandırılır.
+Kreditin verilməsi, rəsmiləşdirilməsi və Kredit xətti üzrə məbləğin dəyişdirilməsi
+27.12. Tam kart üzrə Kredit xətti aşağıdakı üsullardan birindən istifadə edilməklə təyin edilə və ya Kredit xətti
+üzrə məbləğ dəyişdirilə bilər:
+27.12.1. Ön tərəfi debet və ya əmək haqqı kartı, arxa tərəfi kredit kartı olan Tam karta münasibətdə Müştəri
+tərəfindən Kredit xəttinin açılması sifariş verildikdə və ABB Müştəriyə Kredit xəttinin açılmasına dair
+müsbət qərar qəbul etdikdə bu barədə ABB ilə Müştəri arasında “Kredit xətti üzrə məbləğin təyin
+edilməsinə dair Razılaşma” (bundan sonra – “Razılaşma” adlandırılacaq) imzalanır. Razılaşmada kredit
+xəttinin məbləği, müddəti, valyutası, illik faiz dərəcəsi və digər zəruri məlumatları göstərilir və
+Razılaşma Kredit xəttinin açılmasını təsdiq edən sənəd kimi çıxış edir. Hər iki növ Tam kartda Müştəri
+tərəfindən Kredit xəttinin qüvvədə olduğu müddətdə Kredit xəttinin məbləğinin dəyişdirilməsi
+(artırılması/azaldılması) barədə ABB-yə müraciət daxil olduqda və ABB Kredit xəttinin məbləğinin
+dəyişdirilməsinə dair müsbət qərar qəbul etdikdə bu barədə yeni Razılaşma (mövcud Razılaşma yeni
+redaksiyada təsdiq olunur) imzalanır. Razılaşmada kredit xəttinin məbləği, müddəti, valyutası, illik faiz
+dərəcəsi və digər zəruri məlumatları göstərilir və Razılaşma Kredit xəttinin məbləğinin dəyişdirilməsini
+təsdiq edən sənəd kimi çıxış edir.
+27.12.2. Müştəri Tam kartın qüvvədə olduğu müddətdə Kredit xətti əldə etmək üçün (ön tərəfi debet və ya əmək
+haqqı kartı, arxa tərəfi kredit kartı olan Tam kartlara münasibətdə) və ya Kredit xəttinin qüvvədə olduğu
+müddətdə Kredit xəttinin məbləğinin dəyişdirilməsi (artırılması/azaldılması) üçün (hər iki növ Tam
+karta münasibətdə) müvafiq Müqavilədə qeyd edilən mobil telefon nömrəsindən ABB-yə məxsus qısa
+telefon nömrəsinə “TAM” sözü yazmaqla SMS göndərir. ABB Müştərini mobil telefon nömrəsindən və
+ya digər üsul(lar)la identifikasiya etdikdən sonra öz daxili qaydalara/təlimatlara əsasən müəyyən edilmiş
+Müştəriyə ayrıla biləcək kredit xəttinin məbləği, illik faiz dərəcəsi, müddəti, valyutası, aylıq ödənişin
+məbləği, faktiki illik faiz dərəcəsi, komisyon haqlarının məbləği və digər zəruri məlumatları özündə əks
+etdirən təklif SMS-i Müştəriyə göndərir. Müştəri ABB-nin təklif-SMS-inə cavab olaraq öz mobil telefon
+nömrəsindən ABB-yə məxsus qısa telefon nömrəsinə həmin təklif-SMS-də əks olunmuş simvollar
+kombinasiyasından istifadə etməklə və təklif-SMS-də göstərilən limitləri aşmamaq şərtilə Kredit
+xəttinin məbləğini yazıb göndərir (məs: Tam1000, Kredit xətti). ABB Müştərinin seçim-SMS-ində qeyd
+etdiyi kredit xəttinin məbləğini, illik faiz dərəcəsini, müddətini, valyutasını, kredit üzrə əsas borcun
+qaytarılması və faizlərin ödənilməsi qaydasını və müddətini, o cümlədən kredit növünə aid digər zəruri
+şərtlərini yenidən təsdiq etməsi, həmçinin Müştərinin öz razılığını ifadə etməsi üçün hansı simvollar
+(hərf, rəqəm) kombinasiyasından istifadə etməli olduğu barədə SMS göndərir. Müştərinin ABB-yə
+məxsus qısa telefon nömrəsinə göndərdiyi təsdiq-SMS-i (Müştəri razılığını ifadə etmək üçün məhz
+ABB-nin təklif SMS-ində bu məqsəd üçün müəyyən edilmiş simvollar (hərf, rəqəm) kombinasiyasını
+yazıb göndərməlidir) Müştəri tərəfindən ABB-nin SMS-ində qeyd olunan bütün şərtlərin qəbul edilməsi
+kimi qiymətləndirilir və Kredit xəttinin təyin edilməsi üçün onun tapşırığı kimi qəbul olunur. Müştəri
+təsdiq-SMS-i göndərdikdən sonra Kredit xəttinin məbləği, illik faiz dərəcəsi, müddəti, valyutası, aylıq
+ödənişin məbləği barədə ABB-yə qarşı heç bir tələb irəli sürə bilməz.
+27.12.3. ABB öz təşəbbüsü ilə Müştərinin kredit tarixçəsi nəzərə alınmaqla sonuncuya Kredit xəttinin açılması
+(ön tərəfi debet və ya əmək haqqı kartı, arxa tərəfi kredit kartı olan Tam kartlara münasibətdə) və ya
+Kredit xəttinin məbləğinin dəyişdirilməsi (hər iki növ Tam kartlara münasibətdə) barədə təklif göndərə
+bilər. Təklif həm SMS, həm də ABB-nin müəyyən etdiyi digər elektron vasitələrlə göndərilə bilər.
+Təklifdə ABB tərəfindən Müştəriyə ayrıla biləcək Kredit xəttinin məbləği, valyutası, illik faiz dərəcəsi,
+müddəti, kredit üzrə əsas borcun qaytarılması və faizlərin ödənilməsi qaydasını və müddətini, faktiki
+illik faiz dərəcəsi, komisyon haqlarının məbləği və digər zəruri məlumatlar öz əksini tapır. Təklif, SMS
+vasitəsilə göndərildikdə bu yarımbənddə nəzərdə tutulmuş qaydada Kredit xəttinin təyin edilməsi və ya
+Kredit xəttinin məbləğinin dəyişdirilməsinin rəsmiləşdirilməsi 27.12.2-ci yarımbənddə qeyd olunmuş
+formada həyata keçirilir. Təklif, ABB-nin müəyyən etdiyi digər elektron vasitələrlə göndərildikdə, bu
+yarımbənddə nəzərdə tutulmuş qaydada Kredit xəttinin təyin edilməsi və ya Kredit xəttinin məbləğinin
+dəyişdirilməsinin rəsmiləşdirilməsi ABB-nin təklif göndərdiyi elektron vasitədə qeyd olunmuş qaydada
+Şəxsi imzanın başqa analoqu ilə təsdiq edilməklə həyata keçirilir.
+27.12.4. ABB öz təşəbbüsü ilə birtərəfli qaydada Kredit xəttinin məbləğinin dəyişdirilməsi (hər iki növ Tam
+kartlara münasibətdə) barədə qərar qəbul edə, Kredit xəttinin məbləğini birtərəfli qaydada dəyişdirə
+(artıra/azalda) və bu barədə Müştəriyə məlumat xarakterli SMS göndərə bilər. Müştərinin dəyişdirilmiş
+Kredit xəttinin məbləği ilə razı olmaması barədə Müştəri tərəfindən 5 (beş) iş günü ərzində ABB-yə heç
+bir yazılı müraciət edilməzsə, Müştərinin təyin edilmiş yeni Kredit xətti məbləğinə razılıq verdiyi hesab
+olunur.
+27.12.5. Müştəri Tam kart üzrə Kredit xəttindən yalnız Tam kartın qüvvədə olduğu müddət ərzində istifadə edə
+bilər.
+Kredit xətti üzrə ödəniş qaydası
+27.13. Müvafiq Müqavilə və Standart Şərtlər üzrə Müştəriyə təqdim edilmiş Kredit xətti üzrə güzəşt müddəti
+təyin edilir. Güzəşt müddəti dedikdə Müştəri tərəfindən təqvim ayı ərzində Kredit xətti üzrə istifadə etdiyi
+kredit məbləği (Taksit əməliyyatları istisna olmaqla) istifadə tarixindən (daxil olmaqla) asılı olaraq 30
+(otuz) təqvim günündən 60 (altmış) təqvim gününədək müəyyən edilir və həmin müddət ərzində tam
+qaytarıldığı halda, faizlərin hesablanmadığı və Müştəri tərəfindən ödənilmədiyi dövr başa düşülür.
+27.14. Müştəriyə təqdim edilmiş Kredit xətti üzrə istifadə olunmuş kredit məbləği 20 (iyirmi) manatdan (daxil
+olmaqla; hər bir istifadə üzrə ayrı-ayrılıqda və müvafiq əməliyyata görə bank komisyon haqları da nəzərə
+alınmaqla) aşağı olduqda, həmin məbləğ növbəti ayın 10-na qədər əlavə faiz hesablanmadan Müştəri
+tərəfindən ABB-yə qaytarılmalıdır.
+27.15. Müştəriyə təqdim edilmiş Kredit xətti üzrə istifadə olunmuş kredit məbləği (Taksit əməliyyatları üzrə
+istifadə olunmuş məbləğ istisna olmaqla) 20 (iyirmi) manatdan (müvafiq əməliyyata görə komisyon haqlar
+da nəzərə alınmaqla) yuxarı olduqda və Standart Şərtlərin 27.13-cü bəndinə uyğun müəyyən olunmuş
+güzəşt müddəti ərzində tam olaraq qaytarılmadıqda, Kredit xəttindən hər istifadədən sonra ABB-nin
+Müştəriyə göndərdiyi SMS-də göstərilən və ya Müştərinin Şəxsi kabinetində əks olunan annuitet ödəniş
+qrafikinə müvafiq olaraq 18 (on səkkiz) ay ərzində, Taksit əməliyyatları üzrə istifadə olunmuş kredit
+məbləğinin isə aylara bölünmüş müvafiq hissəsi faizlər hesablanmadan istifadə tarixindən sonrakı aydan
+başlamaqla, hər ayın 10-dan gec olmayaraq Müştəri tərəfindən ABB-yə qaytarılmalıdır.
+27.16. Kredit xətti üzrə istifadə olunmuş kredit məbləği (Taksit əməliyyatları üzrə istifadə olunmuş məbləğ
+istisna olmaqla) Standart Şərtlərin 27.13-cü bəndinə uyğun müəyyən olunmuş güzəşt müddəti ərzində
+qaytarılmadıqda, həmin məbləğə faizlər güzəşt müddətinin bitdiyi tarixdən kredit məbləğinin tam
+qaytarıldığı günə qədər müvafiq Müqavilədə göstərilən illik faiz dərəcəsi ilə gündəlik hesablanır (bu
+zaman gündəlik faiz dərəcəsinin kəsr hissəsi yüzlüklərə qədər yuvarlaqlaşdırılır). Taksit əməliyyatları üzrə
+istifadə olunmuş kredit məbləğinin aylara bölünmüş müvafiq hissəsi 27.15-ci bənddə göstərilmiş
+tarixədək ABB-yə qaytarılmadıqda həmin tarixdən sonrakı gündən başlamaqla müvafiq məbləğin tam
+qaytarıldığı tarixədək gecikdirilmiş məbləğə bu bənddə qeyd olunmuş illik faiz dərəcəsi ilə faizlər
+hesablanır.
+27.17. Müştəri Standart Şərtlərin 27.15-ci bəndində qeyd olunmuş aylıq annuitet məbləğindən və ya Taksit
+əməliyyatları üzrə istifadə olunmuş kredit məbləğinin aylara bölünmüş müvafiq hissəsindən artıq
+miqdarda ödəniş həyata keçirdikdə, artıq ödənilmiş vəsait Kredit xətti və ya Taksit əməliyyatları üzrə
+müvafiq borcun (yaranmasının təqvim ardıcıllığı qaydasında) silinməsinə yönəldilir və Kredit xətti və ya
+Taksit əməliyyatları üzrə borcun qalıq hissəsinin ödənilməsi həmin bənddə qeyd edilmiş qaydada
+yenilənmiş qrafik əsasında həyata keçirilir.
+27.18. Müvafiq Müqavilə və Standart Şərtlər üzrə Müştəriyə verilən kreditin qaytarılması və ona hesablanmış
+faizlərin ödənilməsi müvafiq məbləğdə pul vəsaitlərinin Kredit xətti üzrə kredit kartına bağlı olan kart
+hesabına nağd və ya köçürmə yolu ilə mədaxil edilməsi və ABB tərəfindən Standart şərtlərin 27.19-cu
+bəndində göstərilən ardıcıllığa müvafiq olaraq silinməsi yolu ilə həyata keçirilir.
+27.19. Kredit xətti üzrə Müştərinin xeyrinə həyata keçirilən ödəniş onun ABB qarşısında cari tarixə müvafiq
+Müqavilə və Standart Şərtlər üzrə mövcud bütün borc öhdəliklərinin icrası üçün kifayət etmədikdə,
+müvafiq pul vəsaitləri Müştərinin ABB qarşısında Kredit xətti üzrə mövcud bütün borc öhdəliklərinin
+ödənilməsinə aşağıdakı ardıcıllıqla yönəldilir:
+27.19.1. birinci növbədə - məhkəmə və ya məhkəmədənkənar qaydada tələbin irəli sürülməsi və bu Müqavilə
+üzrə Müştərinin öhdəliklərinin icrasına nail olmaq üçün ABB-nin xərcləri;
+27.19.2. ikinci növbədə - cərimə (dəbbə), penya;
+27.19.3. üçüncü növbədə - texniki overdraft üzrə hesablanmış faizlər;
+27.19.4. dördüncü növbədə - texniki overdraft üzrə əsas borc;
+27.19.5. beşinci növbədə - Standart Şərtlərin 27.14-cü bəndinə müvafiq olaraq gecikdirilmiş əsas borc üzrə
+hesablanmış faizlər;
+27.19.6. altıncı növbədə - Standart Şərtlərin 27.15-ci bəndinə müvafiq olaraq gecikdirilmiş əsas borc üzrə
+hesablanmış faizlər;
+27.19.7. yeddinci növbədə - Standart Şərtlərin 27.15-ci bəndinə müvafiq olaraq əsas borc üzrə cari tarixə
+hesablanmış faizlər;
+27.19.8. səkkizinci növbədə - Standart Şərtlərin 27.15-ci bəndinə müvafiq olaraq yaranmış əsas borcun
+gecikdirilmiş hissəsi;
+27.19.9. doqquzuncu növbədə - Standart Şərtlərin 27.15-ci bəndinə müvafiq olaraq əsas borc üzrə hesablanmış,
+lakin ödəmə vaxtı çatmamış faizlər;
+27.19.10. onuncu növbədə - Standart Şərtlərin 27.14-cü bəndinə müvafiq olaraq əsas borc;
+27.19.11. on birinci növbədə - Standart Şərtlərin 27.15-cü bəndinə müvafiq olaraq əsas borc.
+27.19-1. Bu bənddə qeyd olunan ardıcıllıq ABB tərəfindən birtərəfli qaydada dəyişdirilə bilər. Bir növbəyə aid
+tələblər üzrə borcun silinməsi müvafiq tələblərin daxil olmasının təqvim ardıcıllığı qaydasında həyata
+keçirilir.
+Xüsusi şərtlər
+27.20. Müştəri, ABB, o cümlədən onun törəmə müəssisələri və əməkdaşlıq etdiyi şəxslər qarşısında, habelə
+məcburi ödənişlər və rüsumlarla bağlı dövlət qarşısında mövcud olan bütün pul öhdəlikləri üzrə vəsaitləri
+akseptsiz qaydada (Müştərinin sərəncamı olmadan) Müştərinin ABB-dəki hesablarından, habelə ona
+çatacaq bütün vəsaitlərdən silmək və/və ya həmin öhdəliklərin icrasını təmin etmək üçün Müştərinin
+ABB-dəki hesablarında olan, habelə ona çatacaq bütün pul vəsaitlərini bloklaşdırmaq hüququnu ABB-yə
+verdiyini bəyan edir. Müştərinin bu bənddə nəzərdə tutulmuş bəyanı nağdsız hesablaşmaların aparılması
+üçün ödəniş sənədi hesab edilir və ABB tərəfindən icra olunur.
+27.21. Müştəri təsdiq edir və razılıq verir ki, müvafiq Müqavilə və Standart Şərtlər çərçivəsində sifariş olunan
+Tam kart Ödəniş kartı ABB tərəfindən Müştəriyə özünün əməkdaşları və/və ya üçüncü şəxslərin təqdim
+etdiyi çatdırılma xidmətləri, poçt, kuryer və s. bu kimi üsullarla çatdırıla bilər.
+27.22. Standart Şərtlərin kredit/Kredit xətti, Ödəniş kartı, Bank hesabı üzrə münasibətləri tənzimləyən normaları,
+habelə Standart Şərtlər çərçivəsində Müştərinin əlavə təsdiq və razılıqları müvafiq Müqavilə və Standart
+Şərtlərin Tam karta dair tələbləri ilə ziddiyyət təşkil etmədiyi çərçivədə Tam karta da şamil edilir.
+28. Yekun müddəalar
+28.1. Bu Standart Şərtlər ABB tərəfindən 01.10.2023-cü il tarixində təsdiq edilmiş və ABB-nin müvafiq internet
+səhifəsində (www.abb-bank.az) yerləşdirilmişdir.
+28.2. Bu Standart Şərtlərdə nəzərdə tutulmayan xidmətlər ABB tərəfindən Müştəriyə göstərilə bilər və Standart
+Şərtlərin müddəaları həmin xidmətlərdən yaranan münasibətlərə şamil edilmir.
+28.3. Bu Standart Şərtlər çərçivəsində imzalanan müvafiq Müqavilələrin müddəaları ilə Standart Şərtlər
+arasında uyğunsuzluq yarandıqda müvafiq Müqavilələrin şərtləri əsas götürülür.
+28.4. Bu Standart Şərtlər çərçivəsində təqdim olunan xidmətlər üzrə müvafiq Müqavilə imzalanan tarixədək
+həmin xidmətlər üzrə Tərəflər arasında daha əvvəl imzalanmış müqavilələr mövcud olduğu halda həmin
+müqavilələrin bu Standart Şərtlərlə ziddiyyət təşkil edən müddəaları qüvvədən düşür və həmin
+münasibətlərə, habelə Satndart Şərtlərdə əks olunan lakin, sözügedən müqavilələrdə tənzimlənməyən
+məsələlərə bu Standart Şərtlərin müddəaları tətbiq edilir.
+28.5. Bu Standart Şərtlərin və müvafiq Müqavilənin hər hansı müddəasının etibarsızlığı onun digər
+müddəalarının və bütövlükdə Standart Şərtlərin və müvafiq Müqavilənin etibarsızlığına səbəb olmur.
+28.6. Bu Standart Şərtlərə və müvafiq Müqaviləyə dair bütün əlavə və dəyişikliklər bu Standart Şərtlərdə
+nəzərdə tutulan formada tərtib edilir, imzalanır və müvafiq Müqavilənin, habelə Standart Şərtlərin tərkib
+hissəsini təşkil edir.
+28.7. Tərəflər təsdiq edir ki, Müştərinin ABB-ə təqdim etdiyi əlaqə vasitələrinə sonuncu tərəfindən özünün
+təqdim etdiyi müxtəlif məhsul və xidmətlər, habelə kampaniyalar haqqında məlumatlar göndərilə bilər.
+28.8. Bu Standart Şərtlər və müvafiq Müqavilə üzrə bütün yazışmalar poçt göndərişləri, kuryer xidmətləri, faks,
+sms, elektron poçt vasitəsilə həyata keçirilə bilər.
+28.9. Müştərinin əlaqə vasitələri (ünvanı, telefon nömrəsi və s ) və bank rekvizitləri dəyişdikdə, o, müvafiq
+dəyişikliyin baş verdiyi tarixdən 5 (beş) iş günü müddətində ABB-ni yazılı surətdə xəbərdar etməlidir.
+Belə xəbərdarlığın edilmədiyi təqdirdə Müştəriyə göndərilən istənilən göndəriş (sms, bildiriş, tələb,
+pretenziya və s.) onun müvafiq Müqavilənin şərtlərinə uyğun olaraq son məlum olan ünvanına/telefon
+nömrəsinə göndərilir və Müştəri həmin ünvanda yaşamasa/telefon nömrəsinə sahib olmasa da, lazımı
+qaydada çatdırılmış hesab olunur. Bu halda müvafiq bank əməliyyatlarının həyata keçirilməsi üçün həmin
+nömrə vasitəsilə birdəfəlik təsdiqetmə kodundan (OTP) istifadə edilərək edilən təsdiqlər Müştəri
+tərəfindən edilmiş hesab edilir və buna görə məsuliyyəti Müştəri daşıyır.
+28.10. Müvafiq Müqavilənin qüvvədə olma müddətinin qurtarması Tərəfləri həmin müddət qurtarana qədər yol
+verilmiş pozuntulara görə məsuliyyətdən azad etmir.
+28.11. ABB tərəfindən, Müştəridən daxil olan müraciətlərə baxılması qaydası “Vətəndaşların müraciətləri
+haqqında” Azərbaycan Respublikası Qanununa və ABB-daxili qaydalara əsasən həyata keçirilir.
+28.12. Müştəri təsdiq edir və zəmanət verir ki, bu Standart Şərtlərdə göstərilmiş xidmətlərdən sahibkarlıq
+fəaliyyətinin həyata keçirilməsi məqsədi istisna olmaqla, qanunvericiliklə qadağan edilməyən digər
+məqsədlər üçün istifadə edir.
+28.13. Müştəri tərəfindən müraciət, təklif və şikayətlərin ABB-nin, habelə Azərbaycan Respublikasının Mərkəzi
+Bankının müvafiq struktur bölməsinə (İdarəsinə) təqdim edilməsi aşağıdakı əlaqə vasitələri ilə həyata
+keçirilə bilər:
+ABB:
+- Qaynar xətt: 937;
+- Elektron poçt: info@abb-bank.az və ya muraciet@abb-bank.az.
+Azərbaycan Respublikasının Mərkəzi Bankı üzrə:
+- Qaynar xətt: +99412 966;
+- Telefon nömrəsi: +99412 4935058.
+Azərbaycan Respublikası Mərkəzi Bankının Naxçıvan Muxtar Respublikası İdarəsi üzrə:
+- Qaynar xətt: 2244;
+- WhatsApp xətti: +99460 400 22 44.

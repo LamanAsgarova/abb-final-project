@@ -14,7 +14,6 @@ from .localization import get_text
 def user_dashboard_page(user_role, lang):
     st.sidebar.title(get_text(lang, "nav_header"))
     
-    # navigation with 3 options
     page_options = { 
         "az": ("🤖 Söhbət", "📚 Fayl Kitabxanası", "🔬 Fayl Analizi"), 
         "en": ("🤖 Chatbot", "📚 Document Library", "🔬 Document Analysis") 
@@ -26,7 +25,6 @@ def user_dashboard_page(user_role, lang):
     
     page = st.sidebar.radio(get_text(lang, "nav_header"), page_options[lang], key="page_selection", label_visibility="collapsed")
 
-    # routing to the selected page
     if page == page_options[lang][0]:
         if st.sidebar.button(get_text(lang, "new_chat_button")):
             st.session_state.messages = []
@@ -42,14 +40,12 @@ def auto_scroll():
 
 
 def chatbot_page(user_role, lang):
-    """The final chatbot interface with all features integrated."""
     st.markdown(f"<h1 style='text-align: center;'>{get_text(lang, 'chatbot_welcome_message')}</h1>", unsafe_allow_html=True)
     st.divider()
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # display chat history
     for idx, message in enumerate(st.session_state.messages):
         with st.chat_message(message["role"]):
             if message["role"] == "user":
@@ -60,13 +56,18 @@ def chatbot_page(user_role, lang):
             answer_text = assistant_content.get("answer_text", "")
             chart_info = assistant_content.get("chart_info")
             source_filepath = assistant_content.get("source_filepath")
+            source_filename = assistant_content.get("source_filename")
 
             st.markdown(answer_text)
             
-            # display visualize button if a chart is possible
+            if source_filename:
+                if st.button(f"🔎 Mənbəni Kitabxanada Göstər: {source_filename}", key=f"show_source_{idx}"):
+                    st.session_state.search_from_chat = source_filename
+                    st.session_state.navigate_to_library = True
+                    st.rerun()
+            
             if chart_info and source_filepath:
                 if st.button("📊 Vizualizasiya et", key=f"viz_{idx}"):
-                    # Call the corrected function with 3 arguments
                     fig = create_chart(source_filepath, chart_info, lang)
                     if fig:
                         st.session_state.messages[idx]["chart_figure"] = fig
@@ -74,13 +75,11 @@ def chatbot_page(user_role, lang):
                         st.session_state.messages[idx]["chart_figure"] = "error"
                     st.rerun()
 
-            # display the generated chart or an error
             if message.get("chart_figure") and message.get("chart_figure") != "error":
                 st.plotly_chart(message["chart_figure"], use_container_width=True)
             elif message.get("chart_figure") == "error":
                 st.error("Qrafik qurmaq üçün sənəddəki məlumatda problem yarandı.")
     
-    # user input and response generation
     if prompt := st.chat_input(get_text(lang, "search_placeholder")):
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.rerun()
@@ -89,17 +88,36 @@ def chatbot_page(user_role, lang):
         last_prompt = st.session_state.messages[-1]["content"]
         with st.chat_message("assistant", avatar="🤖"):
             with st.spinner(get_text(lang, "generating_answer_spinner")):
-                search_results = semantic_search(query=last_prompt, user_role=user_role, top_k=1)
-                source_filepath_for_llm = search_results[0]['original_filepath'] if search_results else None
+                search_results = semantic_search(query=last_prompt, user_role=user_role, top_k=5)
                 context_with_sources = [f"[Source: {item['original_filename']}]\n{item['chunk_text']}" for item in search_results] if search_results else []
-                json_response_str = get_answer_from_llm(query=last_prompt, context_chunks=context_with_sources, chat_history=[])
+                
+                chat_history_for_llm = st.session_state.get("messages", [])
+                json_response_str = get_answer_from_llm(
+                    query=last_prompt, 
+                    context_chunks=context_with_sources, 
+                    chat_history=chat_history_for_llm
+                )
                 
                 try:
                     response_data = json.loads(json_response_str)
-                    response_data["source_filepath"] = source_filepath_for_llm
+                    
+                    # LLM-in seçdiyi mənbənin adını cavabdan götürürük
+                    llm_chosen_filename = response_data.get("source_filename")
+                    
+                    # Həmin ada uyğun fayl yolunu (filepath) axtarış nəticələrindən tapırıq
+                    final_source_filepath = None
+                    if llm_chosen_filename and search_results:
+                        for result in search_results:
+                            if result['original_filename'] == llm_chosen_filename:
+                                final_source_filepath = result['original_filepath']
+                                break
+                    
+                    # Yekun məlumatları sessiyaya yazırıq
+                    response_data["source_filepath"] = final_source_filepath
+                    
                     st.session_state.messages.append({"role": "assistant", "content": response_data})
-                except json.JSONDecodeError:
-                    err_msg = {"answer_text": "AI returned an invalid format.", "chart_info": None}
+                except (json.JSONDecodeError, KeyError) as e:
+                    err_msg = {"answer_text": f"AI cavab formatında xəta baş verdi: {e}", "chart_info": None, "source_filename": None}
                     st.session_state.messages.append({"role": "assistant", "content": err_msg})
                 st.rerun()
 
@@ -107,11 +125,9 @@ def chatbot_page(user_role, lang):
 
 
 def library_page(user_role, lang):
-    """The document library with a search bar and consolidated action buttons."""
     st.subheader(get_text(lang, "library_header"))
     all_user_documents = get_accessible_documents(user_role)
 
-    # hand search term passed from chat or entered by user
     search_term_key = "search_term_from_library"
     if "search_from_chat" in st.session_state:
         st.session_state[search_term_key] = st.session_state.search_from_chat
@@ -128,7 +144,6 @@ def library_page(user_role, lang):
         st.info(get_text(lang, "no_docs_uploaded"))
         return
 
-    # Initialize session state for displaying insights
     if 'active_doc_info' not in st.session_state:
         st.session_state.active_doc_info = None
 
@@ -165,7 +180,6 @@ def library_page(user_role, lang):
 
 
 def analysis_page(lang):
-    """A dedicated page for one-time analysis of a user-uploaded document."""
     st.subheader(get_text(lang, "analysis_header"))
     st.info(get_text(lang, "analysis_info"))
 

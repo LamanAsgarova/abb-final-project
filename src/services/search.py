@@ -27,11 +27,8 @@ def semantic_search(query: str, user_role: str, top_k: int = 5, temp_index=None,
     if temp_index and temp_vector_store:
         index_to_search=temp_index
         store_to_use=temp_vector_store
-    else:
-        if not all([index, vector_store, metadata_index]):
-            return []
-        index_to_search=index
-        store_to_use=vector_store
+    if not all([index, vector_store, metadata_index]):
+        return []
 
     accessible_docs_metadata = get_accessible_documents(user_role)
     accessible_source_files = {os.path.splitext(doc['file_name'])[0] for doc in accessible_docs_metadata}

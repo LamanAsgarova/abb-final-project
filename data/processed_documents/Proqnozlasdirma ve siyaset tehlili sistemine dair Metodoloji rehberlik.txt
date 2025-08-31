@@ -1,0 +1,115 @@
+Azərbaycan Respublikası
+Mərkəzi Bankının İdarə Heyətinin
+"16" dekabr 2022-ci il tarixli
+qərarı ilə təsdiq edilmişdir.
+Protokol № 56
+D/Reyestr № 450
+Proqnozlaşdırma və siyasət təhlili sisteminə dair
+Metodoloji rəhbərlik
+1. Ümumi müddəalar
+Bu Metodoloji rəhbərlik Azərbaycan Respublikasının Mərkəzi Bankında (bundan sonra
+- AMB) Pul siyasəti və maliyyə sabitliyi komitəsinin iclasları üçün analitik materialların
+hazırlanması məqsədilə istifadə olunan Proqnozlaşdırma və siyasət təhlili sisteminin
+mahiyyətini, mərhələlərini və idarəetmə çərçivəsini müəyyən edir.
+2. Anlayışlar və akronimlər
+2.1. Bu Metodoloji rəhbərlikdə istifadə olunan anlayışlar və akronimlər aşağıdakı
+mənaları ifadə edir:
+2.1.1. PSTS – Proqnozlaşdırma və siyasət təhlili sistemi;
+2.1.2. PSTS qrupu – Proqnozlaşdırma və siyasət təhlili sistemi çərçivəsində Analitik
+blokun əməkdaşlarından təşkil olunan qrup;
+2.1.3. PSMSK – Pul siyasəti və maliyyə sabitliyi komitəsi;
+2.1.4. PSMSK-nin üzvləri – AMB-nin İdarə Heyəti və müvafiq rəhbər şəxslərindən
+təşkil olunmuş kollegial orqan;
+2.1.5. Analitik blok – Pul siyasəti, Statistika və Tədqiqatlar departamentləri;
+2.1.6. Qeyri-struktur modellər – dəyişənlər arasında qarşılıqlı əlaqəyə dair heç bir
+məhdudiyyətin tətbiq olunmadığı ekonometrik modellər;
+2.1.7. DSÜT – dinamik stoxastik ümumi tarazlıq modeli;
+2.1.8. RPM – rüblük proqnozlaşdırma modeli;
+2.1.9. Pul siyasəti qərarı – faiz dəhlizinin parametrlərinə və pul siyasətinin aralıq və
+əməliyyat hədəflərinə dair qərarların məcmusu.
+3. Proqnozlaşdırma və siyasət təhlili sisteminin məqsədi və mahiyyəti
+3.1. Qabaqcıl mərkəzi bankların təcrübəsində olduğu kimi AMB-də də PSTS-
+nin qurulmasında əsas məqsəd PSMSK tərəfindən pul və məzənnə siyasətinə dair
+qərarların qəbul olunması üçün analitik dəstək göstərməkdir.
+3.2. PSTS-nin tətbiqi qlobal mühitdə, tərəfdaş ölkələrdə gedən iqtisadi proseslərin və
+Azərbaycanda cari makroiqtisadi vəziyyətin təhlilinə, onu xarakterizə edən əsas göstəriciləri
+(inflyasiya, məcmu buraxılış kəsiri, iqtisadi artım, məcmu tələbin komponentləri, cari
+əməliyyatlar balansı və s.) mümkün inkişaf ssenariləri üzrə proqnozlaşdırmağa imkan verir.
+3.3. PSTS çərçivəsində biznes proseslər 5 mərhələdən ibarət olmaqla PSMSK-nin
+iclasından 5 həftə əvvəl başlayır. İlk 3 mərhələ 4 həftəlik müddəti əhatə edir. Bu zaman təhlil
+nəticələri və ssenarilər üzrə proqnozlar hazırlanaraq təqdimat formatında PSMSK-nin üzvlə-
+rinə təqdim edilir. PSTS-nin son 2 mərhələsi 5-ci həftəyə təsadüf edir. Bu mərhələlərdə
+PSMSK iclasının keçirilməsi, qərarların qəbul edilməsi və ictimaiyyətə açıqlanması təmin
+edilir.
+3.4. PSTS çərçivəsində mərhələlər və həftəlik iş bölgüsü üzrə biznes proseslərin
+fasiləsiz və vaxtında həyata keçirilməsi ciddi əhəmiyyət daşıyır və müəyyən olunmuş
+qrafikdən kənarlaşma PSTS-nin mahiyyət və məqsədilə ziddiyyət təşkil edir.
+2
+4. PSTS çərçivəsində biznes proseslər
+4.1. PSTS çərçivəsində həyata keçirilən biznes proseslər aşağıdakı mərhələləri əhatə
+edir:
+4.1.1. 1-ci mərhələ (1-ci həftə): təqdimatın mündəricatının hazırlanması. Bu
+mərhələdə PSTS qrupunun koordinatoru tərəfindən ölkə iqtisadiyyatında, qlobal mühitdə və
+tərəfdaş ölkələrdə gedən iqtisadi proseslər nəzərə alınmaqla PSMSK-də müzakirəyə
+çıxarılacaq təqdimatın mündəricatı (əhatə ediləcək aktual mövzular) hazırlanır. Mündəricat
+əvvəlcə Analitik blokun əməkdaşları arasında müzakirə edilərək təkmilləşdirilir. Daha sonra
+PSTS qrupunun koordinatoru təqdimatın mündəricatını PSMSK-nin üzvlərinə rəy üçün e-
+poçt vasitəsilə müvafiq həftənin 3-cü iş günü təqdim edir. PSMSK-nin üzvləri həmin həftənin
+sonuna qədər mündəricata dair rəy və təkliflər bildirə bilərlər.
+4.1.2. 2-ci mərhələ (2-ci həftə): fərziyyələrin və ssenarilərin müəyyən edilməsi. Bu
+mərhələdə AMB-nin fəaliyyətindən asılı olmayan amillərə (neftin qiyməti və hasilat həcmi,
+dövlət büdcəsinin parametrləri, qlobal əmtəə birjalarında qiymətlər, tərəfdaş ölkələrdə
+inflyasiya, iqtisadi artım və s.) dair PSTS qrupu tərəfindən istinad olunacaq fərziyyələr və
+baza ssenarinin parametrləri hazırlanır. Analitik blok daxilində müzakirələrdən sonra baza
+ssenarinin reallaşmasına mane ola biləcək risklər müəyyən edilir. Risklər əsasında alternativ
+ssenarilər (bədbin və nikbin ssenarilər) tərtib oluna bilər. Hazırlanmış fərziyyələr, baza və
+alternativ ssenarilər müvafiq həftənin 3-cü iş günü PSTS qrupunun koordinatoru tərəfindən
+PSMSK-nin üzvlərinə rəy üçün təqdim edilir. Müzakirələrdən sonra fərziyyələr və ssenarilər
+konsensus əsasında PSMSK-nin üzvləri tərəfindən qəbul edilir. Bu mərhələdə paralel olaraq
+ekonometrik modellərin verilənlər bazasının və təhlillər üçün zəruri olan məlumatların
+yenilənməsinə başlanır.
+4.1.3. 3-cü mərhələ (3-cü və 4-cü həftələr): təhlillərin aparılması, proqnozların
+hazırlanması. İlk 2 mərhələdə razılaşdırılmış mündəricat, fərziyyə və ssenarilərə əsasən
+PSTS qrupunun üzvləri müvafiq təhlillər aparır və makroiqtisadi göstəricilərin proqnozlarını
+hazırlayır. Analitik blok daxilində müzakirə əsasında təhlil və proqnozlar üzərində
+təkmilləşdirmə və dəqiqləşdirmələr aparılır. Yekun nəticələrə əsaslanaraq pul siyasəti
+qərarına dair təkliflər hazırlanır.
+4.1.4. 4-cü mərhələ (5-ci həftə): PSMSK-nin iclasının keçirilməsi. Hazırlanmış
+təqdimat və materiallar iclasın keçiriləcəyi tarixdən ən azı 1 iş günü əvvəl PSMSK-nin
+üzvlərinə təqdim edilir. İclasda təqdimatı Analitik blokun kuratoru və ya bloka daxil olan
+departamentlərdən birinin direktoru həyata keçirir. PSMSK iclası 2 gün keçirilir. İclasın birinci
+günü təqdimat və müvafiq dəqiqləşdirici suallar, ikinci günü isə pul siyasətinə dair təkliflər
+müzakirə edilir. PSMSK-nin tövsiyələri nəzərə alınmaqla AMB İdarə Heyəti pul siyasəti
+qərarını qəbul edir. PSMSK-nin iclaslarına dair protokol tərtib olunur və qərar protokolla
+rəsmiləşdirilir.
+4.1.5. 5-ci mərhələ (5-ci həftə): qərarın geniş ictimaiyyətə açıqlanması. AMB-nin rəsmi
+internet səhifəsində əvvəlcədən müəyyən edilmiş tarix və vaxtda pul siyasəti qərarı pres-
+reliz vasitəsilə ictimaiyyətə açıqlanır. Hər ilin pul siyasətinin əsas istiqamətləri barədə
+bəyanatında öncədən açıqlanmış qrafik üzrə qərarlara dair mətbuat konfransı keçirilir.
+3
+4.1.6. PSMSK tərəfindən qərar qəbul olunan həftə AMB-ni təmsil edən məsul şəxslər
+üçün pul və məzənnə siyasəti ilə bağlı “sakit həftə” hesab olunur. Bu həftə ərzində qərarın
+elan olunduğu günədək müvafiq ictimai kommunikasiya həyata keçirilmir.
+5. PSTS çərçivəsində proqnozlaşdırma prosesi
+5.1. Proqnozlaşdırma prosesi üç mərhələdən ibarətdir: naukastinq, qısamüddətli
+proqnozlaşdırma və ortamüddətli proqnozlaşdırma.
+5.1.1. Naukastinq mərhələsində dövr bitdikdən, lakin rəsmi statistik məlumatlar dərc
+olunmazdan öncə zəruri makroiqtisadi göstəricilər alternativ məlumatlar vasitəsilə
+qiymətləndirilir.
+5.1.2. Naukastinqin nəticələrindən istifadə etməklə qeyri-struktur modellər vasitəsilə
+göstəricilərin qısamüddətli (1-3 rüblük) proqnozu verilir.
+5.1.3. Həm naukastinq, həm də qısamüddətli proqnoz nəticələri əsas modellər olan
+DSÜT və ya RPM-ə daxil edilərək ortamüddətli proqnozlar hazırlanır.
+6. PSTS-nin idarəetmə və təşkilati məsələləri
+6.1. PSTS qrupu Analitik bloka daxil olan departamentlərin əməkdaşlarından təşkil
+olunur. Qrupa koordinatorluq funksiyası Pul siyasəti və ya Tədqiqatlar departamentlərindən
+birinin direktor müavini və ya şöbə rəisi tərəfindən həyata keçirilir.
+6.2. PSTS qrupunun üzvləri PSTS prosesində istifadə olunan bütün analitik və statistik
+məlumatlara, həmçinin ekonometrik modellərə çıxış imkanına malik olurlar.
+6.3. PSTS-nin mərhələləri üzrə kənarlaşmaların aradan qaldırılması üzrə zəruri
+tədbirlər Analitik blokun kuratoru və ya bloka daxil olan departamentlərin direktorları ilə
+koordinasiya edilir.
+7. Yekun müddəa
+Metodoloji rəhbərlik təsdiq edildiyi gündən qüvvəyə minir.
+Mərkəzi Bankın sədri Taleh Kazımov
+4

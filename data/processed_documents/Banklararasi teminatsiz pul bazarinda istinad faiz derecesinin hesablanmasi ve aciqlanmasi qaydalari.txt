@@ -1,0 +1,202 @@
+Azərbaycan Respublikası
+Mərkəzi Bankı İdarə Heyətinin
+“06” may 2025-ci il tarixli
+qərarı ilə təsdiq edilmişdir
+Protokol № 17
+D/reyestr № 534
+BANKLARARASI TƏMİNATSIZ PUL BAZARINDA İSTİNAD FAİZ DƏRƏCƏSİNİN
+HESABLANMASI VƏ AÇIQLANMASI QAYDALARI
+1. Ümumi müddəalar
+1.1. Bu Qaydalar Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra –
+Mərkəzi Bank) müəyyən etdiyi ticarət platformasında (bundan sonra - ticarət platforması)
+manatla pul bazarında aparılan əməliyyatlar üzrə istinad faiz dərəcəsinin Mərkəzi Bank
+tərəfindən hesablanmasının prosedur qaydalarını müəyyən edir.
+1.2. 1 günlük banklararası təminatsız pul bazarında istinad faiz dərəcəsi (bundan
+sonra AZIR - Azerbaijan Interbank Rate) manatla həyata keçirilən və bu Qaydaların 2-ci
+hissəsində müəyyən edilən tələblərə cavab verən əqdlərin (bundan sonra – uyğun əqdlər)
+cəmi məbləğinin mərkəzi 80%-nin faiz dərəcələrinin orta çəkili kəmiyyətidir.
+1.3. AZIR Azərbaycan Respublikasında kommersiya banklarının bir-birindən borc
+aldıqları qısamüddətli vəsaitlər üzrə faiz dərəcəsinin orta göstəricisidir və manatla üzən
+faiz dərəcəli maliyyə alətləri üçün istinad faiz dərəcəsi kimi çıxış edə bilər.
+2. AZIR-in hesablanmasına daxil edilən əqdlərə dair tələblər
+2.1. Aşağıdakı meyarlara cavab verən banklararası əqdlər uyğun əqdlər hesab olunur
+və AZIR-in hesablanması zamanı nəzərə alınır:
+2.1.1. Azərbaycan Respublikasında fəaliyyət göstərən kommersiya bankları arasında
+ticarət platformasında milli valyutada bağlanan əqdlər;
+2.1.2. təminatsız əsasda və bir iş günü müddətinə bağlanan əqdlər;
+1
+2.1.3. milli ödəniş sisteminin reqlamentinə uyğun olaraq banklararası əməliyyatların
+aparılması üçün müəyyən edilmiş müddətdə bağlanan, günün sonunadək ləğv edilməyən
+və hesablaşma tarixi əqdin bağlanma tarixi ilə eyni gündə olan əqdlər.
+3. AZIR-in hesablanma metodologiyası
+3.1. Mərkəzi Bank tərəfindən AZIR-in hesablanması üçün hər iş günü aşağıdakılar
+həyata keçirilir:
+3.1.1. iş gününün sonu ticarət platformasından məlumat əldə etməklə uyğun əqdlərin
+siyahısı formalaşdırılır;
+3.1.2. bütün uyğun əqdlər faiz dərəcəsinə görə aşağıdan yuxarıya doğru sıralanır;
+3.1.3. eyni faiz dərəcəli bütün əqdlərin məbləği faiz dərəcəsi üzrə cəmlənir;
+3.1.4. AZIR-də mümkün təhrif və arzuolunmaz dəyişkənliyin aradan qaldırılması
+məqsədilə ticarət həcminin 10%-lik hissəsi faiz dərəcələri üzrə sıralanmış siyahıda ən
+yüksək və ən aşağı faiz dərəcələrində toplanmış həcmlərdən kənarlaşdırıcı göstəricilər
+kimi çıxarılır;
+3.1.5. AZIR aşağıdakı düsturla siyahıda qalan faiz dərəcələrinin çəkili ortası kimi
+hesablanır, on mində bir səviyyəsinə qədər yuvarlaqlaşdırılır və faktiki günlərin sayı/360
+hesablama bazasından istifadə etməklə illik faiz kimi göstərilir:
+∑𝑛 𝑣 × 𝑟
+𝑖=1 𝑖 𝑖
+𝐴𝑍𝐼𝑅 =
+∑𝑛 𝑣
+𝑖=1 𝑖
+Burada:
+AZIR – orta çəkili faiz dərəcəsi;
+n – bu Qaydaların 2.1.1-2.1.3-cü yarımbəndlərində göstərilən tələblərə cavab verən əqdlər
+üzrə fərqli faiz dərəcələrinin sayı;
+r – əqdlər üzrə hər bir fərqli faiz dərəcəsi (faizlə);
+i
+v – verilən faiz dərəcəsi ilə (r ) aparılmış əqdlərin məbləği.
+i i
+4. Müddətlər üzrə toplanan faizli AZIR-in hesablanması
+4.1. Mərkəzi Bank hər iş günü 3 fərqli müddət üzrə toplanan faizli AZIR-i hesablayır
+və açıqlayır.
+2
+4.2. “Toplanan faizli 30 günlük AZIR”, “toplanan faizli 90 günlük AZIR” və “toplanan
+faizli 180 günlük AZIR” kimi adlandırılan faiz dərəcələri müvafiq olaraq 30, 90 və 180 günlük
+dövr üzrə AZIR faiz dərəcələrinin mürəkkəb faiz artımı əsasında kapitallaşması ilə
+hesablanır. Qeyri-iş günləri üzrə sadə faiz dərəcəsi tətbiq edilir və bu zaman həmin günlər
+üzrə faiz dərəcəsi sonuncu iş gününün AZIR dərəcəsinə bərabər götürülür.
+4.3. 30, 90 və 180 günlük istinad dövrlərinin hər biri üçün toplanan faizli AZIR
+aşağıdakı düstura əsaslanır:
+𝑑
+𝑏
+𝐴𝑍𝐼𝑅 × 𝑛 360
+𝑖 𝑖
+Toplanan faizli 𝑛 günlük AZIR = [∏(1+ )−1]×
+360 𝑇
+𝑖=1
+Burada:
+𝐴𝑍𝐼𝑅 – i iş günü üzrə AZIR dərəcəsi;
+𝑖
+𝑛 – AZIR faiz dərəcəsinin şamil olunduğu təqvim günlərinin sayı;
+𝑖
+𝑇 – istinad dövründəki təqvim günlərinin sayı (30, 90 və ya 180 təqvim günü);
+𝑑 - istinad dövründəki iş günlərinin sayı.
+𝑏
+4.4. Toplanan faizli AZIR dərəcələri on mində bir səviyyəsinə qədər
+yuvarlaqlaşdırılaraq faiz şəklində açıqlanır.
+4.5. Hər hansı bir açıqlanma tarixi üçün 30 günlük, 90 günlük, 180 günlük toplanan
+faizli AZIR dərəcələri müvafiq olaraq 30, 90, 180 təqvim günü əvvəlki tarixin AZIR
+dərəcəsindən başlayaraq (həmin tarixin həftə sonu və ya qeyri-iş günü olmasından asılı
+olmayaraq) açıqlanma tarixinin AZIR dərəcəsinədək olan dövrü özündə ehtiva edir. 30
+günlük, 90 günlük və ya 180 günlük müddətlərin ilk günü qeyri-iş gününə təsadüf edərsə,
+həmin gün üçün AZIR dərəcəsi əvvəlki iş gününün AZIR dərəcəsinə bərabər götürülür.1
+5. Toplanan faizli artan AZIR indeksi
+5.1. Toplanan faizli artan AZIR indeksi (TFAİ) baza dövrünə nəzərən AZIR-in
+kumulyativ dəyişimini ölçür və ilkin dəyəri 01.11.2024-cü il tarixinə 100,000 000 (yüz –
+vergüldən sonra 6 rəqəmə qədər yuvarlaqlaşdırılmış) olaraq təyin edilir.
+1 Məsələn, əgər 30 günlük, 90 günlük və ya 180 günlük müddətlərin başlanğıc tarixi şənbə gününə təsadüf
+edərsə, ondan əvvəlki cümə gününün AZIR dərəcəsi sonrakı 2 təqvim günü (şənbə və bazar günləri) üçün
+tətbiq olunur.
+3
+5.2. AZIR TFAİ aşağıdakı düsturla hesablanır:
+𝐴𝑍𝐼𝑅 ×𝑑
+𝑖−1 𝑖−1
+𝐴𝑍𝐼𝑅 𝑇𝐹𝐴𝐼 = 𝐴𝑍𝐼𝑅 𝑇𝐹𝐴𝐼 × (1+ )
+𝑖 𝑖−1 360
+Burada:
+𝐴𝑍𝐼𝑅 𝑇𝐹𝐴𝐼 – i iş günü üçün AZIR TFAİ-dir, növbəti iş günü vergüldən sonra 6 rəqəmə
+𝑖
+qədər yuvarlaqlaşdırılaraq açıqlanır;
+𝐴𝑍𝐼𝑅 𝑇𝐹𝐴𝐼 – i–1 iş günü üçün AZIR TFAİ-dir, növbəti iş günü vergüldən sonra 6
+𝑖−1
+rəqəmə qədər yuvarlaqlaşdırılaraq açıqlanır;
+𝐴𝑍𝐼𝑅 – i–1 iş günündə bağlanmış əqdlər üzrə hesablanan və növbəti iş günündə
+𝑖−1
+açıqlanan AZIR-dir;
+𝑑 - 𝐴𝑍𝐼𝑅 -in tətbiq olunduğu i–1 iş günündən i iş gününə qədər olan təqvim
+𝑖−1 𝑖−1
+günlərinin sayıdır.
+5.3. Bazar iştirakçıları aşağıdakı düsturdan istifadə edərək açıqlanan toplanan faizli
+AZIR əsasında istənilən istinad dövrü üzrə toplanan faizli artan AZIR dərəcəsini əldə edə
+bilərlər:
+𝐴𝑍𝐼𝑅 𝑇𝐹𝐴İ 360
+𝑠𝑜𝑛 𝑡𝑎𝑟𝑖𝑥
+Toplanan faizli artan 𝐴𝑍𝐼𝑅 = [ −1]×
+𝑑ö𝑣𝑟 𝐴𝑍𝐼𝑅 𝑇𝐹𝐴İ 𝑇
+𝑏𝑎ş𝑙𝑎𝑛ğ𝚤𝑐 𝑡𝑎𝑟𝑖𝑥
+Burada:
+Toplanan faizli artan 𝐴𝑍𝐼𝑅 – hesablama dövrü üzrə toplanan faizli artan AZIR
+𝑑ö𝑣𝑟
+indeksidir, vergüldən sonra 4 rəqəmə qədər yuvarlaqlaşdırılır;
+𝐴𝑍𝐼𝑅 𝑇𝐹𝐴İ – hesablama dövrünün son günü üçün AZIR TFAİ-dir;
+𝑠𝑜𝑛 𝑡𝑎𝑟𝑖𝑥
+𝐴𝑍𝐼𝑅 𝑇𝐹𝐴İ – hesablama dövrünün ilk günü üçün AZIR TFAİ-dir;
+𝑏𝑎ş𝑙𝑎𝑛ğ𝚤𝑐 𝑡𝑎𝑟𝑖𝑥
+𝑇 – hesablama dövründəki günlərin sayıdır.
+6. AZIR-in açıqlanması
+6.1. Mərkəzi Bank AZIR-in hesablanmasının inzibatçısı olaraq AZIR-i hesablayır və
+müvafiq əqdlərin bağlandığı gündən sonrakı iş günü saat 10:00-dan gec olmayaraq
+Mərkəzi Bankın rəsmi internet səhifəsində açıqlayır.
+6.2. Mərkəzi Bank tərəfindən AZIR ilə yanaşı, bu Qaydaların 2.1-ci bəndində
+göstərilən tələblərə cavab verən əqdlərin ümumi məbləği və sayı, əvvəlki dövrlər üzrə
+4
+açıqlanmış AZIR-in zaman sırası, AZIR-in hesablanması və açıqlanması metodologiyası
+rəsmi internet səhifəsində açıqlanır.
+6.3. Mərkəzi Bankın rəsmi internet səhifəsində açıqlandıqdan sonra AZIR-ə hər hansı
+dəyişiklik edilməsinə yol verilmir. Bununla belə, AZIR-in hesablamasında səhvlər aşkar
+edilərsə və düzgün məlumat əsasında hesablanmalı olan AZIR əvvəlki açıqlanmış AZIR-
+dən üç baza bəndindən çox (>0,03%) fərqlənərsə, Mərkəzi Bank növbəti iş günü saat
+10:00-dan gec olmayaraq “düzəldilmiş” statusu ilə düzəliş edilmiş AZIR-i açıqlayır.
+Müəyyən bir gün üzrə açıqlanmış AZIR üçün yalnız bir dəfə düzəliş edilə bilər.
+7. AZIR-in hesablanması və açıqlanması üzrə davamlılığının təmin edilməsi
+7.1. İstənilən iş günü ərzində bu Qaydaların 2.1-ci yarımbəndində göstərilən tələblərə
+cavab verən uyğun əqdlərin sayı və ya məbləği aşağıda göstərilən səviyyədən az olduqda
+banklararası bazarda bağlanan əqdlər AZIR-in bu Qaydaların 3-cü hissəsində göstərilən
+qaydada hesablanması üçün kifayət edən səviyyə hesab olunmur:
+• əqdlərin sayı 3-dən azdırsa;
+• əqdlərin ümumi məbləği 30 milyon manatdan azdırsa.
+7.2. Bu Qaydaların 7.1-ci bəndində göstərilən şərtlərdən hər hansı biri mövcud olduğu
+halda Mərkəzi Bank aşağıdakı ardıcıllıqla AZIR-in hesablanması və açıqlanması üzrə
+ehtiyat planlarını tətbiq edir:
+7.2.1. 1-ci ehtiyat planının tətbiq olunması şərti: AZIR bu Qaydaların 2.1-ci bəndində
+göstərilən tələblərə cavab verən uyğun əqdlər və Mərkəzi Bankın daimi imkan aləti olan 1
+günlük depozit aləti üzrə bağlanmış əqdlərin 10%-i əsasında hesablanır. Bu zaman
+Mərkəzi Bankın daimi imkan depozit aləti üzrə faiz dərəcəsinin üzərinə açıqlanmış AZIR
+və daimi imkan depozit aləti üzrə faiz dərəcəsi arasında əvvəlki 2 iş günü ərzində orta
+spred (fərq) əlavə edilir;
+7.2.2. 2-ci ehtiyat planının tətbiq olunması şərti: Əgər 1-ci ehtiyat planı çərçivəsində
+də hesablamaya daxil edilən əqdlərin ümumi məbləği 30 milyon manatdan az olarsa, AZIR
+Mərkəzi Bankın uçot faiz dərəcəsinin üzərinə açıqlanmış AZIR və uçot faiz dərəcəsi
+arasında əvvəlki 2 iş günü üzrə orta spred (fərq) əlavə edilməklə hesablanır.
+5
+7.2.3. 3-cü ehtiyat planı: Əgər AZIR ardıcıl iki gündən çox II ehtiyat planı üzrə
+hesablanarsa, üçüncü gündən etibarən AZIR Mərkəzi Bankın uçot faiz dərəcəsinə bərabər
+götürülür.
+7.3. AZIR ehtiyat planlarının tətbiq edilməsi ilə hesablanmışdırsa, bu barədə məlumat
+Mərkəzi Bankın rəsmi internet səhifəsində müvafiq qaydada qeyd edilir.
+7.4. Ehtiyat planlar yalnız nisbətən qısamüddətli hallar üçün nəzərdə tutulmuşdur.
+Əgər belə vəziyyətin uzun müddət davam edəcəyi gözlənilərsə, Mərkəzi Bank bu
+Qaydaların 8-ci hissəsinə uyğun olaraq AZIR-in hesablanması metodologiyasına
+dəyişikliklərin edilməsini nəzərdən keçirir.
+8. AZIR-in hesablanma metodologiyasının nəzərdən keçirilməsi və auditi
+8.1. Bu Qaydalara uyğun olaraq AZIR-in hesablanmasının nəzərdən keçirilməsi və
+auditi məqsədilə tərkibi 6 (altı) nəfər olan Mərkəzi Bankın əməkdaşlarından ibarət “Açıq
+Bazar əməliyyatları və indekslərin hesablanmasına nəzarət Komissiyası” (Komissiya)
+yaradılır. Komissiyanın tərkibi Mərkəzi Bankın sədri tərəfindən təsdiq edilir.
+8.2. Komissiya AZIR-in hesablanması və açıqlanmasının bu Qaydalara
+uyğunluğunu müntəzəm olaraq nəzərdən keçirir. Komissiya eyni zamanda bu Qaydalarda
+nəzərdə tutulan metodologiyanın bazar reallıqlarına adekvatlığını və müvafiq bazar
+seqmentinin möhkəm və etibarlı bençmark yaratmaq üçün kifayət qədər dərinliyə malik
+olub-olmadığını qiymətləndirir.
+8.3. Zərurət olduqda Komissiya indekslərin hesablanması qaydasına dəyişikliklərlə
+bağlı təkliflər verə bilər. Komissiya metodoloji dəyişikliklərin zəruriliyini qiymətləndirərkən
+AZIR istifadəçilərinin, o cümlədən bank ictimaiyyəti daxil olmaqla maliyyə bazarı
+iştirakçılarının fikirlərini də nəzərə alır.
+9. Yekun müddəalar
+9.1. Bu Qaydalar təsdiq olunduğu gündən qüvvəyə minir.
+9.2. Bu Qaydalar qüvvəyə mindiyi gündən Mərkəzi Bankın İdarə Heyətinin 19 aprel
+2023-cü il tarixli qərarı (protokol № 08) ilə təsdiq edilmiş “Təminatsız Banklararası Pul
+6
+Bazarında Bençmark Dərəcəsi (AZIR – Azerbaijan Interbank Rate) üzrə İndekslərin
+Hesablanması və Açıqlanması Qaydaları” ləğv edilir.
+Mərkəzi Bankın sədri Taleh Kazımov
+7

@@ -1,0 +1,3034 @@
+PUL SİYASƏTİ İCMALI
+May
+Pul siyasəti icmalı - Noyabr 2024 1
+2025
+MÜNDƏRİCAT
+ABREVİATURLAR ....................................................................................................................................... 4
+ÖN SÖZ .......................................................................................................................................................... 5
+SON PUL SİYASƏTİ QƏRARLARI ............................................................................................................... 6
+1 QLOBAL İQTİSADİYYATDA MEYİLLƏR .................................................................................................. 7
+1.1 QLOBAL İQTİSADİ AKTİVLİK VƏ İNFLYASİYA PROSESLƏRİ ........................................................ 8
+1.1.1 Qlobal iqtisadi aktivlik üzrə göstəricilər ............................................................................... 8
+1.1.2 Dünyada işsizlik üzrə meyillər ............................................................................................... 9
+1.1.3 Dünyada inflyasiya prosesləri .............................................................................................10
+1.2 DÜNYA ƏMTƏƏ QİYMƏTLƏRİ .....................................................................................................11
+1.2.1 Dünya qiymətləri üzrə ümumi meyillər ..............................................................................11
+1.2.2 Dünya ərzaq qiymətlərinin dinamikası ...............................................................................11
+1.2.3 Dünya enerji qiymətlərinin dinamikası ..............................................................................12
+1.3 QLOBAL MALİYYƏ SİSTEMİNDƏ MEYİLLƏR ...............................................................................14
+1.3.1 Mərkəzi bankların pul siyasəti qərarları .............................................................................14
+1.3.2 Maliyyə bazarlarında meyillər .............................................................................................15
+2 DAXİLİ MAKROİQTİSADİ PROSESLƏR .................................................................................................18
+2.1 AZƏRBAYCANIN XARİCİ SEKTORU ..............................................................................................19
+2.1.1 Xarici ticarət dövriyyəsi ........................................................................................................19
+2.1.2 Xarici investisiyalar ...............................................................................................................20
+2.1.3 Turizm sektoru ......................................................................................................................20
+2.1.4 Ölkənin xarici valyuta ehtiyatları .........................................................................................21
+2.2 MƏCMU TƏLƏB ............................................................................................................................22
+2.2.1 Son istehlak xərcləri .............................................................................................................22
+2.2.2 Hökumətin xərcləri ...............................................................................................................24
+2.2.3 İnvestisiya xərcləri ................................................................................................................24
+2.3 MƏCMU TƏKLİF VƏ ƏMƏK BAZARI ............................................................................................26
+2.3.1 İqtisadi artım .........................................................................................................................26
+2.3.2 Məşğulluq ..............................................................................................................................27
+Pul siyasəti icmalı - May 2025 2
+2.4 İNFLYASİYA PROSESLƏRİ .............................................................................................................29
+2.4.1 İstehlak qiymətləri indeksi ...................................................................................................29
+2.4.2 İstehsalçı qiymətləri indeksi ................................................................................................30
+2.4.3 Mənzil qiymətləri indeksi .....................................................................................................31
+3 PUL VƏ MƏZƏNNƏ SİYASƏTİ ..............................................................................................................32
+3.1 PUL SİYASƏTİ ALƏTLƏRİ, PUL BAZARI VƏ MƏZƏNNƏ .............................................................33
+3.1.1 Pul siyasəti alətləri ................................................................................................................33
+3.1.2 Pul bazarı ...............................................................................................................................35
+3.1.3 İkitərəfli və çoxtərəfli məzənnələr ......................................................................................36
+3.2 PUL TƏKLİFİ, DEPOZİT VƏ KREDİT BAZARI ................................................................................38
+3.2.1 Pul bazası və pul kütləsi .......................................................................................................38
+3.2.2 Depozit bazarı .......................................................................................................................39
+3.2.3 Kredit bazarı ..........................................................................................................................41
+4 İQTİSADİ PERSPEKTİVLƏR ....................................................................................................................42
+4.1 QLOBAL İQTİSADİYYATA DAİR PROQNOZLAR VƏ RİSKLƏR .....................................................43
+4.1.1 Qlobal iqtisadi artım və inflyasiya proqnozları ..................................................................43
+4.1.2 Qlobal risklər .........................................................................................................................45
+4.2 AZƏRBAYCAN ÜZRƏ MAKROİQTİSADİ PERSPEKTİVLƏR ..........................................................46
+4.2.1 İqtisadi artım proqnozu .......................................................................................................46
+4.2.2 İnflyasiya proqnozu ..............................................................................................................46
+4.2.3 İnflyasiya gözləntiləri ...........................................................................................................47
+QRAFİK VƏ CƏDVƏLLƏR ..........................................................................................................................48
+Pul siyasəti icmalı - May 2025 3
+ABREVİATURALAR
+AMB Azərbaycan Respublikasının Mərkəzi Bankı
+BƏT Beynəlxalq Əmək Təşkilatı
+Bİİ Biznes İnam İndeksi
+BVF Beynəlxalq Valyuta Fondu
+BXİ Birbaşa Xarici İnvestisiyalar
+Qİİ Qlobal İqtisadi İcmal
+DSK Dövlət Statistika Komitəsi
+DGK Dövlət Gömrük Komitəsi
+FAO BMT-nin Ərzaq və Kənd Təsərrüfatı Təşkilatı
+FES Federal Ehtiyatlar Sistemi
+İEOÖ İnkişaf Etməkdə Olan Ölkələr
+İEÖ İnkişaf Etmiş Ölkələr
+İƏİT İqtisadi Əməkdaşlıq və İnkişaf Təşkilatı
+İİİ İstehlakçı İnam İndeksi
+İQİ İstehlak Qiymətləri İndeksi
+KİQİ Kənd Təsərrüfatı Məhsullarının İstehsalçı Qiymətləri İndeksi
+NEM Nominal Effektiv Məzənnə
+OPEC Neft İxrac Edən Ölkələrin Təşkilatı
+ÖİMDN Ötən İlin Müvafiq Dövrünə Nəzərən
+REM Real Effektiv Məzənnə
+RSM Real Sektorun Monitorinqi
+SİQİ Sənaye Məhsullarının İstehsalçı Qiymətləri İndeksi
+SMİ Satınalma Menecerləri İndeksi
+ÜDM Ümumi Daxili Məhsul
+ÜTT Ümumdünya Ticarət Təşkilatı
+XV Xarici Valyuta
+XDA Xalis Daxili Aktivlər
+XXA Xalis Xarici Aktivlər
+Pul siyasəti icmalı - May 2025 4
+ÖN SÖZ
+2025-ci ilin I rübündə Mərkəzi Bankın pul siyasəti “Azərbaycan Respublikası Mərkəzi Bankının 2025-
+ci il üçün pul siyasətinin əsas istiqamətləri barədə Bəyanatı”na uyğun olaraq həyata keçirilmişdir. AMB
+ölkədə makroiqtisadi sabitliyin qorunmasına yönəldilmiş siyasət yürütmüşdür.
+Hesabat dövründə qlobal mühitə təsir edən əsas amillər geosiyasi gərginliklərin davam etməsi,
+qlobal maliyyə bazarlarında dalğalanma, ticarət siyasətindəki dəyişikliklər fonunda qeyri-müəyyənliklərin
+artması, mühüm beynəlxalq ticarət yollarında maneələrin qalması, eləcə də dünya əmtəə qiymətlərinin və
+tərəfdaş ölkələrdə inflyasiyanın dəyişkənliyi olmuşdur.
+2025-ci ilin ilk rübündə Azərbaycan iqtisadiyyatında artım davam etmiş, tədiyə balansının əsas
+komponentlərindən biri olan xarici ticarət balansında müsbət saldo qeydə alınmışdır. Strateji valyuta
+ehtiyatları beynəlxalq kifayətlilik normalarını üstələməkdə davam etmişdir.
+Dövr ərzində illik inflyasiya proqnozlaşdırılan trayektoriya üzrə hərəkət etmiş və hədəf diapazonu
+daxilində formalaşmışdır. Cari ilin sonuna və 2026-cı ilə də inflyasiyanın hədəfdə qalacağı gözlənilir.
+Dövr ərzində Mərkəzi Bankın pul siyasəti monetar şəraitin idarə edilməsi vasitəsilə inflyasiyanın
+hədəf daxilində saxlanılmasına yönəldilmişdir. Pul siyasəti alətləri bank sisteminin likvidlik mövqeyi nəzərə
+alınmaqla tətbiq edilmişdir. Təminatsız banklararası pul bazarında başlıca istinad faizi olan 1D AZIR
+indeksi faiz dəhlizi daxilində idarə edilmişdir. Hesabat dövründə əməliyyat çərçivəsinin təkmilləşdirilməsi
+davam etdirilmişdir.
+Pul siyasəti icmalı - May 2025 5
+SON PUL SİYASƏTİ QƏRARLARI
+Faiz dəhlizinin Faiz dəhlizinin
+Tarix Uçot dərəcəsi
+aşağı həddi yuxarı həddi
+31 yanvar, 2024 6.5%→6.25% 8%→7.75% 9%→8.75%
+28 mart, 2024 6.25% 7.75%→7.5% 8.75%→8.5%
+1 may, 2024 6.25% 7.5%→7.25% 8.5%→8.25%
+21 iyun, 2024 6.25% 7.25% 8.25%
+31 iyul, 2024 6.25% 7.25% 8.25%
+18 sentyabr, 2024 6.25% 7.25% 8.25%
+1 noyabr, 2024 6.25% 7.25% 8.25%
+18 dekabr, 2024 6.25% 7.25% 8.25%
+22 yanvar, 2025 6.25% 7.25% 8.25%
+12 mart, 2025 6.25% 7.25% 8.25%
+23 aprel, 2025 6.25% 7.25% 8.25%
+Pul siyasəti icmalı - May 2025 6
+1
+QLOBAL
+İQTİSADİYYATDA
+MEYİLLƏR
+Pul siyasəti icmalı - May 2025 7
+1.1 Qlobal iqtisadi aktivlik və inflyasiya prosesləri
+1.1 QLOBAL İQTİSADİ AKTİVLİK VƏ İNFLYASİYA PROSESLƏRİ
+2025-ci ilin ötən dövründə dünyada iqtisadi artım zəifləmiş, qlobal ticarət mühiti pisləşmiş,
+makroiqtisadi dayanıqlılıq ilə bağlı qeyri-müəyyənliklər artmışdır. Ticarət siyasətindəki sərtləşmələr
+fonunda artan risklər hökumətlərin və mərkəzi bankların siyasət imkanlarını daraltmışdır.
+1.1.1 Qlobal iqtisadi aktivlik üzrə Qrafik 1. Qlobal qeyri-müəyyənlik indeksləri1
+Mənbə: Ahir, Bloom, and Furceri 2022; Caldara and
+göstəricilər
+others 2020; Davis 2016; BVF-nin hesablamaları
+2025-ci ilin I rübündə ümumilikdə
+qlobal iqtisadi artım zəif olsa da, davam 70,000 700
+etmişdir.
+60,000 600
+ABŞ-də ÜDM-in artımına əsas töhfə
+verən mənbələr özəl istehlak və daxili tələb
+50,000 500
+olmuşdur. Özəl istehlak 2024-cü ildə illik 2.8%
+artaraq 2000–2019-cu illərdəki 2.4%-lik tarixi 40,000 400
+orta göstəricini üstələmişdir. Lakin 2025-ci ildə
+30,000 300
+bu artım tempi azalma meyilli olmuşdur. Belə
+ki, 2024-cü ilin dekabrında 0.6% artan istehlak
+20,000 200
+2025-ci ilin yanvarında 0.6% azalmış və fevral
+ayında aşağı səviyyədə qalmışdır. ABŞ-də 10,000 100
+siyasət dəyişiklikləri I rübdə qlobal ticarət
+0 0
+sistemini yenidən formalaşdırmış və qlobal 5 6 7 8 9 0 1 2 3 4 5
+1 1 1 1 1 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0
+iqtisadiyyatın dayanıqlılığı ilə bağlı qeyri- 2 2 2 2 2 2 2 2 2 2 2
+müəyyənlikləri artırmışdır.
+Dünya qeyri-müəyyənlik indeksi-WUI (sol şkala)
+Avrozonada dövri bərpa müşahidə
+Ticarət qeyri-müəyyənlik indeksi-TPU (sağ şkala)
+olunur, lakin daxili tələb zəifdir. Almaniya
+İqtisadi qeyri-müəyyənlik indeksi-EPU (sağ şkala)
+istisna olmaqla, Avropanın böyük
+iqtisadiyyatlarında istehlakın artımının iqtisadi
+2025-ci ilin ilk 3 ayında qlobal
+artıma töhfəsinin azalma meyilli olacağı
+iqtisadiyyatda qeyri-müəyyənlikləri ifadə edən
+gözlənilir. Zəif istehlakçı əhval-ruhiyyəsi və
+göstəricilər əsasən artım meyilli olmuşdur.
+yüksək qeyri-müəyyənlik yığımları artırıb,
+2024-cü ilin sonlarından başlayaraq İqtisadi
+istehlakı isə aşağı salıb.
+qeyri-müəyyənlik (EPU) və xüsusilə Ticarət
+Çində isə iqtisadi artım, əsasən, xarici
+qeyri-müəyyənliyi (TPU) indekslərində kəskin
+tələblə dəstəklənmiş, daşınmaz əmlak
+artım müşahidə olunmuşdur. 2025-ci ilin mart
+sektorundakı uzunmüddətli durğunluq yerli
+ayında TPU indeksi rekord səviyyəyə
+tələbi aşağı salmışdır. Son illərdə artan ticarət
+yüksələrək, hətta COVID-19 pandemiyası
+gərginlikləri və yeni tariflər Çin iqtisadiyyatına
+dövründə qeydə alınmış səviyyələri də geridə
+mənfi təsir göstərmişdir.
+qoymuşdur. Bu, qlobal miqyasda ticarətə dair
+qeyri-müəyyənliklərin kəskin şəkildə artdığını
+1
+Qeyri-müəyyənlik indeksləri - qlobal qeyri-müəyyənlik (WUI), iqtisadi siyasət qeyri-müəyyənliyi (EPU) və ticarət siyasəti qeyri-müəyyənliyi (TPU) ilə bağlı
+xəbərlərə medianın diqqətini ölçən, xəbər və media mənbələrinə əsaslanan indekslərdir.
+Pul siyasəti icmalı - May 2025 8
+1.1 Qlobal iqtisadi aktivlik və inflyasiya prosesləri
+və əvvəlki dövrlərlə müqayisədə daha ciddi Hesabat dövrünün ilk 2 ayında xidmət sektoru
+narahatlıqlar doğurduğunu göstərir. Dünya üzrə SMİ zəifləsə də, mart ayında artım
+qeyri-müəyyənlik (WUI) indeksi isə dövri göstərmişdir. İndeks rübün son ayında 2015-
+olaraq dəyişkənlik göstərmiş, əsasən, 2019-cu illərdəki orta səviyyəsindən (53.1)
+pandemiya və digər qlobal siyasi proseslər aşağı enərək 52.7 olmuşdur. Bu, ötən ilin
+fonunda yüksək səviyyələrə çatmış, lakin son sonuna nəzərən 1.1 bənd aşağıdır.
+dövrlərdə EPU və TPU indeksləri qədər kəskin Ümumilikdə, ilin əvvəlində istehlakçı,
+artmamışdır. biznes və investor gözləntiləri nikbin olsa da,
+Satınalma menecerlərinin sorğuları son vaxtlar artan qeyri-müəyyənlik və yeni
+kimi yüksək tezlikli göstəricilər iqtisadi artımın tariflərin elan olunması fonunda daha
+yavaşladığı siqnalını verir. pessimist bir mövqeyə keçmişdir.
+Qrafik 2. Satınalma Menecerləri İndeksi 1.1.2 Dünyada işsizlik üzrə meyillər
+(istehsal və xidmət sferaları üzrə)
+Hesabat dövründə işsizlik səviyyəsi
+Mənbə: S&P Global
+ölkələr üzrə müxtəlif istiqamətlərdə
+60
+dəyişmişdir. Ötən ilin eyni dövrü ilə
+müqayisədə işsizlik səviyyəsi Türkiyə,
+2015-2019ortalama
+Hindistan, Yaponiya, Avrozona və Rusiyada
+azalmış, Çində sabit qalmış, ABŞ və Birləşmiş
+55
+Krallıqda isə artmışdır. Bir çox ölkənin əmək
+bazarlarında işə qəbul tempində yavaşlama və
+işdən azad olmaların artması müşahidə
+50 olunmuşdur.
+Qrafik 3. İşsizlik səviyyəsi, %-lə
+2015-2019ortalama Mənbə: Trading Economics
+45 Avrozona
+n
+a Y
+tr
+a M
+y
+a M
+lu
+y İ
+tn
+e S
+y
+o N
+n
+a Y
+tr
+a M
+y
+a M
+lu
+y İ
+tn
+e S
+y
+o N
+n
+a Y
+tr
+a M
+y
+a M
+lu
+y İ
+tn
+e S
+y
+o N
+n
+a Y
+tr
+a M Rusiya
+6.2
+2.3
+2022 2023 2024 2025
+Birləşmiş Krallıq
+4.5
+Qlobal İstehsal SMİ Qlobal Xidmət SMİ
+Hindistan*
+7.9
+Türkiyə
+İstehsal sektoru üzrə Satınalma 7.9
+Menecerləri İndeksi (SMİ)2 2025-ci ilin Yaponiya
+2.5
+əvvəlindən etibarən artım göstərməyə
+Çin
+başlamışdır. SMİ martda 2024-cü ilin sonu ilə 5.2
+müqayisədə artaraq 49.6-dan 50.3-ə ABŞ
+4.2
+yüksəlmişdir. Lakin buna baxmayaraq, 2015-
+2019-cu illərdə müşahidə edilən orta 2024-cü ilin mart ayı 2025-ci ilin mart ayı
+səviyyədən (51.5) hələ də aşağı olmuşdur.
+* Göstərici fevral ayına aiddir.
+2
+Satınalma Menecerləri İndeksi (SMİ) – S&P Global tərəfindən ölkələr üzrə özəl sektor müəssisələrindən alınan sorğulara əsaslanaraq hazırlanır. İndeks 0-
+dan 100-ə qədər dəyişir: 50-dən yuxarı göstəricilər artımı, 50-dən aşağı göstəricilər isə azalmanı göstərir.
+Pul siyasəti icmalı - May 2025 9
+1.1 Qlobal iqtisadi aktivlik və inflyasiya prosesləri
+İƏİT-in 2025-ci il mart “İqtisadi İcmal” İEOÖ-də inflyasiya göstəricisi fərqli
+hesabatında qeyd edilir ki, əmək bazarının istiqamətlərdə dəyişmişdir. Belə ki, Çində illik
+şərtləri ümumilikdə hələ də əlverişlidir. 2024- inflyasiya mart ayında -0.1% səviyyəsinə
+cü ilin ikinci yarısından məşğulluğun artımı bir enmişdir. Deflyasiyanın əsas səbəbləri artan
+qədər yavaşlasa da, yenə də yüksək olmuş və qeyri-müəyyənlik şəraitində qlobal ticarət
+işsizlik səviyyələri pandemiya öncəsi əlaqələrinin zəifləməsidir. ABŞ-nin idxal
+müşahidə olunan rəqəmlərə nisbətən tarifləri tətbiq edərək qlobal tələbə azaldıcı
+bütövlükdə aşağı qalmışdır. təsiri Çində inflyasiyaya azaldıcı təsir göstərən
+əsas amildir.
+1.1.3 Dünyada inflyasiya prosesləri
+2025-ci ilin I rübündə Azərbaycanın
+Hesabat dövründə qlobal inflyasiyanın
+əsas ticarət tərəfdaşlarından biri olan
+azalması prosesi səngimişdir. Bəzi ölkələrdə
+Rusiyada illik inflyasiya artmağa davam
+inflyasiya hədəfdən yüksək qalmışdır. Xidmət
+etmişdir. Martda illik qiymət artımı 10.3%
+sektorunda inflyasiya azalma meyli göstərsə
+olmuşdur ki, bu da 2023-cü ilin mart ayından
+də, hələ də pandemiyadan əvvəlki səviyyədən
+bəri ən yüksək göstəricidir. İllik inflyasiya
+yuxarıdır. Bir çox iqtisadiyyatlarda, xüsusilə
+Rusiya Mərkəzi Bankının yüksək faiz siyasətinə
+ABŞ və Avrozonada xidmət inflyasiyası hələ də
+baxmayaraq artmağa davam edir. Qiymət
+COVID-19-dan əvvəlki orta göstəricilərdən
+artımı xidmətlər üzrə 12.9%, ərzaq malları üzrə
+yuxarı qalır.
+12.4%, qeyri-ərzaq malları üzrə isə 5.9% təşkil
+ABŞ-də illik inflyasiya səviyyəsi azalma
+etmişdir.
+meyli göstərərək 2025-ci ilin mart ayında 2.4%
+Türkiyədə illik inflyasiya səviyyəsi 2025-
+olmuşdur. 2025-ci ilin mart ayında Avrozonada
+ci ilin mart ayında 38.1% olmuşdur ki, bu
+inflyasiya ilin əvvəli ilə müqayisədə azalaraq
+Türkiyə Mərkəzi Bankının son açıqladığı
+2.4%-dən 2.2%-ə enmişdir. Baza inflyasiya
+proqnoz aralığı daxilində və 2022-ci ilin
+2021-ci ilin oktyabr ayından bəri ən aşağı
+əvvəlindən bəri ən aşağı həddir. Qiymət
+səviyyəyə enərək 2.4% təşkil etmişdir.
+artımlarına ən çox töhfə verən sahələr 43.4 faiz
+bəndi ilə kafe, restoran və otellər, 42 faiz bəndi
+Qrafik 4. Bəzi ölkələrdə illik inflyasiya, %-lə
+səhiyyə, 37.1 faiz bəndi ərzaq və alkoqolsuz
+Mənbə: Milli Statistika İdarələri
+içkilərdir.
+11 10.3 10
+Gürcüstanda 2025-ci ilin ilk rübündə
+inflyasiya artmaqda davam etmişdir. Cari ilin
+8
+mart ayında illik inflyasiya 3.5% təşkil etmişdir.
+3.5
+5 Bu da son 21 ayın ən yüksək göstəricisi
+2.4 2.6 3.6
+2.2
+olmaqla ötən aya nisbətən 1.1 faiz bəndi
+2
+artım deməkdir və 3%-lik hədəfdən yuxarıdır.
+-1 -0.1 İllik qiymət artımına əsas töhfəni ərzaq və
+Ş a q a n a n n
+B
+A
+n
+o
+z o r v A
+ılla
+r K ş im
+y
+in
+o p a Y
+iÇ y
+is
+u R
+a
+ts
+ıx a z a Q
+a
+ts
+ü c r ü G
+a
+t (8 ü
+lk
+. t 8 ü
+o
+%
+q
+n )
+o
+m q
+ls
+i ə
+u
+y m
+z
+m u ə
+iç
+l t a
+k
+lə t
+i
+l
+l
+r a
+ə
+in r
+r
+ı
+i
+i n
+n
+n ı n a
+(
+r
+6
+( t 4
+.
+ı
+6
+m .2
+%
+% ı
+)
+v
+,
+) e ,
+s
+r e m
+p
+lə
+i
+i
+r
+c ş
+t
+ə d
+li
+i d r
+i
+. ə
+ç k
+s
+i
+ə
+lə
+h
+r
+i yy
+v
+ə
+ə
+ş
+ə
+lr
+iB
+Mart-25 Mart-24 Ortamüddətli Hədəf
+Pul siyasəti icmalı - May 2025 10
+1.2 Dünya əmtəə qiymətləri
+1.2 DÜNYA ƏMTƏƏ QİYMƏTLƏRİ
+2025-ci ilin I rübündə qlobal bazarlar geosiyasi risklər və ticarət siyasətindəki dəyişikliklərdən
+əhəmiyyətli təsirlənmişdir. OPEC+ çərçivəsində gündəlik neft hasilatının gözləniləndən daha çox
+artırılacağı ilə bağlı açıqlamalar neft qiymətlərinin aşağı düşməsinə səbəb olmuşdur. Rüb ərzində bir sıra
+əsas məhsullar üzrə qiymətlər ilin əvvəlinə nəzərən azalsa da, əmtəə bazarları ABŞ-nin ticarət siyasətinin
+sərtləşməsi səbəbindən qeyri-müəyyənliklərlə üz-üzədir.
+1.2.1 Dünya qiymətləri üzrə ümumi mayeləşdirilmiş təbii qazdan (LNG) istifadənin
+artması və sənaye fəaliyyətində ümumi
+meyillər
+yavaşlama ilə bağlı neftə tələbdə azalma
+2025-ci ilin I rübündə dünya əmtəə
+müşahidə olunur. ABŞ və Çin arasında artan
+qiymətlərində bir sıra əmtəələr üzrə azalma
+“ticarət müharibəsi” qlobal iqtisadiyyatda
+meyli müşahidə edilmişdir. Dünya Bankının
+əlavə qeyri-müəyyənliklər yaratmışdır. Çinin
+qlobal əmtəə bazarları haqqında aprel
+ABŞ-nin tarif siyasətinə cavab tədbirləri
+hesabatına əsasən 2025-ci ilin mart ayında
+nəticəsində neft tələbinin daha da azalması
+ümumi əmtəə qiymətləri indeksi ilin əvvəlinə
+gözləntiləri qlobal tənəzzüllə bağlı
+nəzərən 1.3% azalmışdır. Eyni zamanda şəkər,
+narahatlıqları artırmışdır.
+taxıl və bəzi ərzaq məhsulları üzrə qiymət
+2025-ci ilin I rübündə qeyri-enerji
+indeksləri azalmışdır.
+məhsulları üzrə qiymət indeksləri 1%
+Qrafik 5. Qlobal əmtəə qiyməti indekslərinin azalmışdır. Buna baxmayaraq, bəzi əmtəələrin
+dinamikası (2021 dekabr=100) bahalaşması davam etmişdir. Dünya Bankının
+Mənbə: Dünya Bankı hesabatına görə, əsas dəyişəni qızıl qiymətləri
+180 olan qiymətli metallar indeksi martda ilin
+əvvəlinə nəzərən 11.9% artmışdır. Qızılın
+160
+qiyməti 2025-ci ilin aprel ayında yeni rekord
+səviyyəyə çatmışdır. Bu artım ABŞ ilə Çin
+140
+arasındakı ticarət gərginliyinin artması, ABŞ-
+nin yeni tarif təşəbbüsləri və mərkəzi bankların
+120
+davamlı alışları ilə əlaqədar olmuşdur. I rüb
+100 ərzində əsas metalların (bura alüminium, mis,
+nikel və s. kimi metallar daxildir) qiymət
+80 indeksi də yüksəlmişdir. Martda əsas metallar
+n
+a Y
+r
+a M
+y
+a M
+ly
+İ
+n
+e S
+y
+o N
+n
+a Y
+r
+a M
+y
+a M
+ly
+İ
+n
+e S
+y
+o N
+n
+a Y
+r
+a M
+y
+a M
+ly
+İ
+n
+e S
+y
+o N
+n
+a Y
+r
+a M üzrə qiymət indeksi ilin əvvəli ilə müqayisədə
+6.6% artmışdır.
+2022 2023 2024 2025
+Enerji Qeyri-enerji 1.2.2 Dünya ərzaq qiymətlərinin
+Ərzaq Qiymətli metal
+dinamikası
+Enerji qiymətləri indeksi mart ayında
+2025-ci ilin I rübündə qlobal ərzaq
+Avropada təbii qaz və xam neft qiymətlərinin
+qiymətləri ümumilikdə azalmışdır. BVF
+enməsi nəticəsində azalmışdır. Dünyanın ən
+tərəfindən açıqlanan kənd təsərrüfatı qiymət
+böyük neft idxalçısı olan Çində elektrik
+indeksi 2025-ci ilin martında ilin əvvəlinə
+nəqliyyat vasitələrinə keçid, nəqliyyatda
+Pul siyasəti icmalı - May 2025 11
+1.2 Dünya əmtəə qiymətləri
+nəzərən 2.1% aşağı olmuşdur. Kənd Taxıl qiymətləri indeksi 2025-ci ilin martında
+təsərrüfatı qiymət indeksi ərzaq, içkilər və ilin əvvəlinə nəzərən 1.5% aşağı düşmüşdür.
+kənd təsərrüfatı xammalı qiymət indekslərini Bəzi əsas ixracatçılarda iqlim ilə bağlı
+ehtiva edir. Əsas istehsalçı ölkələrdə əlverişli narahatlıqlar azaldığından qlobal buğda
+hava şəraiti məhsul yığımlarının artmasına qiymətləri mart ayında aşağı düşmüşdür.
+səbəb olmuşdur. Neftin qiymətinin enməsi Düyü qiymətləri indeksi zəif tələb və geniş
+təchizat zənciri üzrə nəqliyyat və istehsal ixrac imkanları nəticəsində mart ayında 1.7%
+xərclərini aşağı salaraq ərzaq qiymətlərində azalmışdır. Ət qiyməti indeksi 2025-ci ilin mart
+ümumi azalmaya töhfə vermişdir. ayında ötən ilin sonuna nəzərən 1.3%
+azalmışdır. Qlobal tələb və təklifin balanslı
+Qrafik 6. Kənd təsərrüfatı qiymət indeksi
+olması nəticəsində quş əti qiymətləri sabit
+(2016=100)
+olmuşdur.
+Mənbə: BVF
+175 1.2.3 Dünya enerji qiymətlərinin
+dinamikası
+2022
+Geosiyasi münaqişələr fonunda 2025-ci
+ilin I rübündə də dünya enerji qiymətləri
+150
+2025 yüksək dəyişkənlik nümayiş etdirmişdir.
+2024 Dünya Bankının hesabatına əsasən 2025-ci ilin
+martında enerji məhsulları üzrə qiymət indeksi
+125 ilin əvvəlinə nəzərən 1.5% azalmışdır. Ticarət
+2023
+siyasətində və neft hasilatında baş verən son
+hadisələr aprelin ilk həftəsindən başlayaraq
+neftin qiymətlərinin daha da aşağı düşməsinə
+100 səbəb olmuşdur. ABŞ-nin Enerji İnformasiya
+n
+a Y
+v
+e F
+r
+a M
+r
+p A
+y
+a M
+n
+y İ
+ly
+İ
+q
+v A
+n
+e S
+tk
+O
+y
+o N
+k
+e D Administrasiyasının hesabatına əsasən 2025-ci
+ilin I rübündə Brent markalı xam neftin orta
+FAO-nun Ərzaq Qiymətləri İndeksi qiyməti 76 dollar/barel təşkil etmişdir ki, bu da
+2025-ci ilin martında ötən ilin sonu ilə 2024-cü ilin I rübü ilə müqayisədə 7
+müqayisədə 0.2% aşağı olmuşdur. Bitki yağı dollar/barel aşağıdır.
+qiymətləri indeksi martda ötən ilin sonuna OPEC+ üzvlərinin hasilat artımları ilə
+nəzərən 0.2% azalmış, palma, soya və bağlı açıqlamaları Brent markalı neftin spot
+günəbaxan yağları isə bahalaşmışdır. Süd qiymətinin azalmasına əsas səbəb olmuşdur.
+məhsulları qiymət indeksi martda 2025-ci ilin EİA bildirir ki, bazar iştirakçıları ticarət
+əvvəlinə nəzərən 4.8% yuxarı olmuşdur. Kərə siyasətlərinin təsirlərini qiymətləndirdikcə
+yağı qiymətləri I rüb ərzində Okeaniyada xam neft və digər əmtəələrin qiymətlərində
+mövsümi azalan tədarük və Avropada zəif əhəmiyyətli dəyişkənlik davam edə bilər.
+istehsal fonunda artan beynəlxalq tələb Bununla yanaşı, Rusiya, İran və Venesuelaya
+nəticəsində yüksəlmişdir. Şəkər qiyməti qarşı mövcud sanksiyalar da xam neftin
+indeksi mart ayında ilin əvvəli ilə müqayisədə qiyməti ilə bağlı əlavə qeyri-müəyyənlik
+zəif qlobal tələb və əsas istehsalçı ölkələrdə yaradır.
+əlverişli hava şəraiti ilə bağlı 2% azalmışdır.
+Pul siyasəti icmalı - May 2025 12
+1.2 Dünya əmtəə qiymətləri
+Qrafik 7. Brent markalı neft və təbii qazın aylıq Qrafik 8. Qlobal neft bazarında tələb və təklifin
+qiymət indeksi (yanvar 2023=100) dinamikası, mln. barel (günlük)
+Mənbə: ABŞ Enerji İnformasiya Administrasiyası
+(EİA)
+Mənbə: Bloomberg
+110 90
+120
+100
+80
+80
+60 100 70
+40
+60
+20
+0
+n a Y r a M y a M ly İ n e S y o N n a Y r a M y a M ly İ n e S y o N n a Y r a M 90 I II III IV I II III IV I 50
+2023 2024 2025 2023 2024 2025
+Brent Təbii qaz (Dutch TTF) Təklif
+Tələb
+2025-ci ilin I rübündə təbii qaz Neftin qiyməti (sağ şkala, brent, $)
+qiymətlərində mövsümi tələb, anbarların
+doluluq səviyyəsi və geosiyasi amillərin təsiri
+ilə yüksək dəyişkənlik baş vermişdir. Avropada
+2025-ci ilin yanvarında Ukrayna üzərindən
+Rusiya qazının tədarükünün dayandırılması
+Aİ-yə LNG idxalının artmasına səbəb oldu.
+Bundan əlavə, Şimali Avropada gözləniləndən
+daha soyuq havalar qazla işləyən elektrik
+istehsalının artmasına, təchizatın daha da
+daralmasına və qiymətlərin yüksəlməsinə
+səbəb olmuşdur. Fevralın sonundan etibarən
+isə havanın temperaturunun yüksəlməsi ilə
+istehlakın azalması nəticəsində qazın qiyməti
+enməyə başlamışdır. Analitiklər qeyd edirlər
+ki, yaz dövründə bazarın dinamikası yeraltı qaz
+anbarlarının doldurulma sürətindən və maye
+qaz (LNG) ilə bağlı tələbdən asılı olacaqdır.
+Pul siyasəti icmalı - May 2025 13
+1.3 Qlobal maliyyə sistemində meyillər
+1.3 QLOBAL MALİYYƏ SİSTEMİNDƏ MEYİLLƏR
+2025-ci ildə bir sıra mərkəzi banklar inflyasiyanın azalması fonunda siyasət faizini endirsə də,
+davam edən geosiyasi və geoiqtisadi qeyri-müəyyənliklər ehtiyatlı pul siyasəti həyata keçirməyi
+şərtləndirmişdir. Eyni zamanda kəskinləşən "ticarət müharibələri” və artan risklər beynəlxalq maliyyə
+bazarlarında yüksək dəyişkənliyə və aktiv qiymətlərində enişə səbəb olmuşdur.
+1.3.1 Mərkəzi bankların pul siyasəti Qrafik 9. Aparıcı mərkəzi bankların əsas siyasət
+faizi
+qərarları
+Mənbə: tradingeconomics.com
+2025-ci ilin ötən dövründə inflyasiya
+6
+təzyiqlərinin zəifləməsi, inflyasiyanın hədəfə
+yaxınlaşacağına dair gözləntilər və iqtisadi 5
+artım tempinin aşağı düşməsi fonunda bir sıra
+4
+mərkəzi banklar siyasət faiz dərəcəsini
+azaldaraq pul siyasətini tədricən 3
+yumşaltmışdır. Eyni zamanda davam edən
+2
+geoiqtisadi və geosiyasi qeyri-müəyyənliklər
+şəraitində mərkəzi bankların digər bir qismi
+1
+ehtiyatlı mövqe nümayiş etdirərək siyasət faiz
+dərəcələrini sabit saxlamışdır. Bununla belə, 0
+222222 333333 444444 55
+222222 222222 222222 22
+bəzi iqtisadiyyatlarda inflyasiya təzyiqlərinin 000000 000000 000000 00
+222222 222222 222222 22
+////// ////// ////// //
+yüksəlməsi, məzənnə dəyişkənliyi və digər 24680 1 2 1 24680 1 2 1 24680 1 2 1 24
+daxili və xarici risklər nəzərə alınaraq
+Federal Ehtiyat Sistemi Avropa Mərkəzi Bankı
+makroiqtisadi sabitliyin təmin olunması
+İngiltərə Mərkəzi Bankı Çin Xalq Bankı
+məqsədilə monetar siyasət daha da
+sərtləşdirilmişdir. Avropa Mərkəzi Bankı iqtisadi fəallığın
+2025-ci ildə Federal Ehtiyat Sistemi
+zəifləməsi və inflyasiya səviyyəsinin hədəfə
+inflyasiya risklərinin və iqtisadi fəallığın davam
+yaxınlaşması fonunda il ərzində ümumilikdə
+etməsi, əmək bazarındakı mövcud
+75 baza bəndi həcmində faiz endirimi həyata
+dayanıqlılıq, eləcə də yeni administrasiyanın
+keçirərək siyasət faizini 2.40% səviyyəsinə
+formalaşdırdığı iqtisadi qeyri-müəyyənlikləri
+endirmişdir. Bunun əksinə olaraq, Yaponiya
+nəzərə alaraq siyasət faiz dərəcəsini 4.25%-
+Mərkəzi Bankı əməkhaqqındakı davamlı
+4.50% diapazonunda sabit saxlamışdır. Digər
+artımlar fonunda qiymət sabitliyinə nail
+tərəfdən, İngiltərə Mərkəzi Bankı inflyasiya
+olunması məqsədilə siyasət faiz dərəcəsini
+səviyyəsinin aşağı düşməsi və iqtisadi artım
+göstəricilərinin zəifləməsi ilə əlaqədar olaraq 0.25%-dən 0.5%-ə yüksəltmişdir. Çin Xalq
+ilin əvvəlində siyasət faiz dərəcəsini 4.75%-dən Bankı isə real sektorun dayanıqlı inkişafını və
+4.50%-ə endirmiş və sonradan qlobal iqtisadi iqtisadi bərpanı dəstəkləmək məqsədilə 2025-
+mühitdə davam edən qeyri-müəyyənlikləri ci ildə də yumşaq pul siyasəti həyata keçirmiş
+nəzərə alaraq eyni səviyyədə sabit saxlamışdır. və siyasət faiz dərəcəsini il ərzində
+dəyişməyərək 3.10% səviyyəsində sabit
+saxlamışdır.
+Pul siyasəti icmalı - May 2025 14
+1.3 Qlobal maliyyə sistemində meyillər
+Qrafik 10. 83 mərkəzi bank üzrə əsas siyasət Qeyd olunan amillər investorların risklərə
+faizinin dəyişimi qarşı həssaslığını artırmış və risk əsaslı
+Mənbə: centralbanknews.com, cbrates.com aktivlərdən uzaqlaşmanı stimullaşdıraraq
+aktivlərin bazar dəyərinin azalmasına səbəb
+30 olmuşdur. 2025-ci ilin 4 ayı ərzində
+indekslərdən Nasdaq Composite 17%, Dow
+20
+Jones 4%, Nikkei 10% , MSCI World 2% , XU100
+10
+(BİST100) 8% və Shanghai Composite 2% dəyər
+0 itirmişdir. Rusiyanın RTSI indeksi isə
+sanksiyaların yumşaldılması ehtimalı fonunda
+-10
+26% dəyər qazanmışdır.
+-20
+Qrafik 11. Fond birjalarında meyillər (31 dekabr
+-30 2024=100)
+3 3 3 3 3 3 4 4 4 4 4 4 5 5
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 Mənbə: Bloomberg
+0
+2 -r
+a v n
+0
+2 -tr
+a M
+-y
+a M
+0
+2 -lu
+y İ
+0
+2 -r
+b a y
+0
+2 -r
+b a y
+0
+2 -r
+a v n
+0
+2 -tr
+a M
+0
+2 -y
+a M
+0
+2 -lu
+y İ
+0
+2 -r
+b a y
+0
+2 -r
+b a y
+0
+2 -r
+a v n
+0
+2 -tr
+a M
+a
+Y
+tn
+e
+o
+N
+a
+Y
+tn
+e
+o
+N
+a
+Y
+S S
+artım İEÖ artım İEOÖ azalma İEÖ azalma İEOÖ
+Rusiya Mərkəzi Bankı mövcud monetar
+siyasəti inflyasiyanı hədəfə qaytarması üçün
+yetərli hesab etdiyi üçün siyasət faiz dərəcəsini
+21.00% səviyyəsində sabit saxlamışdır.
+Ümumiyyətlə, qarşıdakı dövrlərdə
+mərkəzi bankların pul siyasəti qərarlarında
+4 5 5 5 5
+ehtiyatlı davranacağı gözlənilir. İnflyasiya 2 0 2 0 2 0 2 0 2 0
+2 2 2 2 2
+/ / / / /
+təzyiqlərinin zəifləməsinə baxmayaraq, 1 1 8 1 0
+3 3 2 3 3
+/ / / / /
+2 1 2 3 4
+inflyasiyanın hədəf səviyyəsinə tam 1
+qayıtmaması, eləcə də geosiyasi gərginliklər, DOW Jones DAX
+enerji qiymətlərinin dəyişkənliyi və Nikkei Shanghai Composite
+iqtisadiyyatın dayanıqlığı ilə bağlı risklər
+2025-ci ilin əvvəlindən etibarən ABŞ
+mərkəzi bankların növbəti siyasət qərarlarının
+istiqraz bazarında dəyişkənlik artmışdır. İlin
+tezliyinə və miqyasına birbaşa təsir göstərə
+əvvəlində 4.8%-ə çatan 10 illik dövlət
+bilər.
+istiqrazlarının gəlirliliyi zamanla azalaraq
+aprelin əvvəlində 4%-ə qədər enmiş, sonra
+1.3.2 Maliyyə bazarlarında meyillər
+yenidən yüksələrək 4.5%-ə çatmış və aprelin
+2025-ci ildə beynəlxalq maliyyə
+sonunda təqribən 4.2% səviyyəsində
+bazarlarında yüksək dəyişkənlik müşahidə
+qərarlaşmışdır. Bu dinamika, əsasən, ticarət
+olunmuş, aktivlərin qiymətində azalmalar
+siyasətinə və inflyasiya gözləntilərinə dair
+qeydə alınmışdır. Bu meyillər xüsusilə ticarət
+davam edən qeyri-müəyyənliklər səbəbindən
+proteksionizminin artması və geosiyasi
+investor tələbinin dəyişkənliyi ilə izah olunur.
+risklərin intensivləşməsi ilə əlaqələndirilir.
+Pul siyasəti icmalı - May 2025 15
+1.3 Qlobal maliyyə sistemində meyillər
+Qrafik 12. Dollar indeksi və İEÖ-də 10 illik dövlət və maliyyə institutlarının vasitəçilik imkanlarını
+istiqrazları üzrə gəlirlilik zəiflədə bilər.
+Mənbə: investing.com
+Qrafik 13. Əsas xarici geosiyasi risklərə suveren
+6 110
+risk premiumlarının (CDS4 spredləri) aylıq
+reaksiyası, baza bəndi ilə
+5 107 Mənbə: BVF, Qlobal maliyyə sabitliyi hesabatı
+4 104 201
+3 101 151
+2 98 101
+4 4 4 4 4 4 4 4 4 5 5 5 5
+2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2
+/0 /1 /0 /1 /1 /0 /
+1
+/
+0
+/
+1
+/1 /8 /1 /0
+3 3 3 3 3 3 3 3 3 3 2 3 3
+/4 /5 /6 /7 /8 /9 /0 /1 /2 /1 /2 /3 /4 51
+1 1 1
+10 illik dövlət istiqrazları,% (ABŞ)
+10 illik dövlət istiqrazları,% (Almaniya)
+1
+10 illik dövlət istiqrazları,% (B.Krallıq) Beynəlxalq Digər Beynəlxalq Digər
+Dollar indeksi (sağ şkala) hərbi hərbi
+münaqişə münaqişə
+2025-ci ildə ABŞ dolları indeksi3 qlobal
+İEÖ-də İEOÖ-də
+iqtisadiyyata dair qeyri-müəyyənliklər
+Ümumi ticarət payı 10%-dən yüksək tərəfdaş üzrə
+fonunda yüksək dəyişkənlik nümayiş Əsas ixrac istiqaməti üzrə
+etdirmişdir. Belə ki, ilin əvvəlində 110 Əsas idxal istiqaməti üzrə
+səviyyəsini aşan indeks daha sonra ticarət
+Qrafik 13-də ölkənin suveren risk
+gərginliklərinin artması və potensial iqtisadi
+premiumunun onun əsas xarici ticarət
+zəifləmə ilə bağlı narahatlıqlar səbəbilə
+tərəfdaşlarının daxil olduğu geosiyasi risk
+aprelin sonuna 99 səviyyəsinə enmişdir. Bu
+hadisələrinə, xüsusilə hərbi münaqişələrə
+dinamika dolların investor gözləntilərinə
+həssaslıq dərəcəsi göstərilir. Ticarət
+həssaslığını nümayiş etdirir ki, bu da geosiyasi
+tərəfdaşlarındakı mühüm geosiyasi
+proseslər və monetar siyasətə dair qərarlarla
+hadisələrdən sonrakı bir ay ərzində İEOÖ-in
+bağlıdır.
+suveren risk premiumlarında əhəmiyyətli
+BVF-nin “Qlobal maliyyə sabitliyi
+artım müşahidə olunur. Əsas idxal və ixrac
+hesabatı”na əsasən qlobal geosiyasi risklərin
+tərəfdaşlarının cəlb olunduğu geosiyasi
+yüksək səviyyədə qalması makromaliyyə
+risklərə qarşı suveren risk premiumlarının
+sabitliyi üçün əhəmiyyətli təhdid yaradır. Bu
+reaksiyası daha güclüdür. İEÖ-də isə bu təsir
+risklər ticarət və investisiya fəaliyyətini
+nisbətən zəifdir.
+məhdudlaşdıraraq kapital axınlarının
+Həmçinin hesabatda qeyd olunub ki,
+istiqamətini dəyişə, aktiv qiymətlərini azalda
+əksər geosiyasi hadisələrin təsiri məhdud olsa
+3
+Dollar indeksi - ABŞ dollarının altı əsas xarici valyutaya qarşı dəyərini ölçən göstəricidir. Əgər indeks artırsa, bu dolların digər valyutalara qarşı gücləndiyini,
+əgər azalırsa, dolların zəiflədiyini göstərir.
+4
+CDS (Credit Default Swap) – kredit defolt mübadiləsi. Bu maliyyə aləti borcun geri qaytarılmaması (defolt) riskindən sığortalanmaq üçün istifadə olunur.
+Pul siyasəti icmalı - May 2025 16
+1.3 Qlobal maliyyə sistemində meyillər
+da, hərbi münaqişələr kimi böyük risklər İEOÖ-
+də səhmlərin dəyər itirməsinə və həmin
+ölkələrin suveren risk premiumlarının
+artmasına səbəb olur. Bu da öz növbəsində,
+bank sektorunda kreditləşmənin zəifləməsi və
+investisiya fondlarından vəsait axını ilə
+müşayiət olunur. BVF-yə əsasən maliyyə
+sabitliyini qorumaq məqsədilə maliyyə
+institutları geosiyasi riskləri
+müəyyənləşdirmək və qiymətləndirmək üçün
+stres test və ssenari təhlilləri aparmalıdır.
+İEOÖ isə fiskal dayanıqlılığı və beynəlxalq
+ehtiyatlarını gücləndirməlidir.
+ABŞ-nin Maliyyə Tədqiqatları Ofisinin
+məlumatlarına əsasən ötən illə müqayisədə
+2025-ci ilin əvvəlində Maliyyə stresi indeksində
+yüksəliş baş vermişdir. Bu, əsasən, geosiyasi
+gərginliklər, monetar siyasətdə qeyri-
+müəyyənlik və maliyyə bazarlarındakı
+dəyişkənliklərlə əlaqələndirilir.
+Qrafik 14. Qlobal maliyyə stresi indeksi5
+Mənbə: ABŞ-nin Maliyyə Tədqiqatları Ofisi
+4
+3
+2
+1
+0
+-1
+-2
+-3
+3 3 3 3 3 3 4 4 4 4 4 4 5 5
+2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2
+/
+2
+/
+2
+/
+2
+/
+2
+/
+2
+/
+2
+/
+2
+/2 /
+2
+/
+2
+/
+2
+/
+2
+/
+2
+/
+2
+/ / / / / / / / / / / / / /
+2 4 6 8 0 2 2 4 6 8 0 2 2 4
+1 1 1 1
+İEOÖ Digər İEÖ ABŞ Maliyyə stresi indeksi
+5 Maliyyə Stresi İndeksi (MSİ) qlobal maliyyə bazarlarındakı stresin gündəlik bazara əsaslanan göstəricisidir. MSİ gəlir marjaları, dəyər ölçüləri və faiz dərəcələri
+kimi 33 maliyyə bazarı dəyişənini əhatə edir.
+Pul siyasəti icmalı - May 2025 17
+1.3 Qlobal maliyyə sistemində meyillər
+2
+DAXİLİ
+MAKROİQTİSADİ
+PROSESLƏR
+Pul siyasəti icmalı - Noyabr 2024 18
+2.1 Azərbaycanın xarici sektoru
+2.1 AZƏRBAYCANIN XARİCİ SEKTORU
+2025-ci ilin I rübündə tədiyə balansının əsas komponentlərindən biri olan xarici ticarət balansında
+müsbət saldo qeydə alınmışdır. İxracın artımının təqribən 25%-i qeyri-neft-qaz sektoru üzrə ixracın payına
+düşmüşdür. Valyuta ehtiyatları beynəlxalq kifayətlilik normalarını üstələməkdə davam etmişdir.
+2.1.1 Xarici ticarət dövriyyəsi Qrafik 15. 2025-ci ilin I rübü üzrə xarici ticarət
+balansı, mlrd. ABŞ dollar
+DGK-nın məlumatlarına əsasən 2025-ci
+Mənbə: DGK
+ilin I rübü ərzində ölkənin xarici ticarət
+dövriyyəsi 12 mlrd. ABŞ dolları təşkil etmişdir 7
+ki, bunun da 6.4 mlrd. ABŞ dolları (və ya 53%-i)
+5
+ixracın, 5.7 mlrd. ABŞ dolları (və ya 47%-i) isə
+idxalın payına düşmüşdür. Xarici ticarət 3
+balansında 0.7 mlrd. ABŞ dolları məbləğində
+1
+müsbət saldo əmələ gəlmişdir.
+Hesabat dövründə xarici ticarət -1
+dövriyyəsində Avropa İttifaqı 43.9%, MDB
+-3
+ölkələri 16.2%, digər ölkələr isə 39.9% paya
+sahib olmuşdur. Ticarət dövriyyəsinin yarıdan -5
+çoxu İtaliya, Rusiya, Türkiyə, Çin, Almaniya,
+-7
+Birləşmiş Krallıq, Çexiya, Avstraliya, Rumıniya n v r
+a Y e F a M
+və Xorv
+2
+a
+0
+t
+2
+iy
+5
+a
+- c
+k
+i
+i m
+ili
+i
+n
+ö l
+y
+k
+a
+ə
+n
+lə
+v
+r
+a
+i
+r
+n
+- m
+pa
+a
+y
+r
+ı
+t
+n
+a
+a
+y
+d
+la
+ü
+r
+ş
+ı
+m
+ə
+ü
+rz
+ş
+i
+d
+n
+ü
+d
+r
+ə
+. -n
+a Y
+-n
+a Y
+neft-qaz sektoru üzrə ixracın dəyəri 5.6 mlrd.
+İxrac İdxal Ticarət saldosu
+ABŞ dolları olmuşdur ki, bunun da 3.4 mlrd.
+ABŞ dolları xam neft və digər neft
+məhsullarının, 2.2 mlrd. ABŞ dolları isə təbii Ümumilikdə, 2025-ci ilin ilk 3 ayı ərzində
+qazın payına düşür. ixracda əsas tərəfdaşlar İtaliya (45.6%),
+Qeyri-neft-qaz sektoru üzrə ixrac ötən Türkiyə (13.1%), Çexiya (4.8%), Almaniya (4.5%)
+ilin müvafiq dövrü ilə müqayisədə 14.6% və Xorvatiya (3.7%) kimi ölkələr olmuşdur.
+artaraq 0.8 mlrd. ABŞ dolları dəyərində Cari ilin I rübündə əmtəə idxalı 5.7
+olmuşdur. 2025-ci ilin I rübü ərzində ixracı mlrd. ABŞ dolları dəyərində olmuşdur. Cəmi
+artan qeyri-neft-qaz sektoruna aid malların əmtəə idxalında dövlət sektoru 39%, özəl
+siyahısında tərəvəz və meyvə məhsulları, sektor 52.2%, fiziki şəxslər isə 8.8% paya sahib
+kimya sənayesi məhsulları, alüminium və olmuşdur. Rüb ərzində idxal edilən malların
+ondan hazırlanan məhsullar, qara metallar, siyahısında maşın və avadanlıqlar, yeyinti
+alkoqollu və alkoqolsuz içkilər, sement, şəkər, məhsulları, nəqliyyat vasitələri, qara metallar,
+yağlar, pambıq iplik və çay əsas paya sahib plastmassa, əczaçılıq məhsulları, geyim
+olmuşdur. əşyaları, oduncaq və ondan hazırlanan
+məmulatlar, mebel və onun hissələri, tütün
+məhsulları və gübrələr üstünlük təşkil
+etmişdir.
+Pul siyasəti icmalı - May 2025 19
+2.1 Azərbaycanın xarici sektoru
+Qrafik 16. 2025-ci ilin I rübü ərzində xam neftin inteqrasiyasının dərinliyini və qlobal
+ixrac olunduğu ölkələr, %-lə investorlar tərəfindən ölkəyə olan marağı əks
+Mənbə: DGK
+etdirir.
+İtaliya
+2.1.3 Turizm sektoru
+51.0%
+Qlobal turizm sektorunda canlanma
+davam edir. 2025-ci ilin I rübü ərzində
+Azərbaycana dünyanın 167 ölkəsindən
+Çexiya
+ümumilikdə 508.1 min turist səfər etmişdir.
+9.1%
+Digər ölkələr Ölkəyə gələn turistlərin 24.7%-i Rusiya, 18.3%-
+17.7%
+i Türkiyə, 10.8%-i Hindistan, 9.8%-i İran, 5%-i
+Almaniya
+8.3% Gürcüstan, 3.6%-i Qazaxıstan, 2.7%-i Pakistan
+Rumıniya Xorvatiya
+və 25.1%-i digər ölkələrə məxsus olmuşdur.
+6.7% 7.2%
+İdxal olunmuş məhsulların 21.1%-i Qrafik 17. Turizm məqsədi ilə ölkəyə səfər edən
+və xaricə gedənlərin sayı, mln. nəfərlə
+Rusiya, 17.8%-i Çin, 10.5%-i Türkiyə, 5.1%-i
+Mənbə: DSK
+Avstraliya, 4.4%-i Birləşmiş Krallıq, 4.3%-i
+Almaniya, 3.4%-i Meksika, 2.7%-i İran, 2.3%-i 0.6
+Kanada, 2.1%-i Braziliya və 26.3%-i digər
+0.5
+ölkələrin payına düşmüşdür.
+0.4
+2.1.2 Xarici investisiyalar
+0.3
+2025-ci ilin yanvar-mart ayları ərzində
+ölkədə xarici müəssisə və təşkilatlar tərəfindən 0.2
+əsas kapitala investisiya axınları davam
+0.1
+etmişdir. DSK-nın məlumatına görə, xarici
+maliyyə mənbələrindən əsas kapitala 0.9 mlrd.
+0.0
+manat məbləğində investisiya edilmişdir. Bu 2023-cü il 2024-cü il 2025-ci il
+I rüb I rüb I rüb
+göstərici ötən ilin müvafiq dövrünə nəzərən
+19.4% artmışdır. Xarici mənbələrdən əsas
+Ölkəyə turizm məqsədilə səfər edən xarici vətəndaşlar
+kapitala yönəldilmiş investisiya ümumi
+Xarici ölkələrə turizm məqsədilə səfər etmiş vətəndaşlar
+investisiyaların 27.4%-ni təşkil etmişdir.
+Rüb ərzində xarici ölkələr və beynəlxalq
+2025-ci ilin I rübü ərzində ölkədən
+təşkilatlar tərəfindən əsas kapitala yönəldilmiş
+vəsaitin 98.7%-i Birləşmiş Ərəb Əmirlikləri, turizm məqsədilə gedənlərin sayı 468.9 min
+Birləşmiş Krallıq, Türkiyə, İsveçrə, Rusiya, ABŞ, nəfər olmuşdur. Turizm məqsədilə ölkəni tərk
+Yaponiya, İran, Fransa, Macarıstan və edənlərin 36.5%-i Türkiyəyə, 15.7%-i Rusiyaya,
+Hindistan sərmayədarlarına məxsus 11%-i Gürcüstana, 10.7%-i İrana və 26.1%-i
+olmuşdur. Azərbaycan iqtisadiyyatına digər ölkələrə səfər etmişdir.
+investisiya yatıran ölkələr sırasında ənənəvi
+xarici ticarət tərəfdaşları üstünlük təşkil edir.
+Xarici investisiya axınlarının davam etməsi
+ölkə iqtisadiyyatının qlobal iqtisadiyyata
+Pul siyasəti icmalı - May 2025 20
+2.1 Azərbaycanın xarici sektoru
+2.1.4 Ölkənin xarici valyuta ehtiyatları
+Ölkənin strateji valyuta ehtiyatları 2025-
+ci ilin I rübü ərzində 3.5% artmış və dövrün
+sonuna 73.5 mlrd. ABŞ dolları təşkil etmişdir.
+O cümlədən, Mərkəzi Bankın valyuta
+ehtiyatları rübün sonuna 11026.5 mln. ABŞ
+dollarına bərabər olmuşdur.
+2025-ci ilin yanvar-mart aylarında
+ölkənin strateji valyuta ehtiyatları beynəlxalq
+qəbul edilmiş kifayətlilik normalarını
+üstələmişdir. Belə ki, 2025-ci ilin mart ayının
+sonuna ölkənin strateji valyuta ehtiyatları 32
+aylıq mal və xidmət idxalına kifayət etmişdir
+(2024-cü il üzrə mal və xidmət idxalı
+götürülməklə). Strateji ehtiyatlar manatla pul
+kütləsini (M2) 3.5 dəfə üstələmişdir
+(01.04.2025 tarixinə olan M2 pul aqreqatı
+götürülməklə).
+Qrafik 18. 2023-2024-cü illərin sonu və 2025-ci
+ilin I rübü üzrə ölkənin strateji valyuta
+ehtiyatları, mlrd. ABŞ dolları ilə
+Mənbə: AMB
+75
+70
+65
+60
+55
+50
+2023-cü il 2024-cü il 2025-ci il
+I rüb
+Bu göstəricilər ölkənin xarici və daxili
+iqtisadi şoklara qarşı müqavimət qabiliyyətinin
+yüksək səviyyədə olduğunu nümayiş etdirir.
+Pul siyasəti icmalı - May 2025 21
+2.2 Məcmu tələb
+2.2 MƏCMU TƏLƏB
+Məcmu daxili tələbin artımı dövr ərzində davam etmiş və iqtisadi aktivliyi dəstəkləmişdir. Ötən
+dövrlərdə olduğu kimi məcmu tələbin artımında başlıca rolu istehlak tələbi oynamışdır. Dövr ərzində əhali
+gəlirlərinin artımı istehlak tələbinin genişlənməsinə şərait yaratmışdır.
+2.2.1 Son istehlak xərcləri ümumi dəyər ö.i.m.d.n 4.9% artaraq 17.7 mlrd.
+manat təşkil etmişdir. İstehlak bazarında
+2025-ci ilin I rübündə məcmu tələbə
+formalaşan ümumi dəyərin 78.9%-i pərakəndə
+daxili istehlakın artımı əhəmiyyətli təsir
+ticarət dövriyyəsi, 18.1%-i ödənişli xidmətlər,
+göstərmişdir.
+3%-i isə ictimai iaşə dövriyyəsi hesabına
+2024-cü ildə nominal ÜDM-nin
+olmuşdur.
+tərkibində ev təsərrüfatlarının son istehlak
+xərcləri 55.4% (ö.i.n 2.7% artım), dövlət
+Qrafik 20. İstehlak bazarında satılmış malların
+idarələrinin son istehlak xərcləri isə 14.4% və göstərilmiş xidmətlərin ümumi dəyərinin
+(ö.i.n 3.9% artım) təşkil etmişdir. 2024-cü il dinamikası, mlrd. manatla
+ərzində ev təsərrüfatlarının son istehlak Mənbə: DSK
+xərcləri nominal ifadədə 5.4%, dövlət 6
+5.1
+19.5
+idarələrinin son istehlak xərcləri isə 6.7% 4.7
+artmışdır.6
+3.6 4
+18
+Qrafik 19. İstehlak və onun komponentlərinin
+rüblər üzrə dinamikası, mlrd. manatla
+18.5 2
+Mənbə: DSK və AMB-nin hesablamaları 16.5
+25 16.8
+16
+5.4 4.2 5.3 15 0
+20 4.1 5.2
+4.5 4.1 2023 I rüb 2024 I rüb 2025 I rüb
+3.5
+Nominal həcm, mlrd. manat
+15
+Real artım tempi,%-lə (sağ şkala)
+10
+15.4 16.2 17.4 16.4 16.1 17.1 18.8 18 Dövr ərzində pərakəndə ticarət
+5 dövriyyəsi ö.i.m.d.n real ifadədə 3.8%
+artmışdır. Bu artım ərzaq məhsulları, içkilər və
+0
+tütün məmulatları üzrə 1.7%, qeyri-ərzaq
+I II III IV I II III IV
+malları üzrə isə 6.3% təşkil etmişdir. I rübdə
+2023 2024
+istehlakçıların pərakəndə ticarət şəbəkəsində
+Ev təsərrüfatları Dövlət
+xərclədiyi vəsaitin 55.6%-i ərzaq məhsulları,
+içkilər və tütün məmulatlarının, 44.1%-i isə
+2025-ci ilin I rübündə əhaliyə satılmış
+qeyri-ərzaq məhsullarının payına düşmüşdür.
+malların və göstərilmiş xidmətlərin dəyəri
+Bir istehlakçı orta hesabla ayda ö.i.m.d.n 9.8%
+ö.i.m.d.n. nəzərən 5.1% artaraq 18.5 mlrd.
+çox vəsait xərcləmişdir.
+manat olmuşdur. Qeyri-dövlət mülkiyyəti üzrə
+6
+Hesablama zamanı DSK-nın “ÜDM-in istifadəsi” cədvəlindən istifadə edilmişdir. Hər komponent üzrə 2024-cü ilin 4 rübün cəmi göstəricisinin 2023-cü ilin 4
+rübünün cəmi göstəricisinə nəzərən %-lə nisbəti hesablanaraq istifadə edilmişdir.
+Pul siyasəti icmalı - May 2025 22
+2.2 Məcmu tələb
+Qrafik 21. Pərakəndə ticarət dövriyyəsinin real İstehlak tələbinin artımını şərtləndirən
+artımı, ö.i.m.d.n., %-lə əsas amil dövr ərzində əhali gəlirlərinin həm
+Mənbə: DSK real, həm də nominal artımı olmuşdur. DSK-
+7
+nın məlumatlarına əsasən ölkə əhalisinin
+6
+nominal gəlirləri 2025-ci ilin yanvar-mart
+5
+aylarında ö.i.m.d.n 6.6% artaraq 20.7 mlrd.
+4
+manat təşkil etmişdir. Əhalinin sərəncamında
+3
+qalan gəlirlər isə 6.3% artaraq 18.1 mlrd.
+2
+manata çatmışdır. 2025-ci ilin yanvar-fevral
+1
+aylarında ölkə iqtisadiyyatında muzdla çalışan
+0
+işçilərin orta aylıq nominal əməkhaqqısı
+n
+a y
+v
+e f-n a y
+tr
+a m -n a y
+r
+p a -n a y
+y
+a m -n a y
+n
+u y i-n a y
+lu
+y i-n a y
+q
+v a -n a y
+tn
+e s -n a y
+tk
+o -n a y
+y
+o n -n a y
+k
+e d -n a y
+n
+a y
+v
+e f-n a y
+tr
+a m -n a y ö et .i m .m iş . d d i . r n . 1 N 0. e 2 f % t- q a a r z t ar s a e q k to 10 ru 4 n 3. d 6 a m ə a m na ə t k h tə a ş q k q il ı
+2024 2025 qeyri-neft-qaz sektoruna nisbətən yüksək
+olmuşdur.
+Pərakəndə ticarət dövriyyəsi
+Ərzaq malları,içkilər və tütün üzrə
+Qrafik 23. Əhalinin nominal gəlirlərinin və
+Qeyri-ərzaq malları üzrə
+əməkhaqqının artım dinamikası, ö.i.m.d.n %-lə
+İctimai iaşə və əhaliyə göstərilmiş Mənbə: DSK
+ödənişli xidmətlərin artımı da istehlak 14
+tələbindəki aktivliyi göstərir. Belə ki, dövr 12
+9.3
+ərzində ictimai iaşə dövriyyəsi ö.i.m.d.n real 10 10
+ifadədə 17.6%, əhaliyə göstərilən xidmətlər isə 8 6.6
+9.4% artmışdır. Özəl sektorda ictimai iaşə 6 5
+dövriyyəsinin 50.9%-i hüquqi şəxslərin, 49.1%-
+4
+i isə sahibkarlıq fəaliyyəti ilə məşğul olan fiziki
+2
+şəxslərin payına düşüb. Ö.i.m.d.n hüquqi
+0
+ş a ə lı x n s m lə ı r ş d ü ır z . rə dövriyyədə 17.5% artım qeydə n a y v e f-n a y tr a m -n a y r p a -n a y y a m -n a y n u y i-n a y lu y i-n a y q v a -n a y tn e s -n a y tk o -n a y y o n -n a y k e d -n a y n a y v e f-n a y tr a m -n a y
+Qrafik 22. İctimai iaşə və ödənişli xidmətlərin
+2024 2025
+real artımı, ö.i.m.d.n., %-lə
+Mənbə: DSK Nominal gəlirlərin artımı
+25 Əməkhaqqının nominal artımı
+20
+İstehlak tələbinin artımını şərtləndirən
+15
+əsas amillərindən biri istehlak kreditlərinin
+10
+artımı olmuşdur. AMB-nin məlumatına əsasən
+5
+mart ayında istehlak kreditləri ötən ilin
+0
+n a y v e f-n a y tr a m -n a y r p a -n a y y a m -n a y n u y i-n a y lu y i-n a y q v a -n a y tn e s -n a y tk o -n a y y o n -n a y k e d -n a y n a y v e f-n a y tr a m -n a y d ekabrına nəzərən 1.9% artmışdır.
+2024 2025
+İctimai iaşə dövriyyəsi
+Əhaliyə göstərilən ödənişli xidmətlərin dəyəri
+Pul siyasəti icmalı - May 2025 23
+2.2 Məcmu tələb
+Qrafik 24. İstehlak kreditlərinin dinamikası, müavinətlər və s.) ö.i.m.d.n 1.3% artaraq
+mlrd. manatla faktiki xərclərin 46.3%-ni təşkil etmişdir. Sosial
+Mənbə: AMB müdafiə və sosial təminat xərcləri 14.4% və ya
+9 156.7 mln. manat artaraq 1.2 mlrd. manat
+olmuşdur.7
+7
+2.2.3 İnvestisiya xərcləri
+5
+8.4 8.6 Dövr ərzində bütün maliyyə
+7.1
+mənbələrindən əsas kapitala 3.5 mlrd. manat
+3
+investisiya yönləndirilmişdir. I rüb ərzində
+1 neft-qaz sektoruna 1.03 mlrd. manat, qeyri-
+2024 I rüb 2024 dekabr 2025 I rüb neft-qaz sektoruna 2.4 mlrd. manat investisiya
+qoyuluşu olmuşdur. Müəssisə və təşkilatların
+2.2.2 Hökumətin xərcləri
+öz vəsaitləri hesabına investisiyaların dəyəri
+Hesabat dövründə dövlət xərcləri 7.9% artaraq 2.1 mlrd. manat təşkil etmişdir.
+məcmu daxili tələbin dəstəklənməsində Ümumi sərmayənin 52.3%-i məhsul istehsalı
+əhəmiyyətli rol oynamışdır. 2025-ci ilin I sahələrinin, 28%-i xidmət sahələrinin, 19.7%-i
+rübündə dövlət büdcəsi xərcləri 8.1 mlrd. isə yaşayış evlərinin tikintisinin payına
+manat olmuşdur. Dövlət büdcəsinin cari düşmüşdür.
+xərcləri ö.i.m.d.n 1.7% artaraq 5.05 mlrd.
+Qrafik 26. Əsas kapitala yönəldilmiş
+manat təşkil etmişdir. Dövlət büdcəsi
+investisiyaların maliyyə mənbələri üzrə
+xərclərinin 62.2%-i cari xərclərə, 31.8%-i əsaslı
+strukturu,%-lə
+xərclərə, 6%-i dövlət borcuna xidmətlə bağlı
+Mənbə: DSK
+xərclərə yönəldilmişdir.
+Qrafik 25. Dövlət büdcəsinin cari xərclərinin 65 60.7
+dinamikası, mlrd. manatla
+Mənbə: Maliyyə Nazirliyi 50.5
+5.2
+45
+38.7
+5 30.6
+25
+5.1
+4.8 5
+10.8
+8.7
+4.7
+4.6 5
+2023 I rüb 2024 I rüb 2025 I rüb Müəssisə və Büdcə Digər maliyyə
+təşkilatların öz vəsaitləri mənbələri
+Dövr ərzində sosialyönlü xərclər (büdcə vəsaitləri
+xərclərinin əməyin ödənişi fondu, ərzaq
+2024 I rüb 2025 I rüb
+məhsullarının alınması, təqaüd və sosial
+7
+Maliyyə Nazirliyi
+Pul siyasəti icmalı - May 2025 24
+2.2 Məcmu tələb
+İnvestisiyaların 43.1%-i dövlət, 56.9%-i
+qeyri-dövlət sektorunun sərmayədarları
+tərəfindən qoyulmuşdur. Sərmayə
+qoyuluşunun 77.7%-i tikinti-quraşdırma
+işlərinə sərf edilmişdir. İnvestisiya
+qoyuluşunun tərkibində əsas payı sənaye
+(45.2%) və tikinti (26%) sahələri təşkil etmişdir.
+Daxili mənbələrdən əsas kapitala yönəldilmiş
+investisiyanın dəyəri ümumi sərmayənin
+72.6%-ni təşkil etmişdir. Xarici mənbələrdən
+yönəldilmiş investisiyaların dəyəri ö.i.m.d.n
+19.4% artmışdır.
+Pul siyasəti icmalı - May 2025 25
+2.3 Məcmu təklif və əmək bazarı
+2.3 MƏCMU TƏKLİF VƏ ƏMƏK BAZARI
+2025-ci ilin ilk rübündə Azərbaycan iqtisadiyyatında artım davam etmiş və qeyri-neft-qaz
+sektorundakı canlanma hesabına təmin olunmuşdur. Məşğulluq göstəriciləri də pozitiv dinamika nümayiş
+etdirmiş, iqtisadi fəal və muzdla çalışan əhalinin sayında artım qeydə alınmışdır.
+2.3.1 İqtisadi artım 2025-ci ilin yanvar-mart aylarında qeyri-
+neft-qaz sektorunda əlavə dəyər ötən ilin
+DSK-nın məlumatına əsasən ÜDM
+müvafiq dövrünə nəzərən real ifadədə 2.5%
+2025-ci ilin yanvar-mart aylarında ötən ilin
+artmış və nominal olaraq 20.1 mlrd. manat
+müvafiq dövrünə nəzərən real ifadədə 0.3%
+təşkil etmişdir. Sənayenin qeyri neft-qaz
+artmış və nominal olaraq 29.9 mlrd. manat
+seqmentində məhsul istehsalı 0.5% artmışdır.
+təşkil etmişdir. Adambaşına düşən ÜDM-in
+2025-ci ilin yanvar-mart aylarında kənd
+həcmi 2922.2 manat olmuşdur. 2025-ci ilin
+təsərrüfatında 1.9% artım qeydə alınmışdır.
+yanvar-mart aylarında nominal ÜDM-in
+Heyvandarlıq məhsulları istehsalı 1.2%,
+strukturunda qeyri-neft-qaz ÜDM-in payı
+bitkiçilik məhsulları istehsalı isə 13% artmışdır.
+67.3% təşkil etmişdir.
+Xidmət sahələrində artım davam
+İqtisadiyyatın neft-qaz sektorunda
+etmişdir. 2025-ci ilin yanvar-mart aylarında
+əlavə dəyər 3.8% azalmış və bu sektorda
+nəqliyyat və anbar təsərrüfatında 3.1%, yük və
+nominal ÜDM 9.8 mlrd. manat təşkil etmişdir.
+sərnişin daşımalarında isə müvafiq olaraq
+Ötən ilin eyni dövrü ilə müqayisədə əmtəəlik
+2.3% və 4.2% artım olmuşdur. Qeyri-dövlət
+neft hasilatı 5.5% azalmış, əmtəəlik qaz hasilatı
+sektoruna məxsus nəqliyyat vasitələri ilə
+isə 1.1% artmışdır.
+daşınmış yüklərin həcmi 3.8% artmışdır.
+Qrafik 27. İqtisadi artım, ö.i.m.d.n., %-lə
+Yükdaşımalarda ən böyük paya malik
+Mənbə: DSK
+avtomobil nəqliyyatında yük daşınması ötən
+14 12.3 ilin müvafiq dövrü ilə müqayisədə 6.8%
+artmışdır. 2025-ci ilin yanvar-mart aylarında
+11
+informasiya və rabitə sektorunda əlavə dəyər
+7.7
+8 6.9 7.0 7.1 2024-cü ilin yanvar-mart ayları ilə müqayisədə
+4.7 6.2 7.7%, turizm və ictimai iaşə sektorunda isə
+5
+12.5% artmışdır.
+5 4.3 1.2 1.7 4.1 2.5
+2 AMB tərəfindən real sektorun
+0.3 0.3 monitorinqi üzrə aparılan sorğunun nəticələri
+-1 0.6
+-0.1 0.2 iqtisadi aktivliyin davam etdiyini təsdiqləyir.
+-4 -2.6 -3.8 2025-ci ilin I rübündə Bİİ sahələr üzrə fərqli
+dinamika nümayiş etdirsə də, ümumilikdə,
+-7
+n
+a y
+v
+e f-n a y
+tr
+a m -n a y
+r
+p a -n a y
+y
+a m -n a y
+n
+u y i-n a y
+lu
+y i-n a y
+q
+v a -n a y
+tn
+e s -n a y
+tk
+o -n a y
+y
+o n -n a y
+k
+e d -n a y
+n
+a y
+v
+e f-n a y
+tr
+a m -n a y
+m üsbət zonada qərarlaşmışdır.
+2024 2025
+Ümumi Neft-qaz Qeyri-neft-qaz
+Pul siyasəti icmalı - May 2025 26
+2.3 Məcmu təklif və əmək bazarı
+Cədvəl 1. İqtisadiyyatın sektorları üzrə iqtisadi Xidmət sektorunun əksər alt sektorlarında Bİİ
+artımın dinamikası, ö.i.m.d.n., %-lə müsbət zonada qərarlaşmışdır.
+Mənbə: DSK
+Qrafik 28. Sahələr üzrə Biznes İnam İndeksinin
+2025 2024 dinamikası
+Sektorlar (yanvar- (yanvar- Mənbə: RSM nəticələri əsasında AMB-nin
+mart) mart) hesablamaları8
+Sənaye -3.9 0.6
+80
+70
+Tikinti -3.8 11.8
+60
+Kənd təsərrüfatı, meşə
+1.9 1.1 50
+təsərrüfatı və balıqçılıq
+40
+Ticarət, nəqliyyat
+30
+3.8 3.2
+vasitələrinin təmiri 20
+Nəqliyyat və anbar 10
+3.1 17.3
+təsərrüfatı 0
+Turistlərin -10
+yerləşdirilməsi və ictimai 12.5 10.2 -20
+iaşə
+n
+a y
+v
+e f
+tr
+a m
+r
+p a
+y
+a m
+n
+u y i
+lu
+y i
+q
+v a
+tn
+e s
+tk
+o
+y
+o n
+k
+e d
+n
+a y
+v
+e f
+tr
+a m
+İnformasiya və rabitə 7.7 10.4
+2024 2025
+Digər sahələr 1.9 3.7
+Qeyri-neft-qaz Ticarət Tikinti Xidmət
+Məhsula və idxala xalis
+1.7 8.4 sənayesi
+vergilər
+Qeyri-neft sənaye müəssisələri üzrə Bİİ Əlavə olaraq iqtisadiyyatda fəaliyyət
+2025-ci ilin yanvar-mart aylarında orta hesabla göstərən kommersiya təşkilatlarının sayında
+ötən ilin müvafiq dövrü üzrə göstəriciyə müşahidə edilmiş artım da iqtisadi artımın
+nisbətən yüksəlmişdir. Bİİ əsasən tekstil, davam etdiyini təsdiqləyir. Belə ki, DSK-nın
+plastik məmulatların istehsalı və metallurgiya məlumatlarına əsasən 2025-ci ilin 1 aprel
+sektorlarında yüksəlmişdir. tarixinə ölkədə qeydiyyatda olan kommersiya
+2025-ci ilin yanvar-mart aylarında təşkilatların sayı 198 min vahid olmuşdur.
+ticarət üzrə Bİİ azalmışdır. Bİİ ticarətin elektrik 2024-cü ilin 1 aprel tarixi ilə müqayisədə
+məişət avadanlıqları, avtomobil və təsərrüfat ölkədə qeydiyyatda olan kommersiya
+malları istehsalı sahələrində artmış, mebel təşkilatlarının sayında 8.1% artım olmuşdur.
+istehsalı sahəsində isə azalmışdır.
+2.3.2 Məşğulluq
+2025-ci ilin yanvar-mart aylarında
+2025-ci ilin aprelin 1-i tarixinə ölkədə
+xidmət sektoru üzrə Bİİ ötən ilin müvafiq
+iqtisadi fəal əhalinin sayı 5316.0 min nəfər,
+dövrü ilə müqayisədə bir qədər aşağı olsa da,
+məşğul əhalinin sayı isə 5032.8 min nəfər təşkil
+ümumilikdə, yüksək olaraq qalmaqdadır.
+etmişdir. İqtisadi fəal əhalinin sayı ötən ilin
+müvafiq dövrü ilə müqayisədə 1.2% artmışdır.
+8
+Sənaye Bİİ = (məhsul istehsalı – hazır məhsul ehtiyatı + istehsal gözləntiləri)/3
+Xidmət Bİİ = (biznes şəraiti + faktiki tələb + tələb gözləntisi)/3
+Ticarət Bİİ = (faktiki satış – mal ehtiyatlarının dəyişməsi + satış üzrə gözləntilər)/3
+Pul siyasəti icmalı - May 2025 27
+2.3 Məcmu təklif və əmək bazarı
+Muzdla çalışan işçilərin sayı 2025-ci ilin
+mart ayının 1-nə 1758.8 min nəfər olmuşdur.
+2024-cü ilin mart ayının 1-nə nəzərən muzdla
+çalışanların sayında 1.8% artım olmuşdur.
+İqtisadiyyatın dövlət sektorunda işləyənlərin
+sayı 878.5 min nəfər, qeyri-dövlət sektorunda
+isə 880.3 min nəfər təşkil etmişdir.
+Qrafik 29. İqtisadi fəal əhalinin sayı, min nəfərlə
+Mənbə: DSK
+5325
+5305
+5285
+5265
+5245
+5225
+5205
+n
+a y
+v
+e f
+tr
+a m
+r
+p a
+y
+a m
+n
+u y i
+lu
+y i
+q
+v a
+tn
+e s
+tk
+o
+y
+o n
+k
+e d
+n
+a y
+v
+e f
+tr
+a m
+2024 2025
+2025-ci ilin 1 aprel tarixinə ölkədə
+qeydiyyata alınmış işsiz şəxslərin sayı 231.2
+min nəfər olmuş, onların 47.9%-ni qadınlar
+təşkil etmişdir.
+2024-cü ilin dekabr ayında sorğu
+nəticələrinə əsasən ötən ilin müvafiq dövrünə
+nəzərən müəssisələr üzrə işçi sayının 7.5%,
+yüklənmə dərəcəsinin 1.6 faiz bəndi
+yüksəlməsi iqtisadi aktivliyin artdığını göstərir.
+2025-ci ilin mart ayında real sektorun
+monitorinqi çərçivəsində aparılan sorğu
+nəticələrinə əsasən 2024-cü ilin mart ayına
+nəzərən müəssisələr üzrə işçi sayı 1.9%
+artmışdır.
+Pul siyasəti icmalı - May 2025 28
+2.4 İnflyasiya prosesləri
+2.4 İNFLYASİYA PROSESLƏRİ
+2025-ci ilin I rübündə illik inflyasiya proqnozlaşdırılan trayektoriya ilə hərəkət etmiş və hədəf
+daxilində qalmışdır.
+2.4.1 İstehlak qiymətləri indeksi ən yüksək artım tempi xidmətlər üzrə
+müşahidə olunmuşdur. İllik xidmət inflyasiyası
+2025-ci ilin mart ayında istehlakçı
+2025-ci ilin mart ayında 7.5% təşkil etmiş, orta
+qiymətləri indeksi cəmi məhsul və xidmətlər
+illik xidmət inflyasiyası isə 7.8% olmuşdur.
+üzrə illik 5.9% təşkil etmişdir. Orta illik
+Əhaliyə göstərilən ödənişli xidmətlər arasında
+inflyasiya9 isə rəsmi statistikaya görə 5.6%
+mərkəzi isitmə xidməti və hava nəqliyyatı ilə
+olmuşdur.
+sərnişindaşıma xidmətinin illik əsasda qiymət
+Mərkəzi Bankın qiymətləndirmələrinə
+indeksi daha çox artmışdır. Belə ki, mərkəzi
+görə, illik inflyasiyaya dövlət istehlakı və ev
+isitmə xidmətinin qiymətlərində 2 dəfə, hava
+təsərrüfatlarının istehlakı birlikdə 1.67 faiz
+nəqliyyatı ilə sərnişindaşıma xidmətinin
+bəndi, kənd təsərrüfatı istehsalçıları qiymətləri
+qiymətlərində isə ötən ilin mart ayı ilə
+2.88 faiz bəndi, ticarət tərəfdaşlarında
+müqayisədə 17.2% illik artım müşahidə
+inflyasiya 3.86 faiz bəndi artırıcı, manatın NEM-
+edilmişdir.
+nin möhkəmlənməsi 2.33 faiz bəndi azaldıcı
+təsir göstərmişdir. Qrafik 31. İQİ komponentlərinin töhfəsi, %-lə
+Mənbə: DSK və AMB-nin hesablamaları
+Qrafik 30. İllik inflyasiya, %-lə
+16
+Mənbə: DSK 13.6
+14
+16
+12
+14 14.1
+10
+12
+8
+10
+6 5.9
+8 8.0 5.9
+4
+6
+5.1 4.9 2
+4 0 0.4
+2.7
+2
+-2
+0.8
+0 r a v n a Y tr a M y a M lu y İ r b a y tn e r b a y o N r a v n a Y tr a M y a M lu y İ r b a y tn e r b a y o N r a v n a Y tr a M r a v n a Y tr a M y a M lu y İ r b a y tn e S r b a y o N r a v n a Y tr a M y a M lu y İ r b a y tn e S r b a y o N r a v n a Y tr a M
+S S
+2023 2024 2025
+2023 2024 2025
+Xidmət Qeyri-ərzaq Ərzaq
+Hədəf diapazonu İllik inflyasiya
+2025-ci ilin mart ayında inflyasiyanın
+artımı əsasən ərzaq məhsulları və xidmətlərin
+Ərzaq məhsulları üzrə qeydə alınan illik
+hesabına baş vermişdir. Ötən ilin eyni dövrü ilə
+inflyasiya 6.5%, orta illik qiymət artımı isə 5.7%
+müqayisədə ərzağın inflyasiyaya töhfəsi -0.5-
+təşkil etmişdir. Qeyri-ərzaq məhsullarında
+dən 3%-ə, xidmətlərin isə 0.7-dən 2.3%-ə
+2.8% illik, 2.7% isə orta illik inflyasiya qeydə
+yüksəlmişdir. Qeyri-ərzaq məhsullarının təsiri
+alınmışdır. İllik və orta illik əsasda qiymətlərin
+9
+2025-ci ilin yanvar-mart aylarının 2024-cü ilin yanvar-mart ayları ilə müqayisəsi
+Pul siyasəti icmalı - May 2025 29
+2.4 İnflyasiya prosesləri
+sabit qalaraq neytral rol oynayıb. Beləliklə, son Emal sənayesi üzrə istehsalçı qiymətləri
+bir ildə inflyasiyanın əsas drayverləri ərzaq və indeksi 2025-ci ilin mart ayında illik əsasda
+xidmət olmuş, qeyri-ərzaq komponenti isə 6.8% o cümlədən qida məhsullarının istehsalı
+dəyişkənlik baxımından aşağı təsir üzrə 7.5% artmışdır.
+göstərmişdir.
+Qrafik 33. İstehsalçı qiymətləri indeksinin illik
+Qiymətləri dövlət tərəfindən
+dəyişimi, %-lə
+tənzimlənən, həmçinin mövsümi xarakter
+Mənbə: DSK
+daşıyan məhsul və xidmətlərin qiymət
+14
+dəyişmələri nəzərə alınmadan hesablanan
+baza inflyasiya 2025-ci ilin martında illik 4.5%, 12
+11.4
+orta illik isə 4.3% təşkil etmişdir.
+11.0
+10
+Qrafik 32. Baza inflyasiyanın illik dəyişimi, %-lə 8.7
+7.8 8.5
+Mənbə: DSK
+8
+14 13.0
+6.1
+6 5.8
+12 11.1 4.5 5.4 6.2 5.2
+4
+10 2.7 4.1 3.0 3.8
+2 1.3
+8
+0.8
+-0.1
+6 5.2 0
+4.4 4.5
+4 2.9 -2
+2.3
+2
+r
+a v n
+tr
+a M
+y
+a M
+lu
+y İ
+r
+b a y
+r
+b a y
+r
+a v n
+tr
+a M
+y
+a M
+lu
+y İ
+r
+b a y
+r
+b a y
+r
+a v n
+tr
+a M
+0.4 a Y tn e o N a Y tn e o N a Y
+S S
+0
+r
+a v n
+tr
+a M
+y
+a M
+lu
+y İ
+r
+b a y
+r
+b a y
+r
+a v n
+tr
+a M
+y
+a M
+lu
+y İ
+r
+b a y
+r
+b a y
+r
+a v n
+tr
+a M
+2023 2024 2025
+a Y tn e o N a Y tn e o N a Y KİQİ Qeyri neft-qaz sənayesi
+S S
+2023 2024 2025
+2025-ci ilin mart ayında ötən ilin eyni
+ayına nəzərən nəqliyyat və anbar təsərrüfatı
+2.4.2 İstehsalçı qiymətləri indeksi
+xidmətlərinin qiymət indeksi 3.8%, nəqliyyatda
+DSK-nın məlumatına əsasən mart
+yükdaşıma xidmətinin qiymət indeksi isə illik
+ayında kənd təsərrüfatı məhsullarının
+1.9% artmışdır.
+istehsalçı qiymətlərində illik 8.5%, o cümlədən
+Mart ayında poçt və kuryer, həmçinin
+bitkiçilik məhsullarının qiymətində 8.3%,
+rabitə xidmətlərinin qiymət indeksi illik 2.9%,
+heyvandarlıq məhsullarının qiymətində isə illik
+reklam xidmətlərinin qiymət indeksi isə 2.5%
+8.7% artım müşahidə olunmuşdur.
+artmışdır. İnternet rabitəsi üzrə qiymət indeksi
+2025-ci ilin mart ayında sənaye
+keçən ilin mart ayı ilə müqayisədə 0.3%,
+məhsullarının istehsalçı qiymətləri indeksi illik
+informasiya və kommunikasiya texnologiyaları
+8.7% aşağı düşmüşdür. O cümlədən, istehsalçı
+üzrə qiymət indeksi isə 3.8% artmışdır.
+qiymətləri indeksi neft-qaz sənayesi
+məhsulları üzrə 12.1% azalmış, qeyri-neft-qaz
+sənayesi məhsulları üzrə isə 5.8% artmışdır.
+Pul siyasəti icmalı - May 2025 30
+2.4 İnflyasiya prosesləri
+2.4.3 Mənzil qiymətləri indeksi
+DSK-nın məlumatlarına əsasən 2025-ci
+ilin I rübündə mənzil bazarında qiymət indeksi
+2024-cü ilin IV rübünə nəzərən 4.4%, o
+cümlədən ilkin mənzil bazarında 2%, təkrar
+mənzil bazarında isə 4.5% artmışdır.
+Qrafik 34. Mənzil bazarında qiymət indeksi, ötən
+rübə nəzərən, %-lə
+Mənbə: DSK
+5
+4.5
+4.4
+4 3.8
+3.5
+3.1 3.3
+3 2.8
+2.5 2.2
+2.2
+1.7
+2 1.2
+1.5
+1
+0.5
+0
+I II III IV I II III IV I
+2023 2024 2025
+İlkin bazarda qiymət indeksi
+Təkrar bazarda qiymət indeksi
+Mənzil bazarında qiymət indeksi
+2025-ci ilin yanvar-mart ayları ərzində
+ümumi mənzil bazarında ötən ilin müvafiq
+dövrü ilə müqayisədə qiymət indeksi 14.4%, o
+cümlədən ilkin mənzil bazarında 12.9%, təkrar
+mənzil bazarında isə 14.4% artmışdır.
+Pul siyasəti icmalı - May 2025 31
+2.4 İnflyasiya prosesləri
+3
+PUL VƏ MƏZƏNNƏ
+SİYASƏTİ
+Pul siyasəti icmalı - May 2025 32
+3.1 Pul siyasəti alətləri, pul bazarı və məzənnə
+3.1 PUL SİYASƏTİ ALƏTLƏRİ, PUL BAZARI VƏ MƏZƏNNƏ
+2025-ci ilin I rübündə Mərkəzi Bankın pul siyasəti monetar şəraitin idarə edilməsi vasitəsilə
+inflyasiyanın hədəf daxilində saxlanılmasına yönəldilmişdir. Hesabat dövründə əməliyyat çərçivəsinin
+təkmilləşdirilməsi, faiz kanalının ötürücülüyünün gücləndirilməsi məqsədilə işlər davam etdirilmişdir.
+Hesabat dövründə banklararası pul bazarında aktivlik davam etmiş, 1D AZIR indeksi faiz dəhlizi daxilində
+hərəkət etmişdir.
+3.1.1 Pul siyasəti alətləri
+2025-ci ilin ötən dövründə pul siyasəti dəhlizinin yuxarı həddi 8.25%, faiz dəhlizinin
+qərarları inflyasiyanın dinamikası, aşağı həddi isə 6.25% səviyyəsində dəyişməz
+ortamüddətli dövr üzrə inflyasiyanın risk saxlanılmışdır. Faktiki və proqnozlaşdırılan
+balansında baş verən dəyişikliklər, qlobal inflyasiyanın hədəf daxilində (4±2%) olması,
+iqtisadi və geosiyasi mühitin qeyri- qlobal iqtisadi şərait, makroiqtisadi meyillərin
+müəyyənliyi, eləcə də pul siyasətinin təhlili, eləcə də inflyasiya gözləntilərinin
+ötürücülüyünün xüsusiyyətləri nəzərə sabitləşməsi bu qərarları şərtləndirmişdir.
+alınmaqla verilmişdir. Mərkəzi Bank faiz dərəcələri ilə bağlı qərarları
+öncədən elan edilmiş qrafik üzrə və müvafiq
+Qrafik 35. Faiz dəhlizinin parametrləri, %-lə
+analitik şərhlərlə ictimaiyyətə açıqlamışdır.
+Mənbə: AMB
+Pul siyasəti alətləri maliyyə
+10.5 bazarlarında gedən proseslər və bank
+10 sisteminin likvidlik mövqeyindəki dəyişikliklər
+nəzərə alınmaqla tətbiq edilmişdir. Mərkəzi
+9.5
+Bank 2025-ci ilin yanvar-mart aylarında
+9
+likvidliyin idarə olunması məqsədilə müxtəlif
+8.5
+müddətli monetar əməliyyatların tətbiqini
+8 davam etdirmişdir. Dövr ərzində daimi imkan
+7.5 alətləri aktiv istifadə olunmuş, açıq bazar
+əməliyyatlarının parametrləri mövcud likvidlik
+7
+vəziyyətinə uyğun olaraq çevik şəkildə
+6.5
+tənzimlənmişdir. Banklar Mərkəzi Bankın həm
+6
+sterilizasiya yönümlü, həm də likvidliyin
+2 3 3 3 3 4 4 4 4 5
+2 2 2 2 2 2 2 2 2 2
+k r n n k r n n k r verilməsi yönümlü daimi imkan alətindən
+e d a m y i e s e d a m y i e s e d a m
+istifadə etmişlər. Yanvar-mart ayları ərzində
+Dəhlizin aşağı həddi Uçot dərəcəsi banklar tərəfindən iş günlərinin 100%-də 1
+Dəhlizin yuxarı həddi günlük depozit daimi imkan alətinə, 24%-də
+isə 1 günlük əks-repo əməliyyatına müraciət
+Mərkəzi Bankın İdarə Heyəti 2025-ci ilin
+olunmuşdur. 1 günlük depozit daimi imkan
+ötən dövründə faiz dəhlizinin parametrlərini 3
+əməliyyatlarının orta günlük həcmi 400.1 mln.
+dəfə müzakirə etmişdir. Pul siyasətinə həsr
+manat, 1 günlük əks-repo əməliyyatların orta
+edilmiş bu iclaslarda uçot dərəcəsi 7.25%, faiz
+Pul siyasəti icmalı - May 2025 33
+3.1 Pul siyasəti alətləri, pul bazarı və məzənnə
+günlük həcmi 692.7 mln. manat10 olmuşdur. not hərraclarının 18-i baş tutmuşdur. Baş
+Hesabat dövrü ərzində ötən ilə nəzərən tutan hərraclardan 5-i 28 günlük, 4-ü 84
+Mərkəzi Bankın daimi imkan alətlərinə tələb günlük, 5-i 168 günlük, 4-ü isə 252 günlük
+bank sektorunun likvidlik mövqeyindəki notlar üzrə olmuşdur. 2025-ci ilin mart ayının
+dəyişikliklərdən təsirlənmişdir. sonuna notlar vasitəsilə sterilizasiya olunmuş
+2024-cü ildən başlayaraq son aylar vəsaitin toplam qalığı 48.2 mln. manat təşkil
+bank sektorunda izafi likvidliyin azalması etmişdir ki, bu da 2024-cü ilin sonu ilə
+fonunda avtonom amillərin monetar şəraitə müqayisədə 4.3 dəfə azdır.
+təsirlərinin neytrallaşdırılması məqsədilə Son hərraclarda formalaşan gəlirlilik 28
+Mərkəzi Bank tərəfindən sterilizasiya günlük notlar üzrə 7%, 84 günlük notlar üzrə
+əməliyyatlarının həcmi azaldılmışdır. 7.16%, 168 günlük notlar üzrə 7.5%, 252 günlük
+notlar üzrə isə 7.71% olmuşdur.
+Qrafik 36. AMB-nin daimi imkan alətləri üzrə
+banklar tərəfindən yerləşdirilən (1 günlük Qrafik 37. AMB-nin dövriyyədə olan
+depozit) və cəlb edilən (1 günlük əks-repo) qısamüddətli notlarının həcmi və gəlirliliyi
+məbləğ, mln. manatla Mənbə: AMB
+Mənbə: AMB
+200 8.5
+2000
+1500 8.0
+150 7.7
+1000 7.5
+7.3 7.5
+7.2
+500 100 7.1
+7.0
+7.0
+0
+50
+-500
+6.5
+6.1
+-1000
+0 6.0
+-1500 4 5 4 5 4 5 4 5
+2 2 2 2 2 2 2 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+4
+2 0 2
+5
+2 0 2
+5
+2 0 2
+5
+2 0 2
+5
+2 0 2
+0
+2
+-r
+a M
+0
+2
+-r
+a M
+0
+2
+-r
+a M
+0
+2
+-r
+a M
+////////////////////
+70268146914691479149
+/ 1 3 / 2 / 1 / / 4 / 5 2 / 1 / / 7 / 8 2 / 1 / / 0 / 1 2 / 1 / / 1 / 2 2 / 1 / 1 aylıq 3 aylıq 6 aylıq 9 aylıq
+123 56 891112 23
+11
+Qalıq həcmi, mln.manat
+1 günlük əks-repo əməliyyatları
+Son hərracda gəlirlilik, % (sağ şkala)
+1 günlük depozit əməliyyatları
+2025-ci ilin yanvar-mart aylarında
+2025-ci ilin I rübü ərzində açıq bazar banklararası pul bazarında faizləri
+əməliyyatları qismində sterilizasiya məqsədilə tənzimləmək, avtonom amillərin təsirlərini
+28 günlük (1 ay), 84 günlük (3 ay), 168 günlük operativ şəkildə məhdudlaşdırmaq və
+(6 ay) və 252 günlük (9 ay) notların likvidliyin daha çevik idarə edilməsi məqsədilə
+yerləşdirilməsi üzrə hərraclar davam 1 həftəlik repo/əks-repo alətindən istifadə
+etdirilmişdir. Ümumilikdə, dövr ərzində edilmişdir. Belə ki, hesabat dövründə
+Mərkəzi Bankın təşkil etdiyi müxtəlif müddətli sterilizasiya məqsədilə keçirilən 7 günlük repo
+10 Dövr üzrə əməliyyatların məbləğinin əməliyyatların keçirildiyi günlərin sayına bölünməsi ilə hesablanmışdır.
+Pul siyasəti icmalı - May 2025 34
+3.1 Pul siyasəti alətləri, pul bazarı və məzənnə
+hərraclarının 5-i, likvidliyin verilməsi olaraq veriləcəkdir. Həmçinin pul siyasətinin
+məqsədilə isə 7 günlük əks-repo hərraclarının əməliyyat çərçivəsinin institusional və texniki
+1-i baş tutmuşdur. baxımdan təkmilləşdirilməsi istiqamətində
+Hesabat dövründə də məcburi ehtiyat işlər davam etdiriləcəkdir. Xüsusilə, bazar
+normalarının ortalama rejimində tətbiqinin iştirakçıları ilə kommunikasiyanın
+davam etdirilməsi banklar tərəfindən gücləndirilməsi və mövcud əməliyyat
+likvidliyin çevik və effektiv idarə edilməsinə mexanizmlərinin beynəlxalq təcrübəyə
+müsbət təsir göstərən amillərdən biri uyğunlaşdırılması Mərkəzi Bank üçün prioritet
+olmuşdur. Aparılmış monitorinqlərin istiqamətlərdən biridir.
+nəticələrinə əsasən hesabat dövrü üzrə
+3.1.2 Pul bazarı
+bankların həm milli, həm də xarici valyutada
+Pul bazarında qısamüddətli faizlər
+Mərkəzi Bankdakı müxbir hesablarının toplam
+hesabat dövrü ərzində faiz dəhlizinin
+qalıqları dövr üçün məcburi ehtiyat kimi
+dəyişiminə reaksiya verməkdə davam
+saxlanmalı olan cəmi vəsaitlərin həcmini
+etmişdir. 2025-ci ilin I rübündə banklararası
+üstələmişdir. Məcburi ehtiyat normalarında
+təminatsız pul bazarında 1-3 günlük
+hesabat dövründə dəyişiklik edilməmişdir.
+əməliyyatlar üzrə orta faiz dərəcəsi (1D AZIR)
+Hesabat dövründə pul siyasətinin
+aylar üzrə dəyişkən olsa da, faiz dəhlizi
+əməliyyat çərçivəsinin təkmilləşdirilməsi işləri
+daxilində formalaşmışdır. Belə ki, 1D AZIR
+də davam etdirilmişdir. 2025-ci ilin fevral
+indeksi ilə uçot faiz dərəcəsi arasındakı spred
+ayında daimi imkan və açıq bazar
+yanvarda -0.2 faiz bəndi, fevralda +0.2 faiz
+əməliyyatlarının aparılması şərtlərində
+bəndi, martda isə -0.4 faiz bəndi olmuşdur.
+dəyişikliklər edilmişdir. Belə ki, bir günlük
+Ümumilikdə isə hesabat dövrünün 36 iş
+daimi imkan depozit və əks-repo
+günündə (ümumi iş günlərinin 71%-i) 1D AZIR
+əməliyyatlarının müddəti 24 saatdan 1
+ilə uçot dərəcəsi arasındakı spred ±0.5%
+gecəliyə keçirilmişdir. Eyni zamanda not
+aralığında dəyişmişdir.
+hərraclarında minimum iştirakçı sayına
+qoyulan tələb aradan qaldırılmışdır. Qrafik 38. Uçot dərəcəsi və 1D AZIR indeksinin
+Ümumilikdə, dövr ərzində Mərkəzi dinamikası
+Bankın həyata keçirdiyi monetar əməliyyatlar Mənbə: AMB
+banklar tərəfindən likvidliyin effektiv idarə 9.25%
+olunmasına, banklararası bazardakı aktivliyə
+8.75%
+və faiz ötürücülüyünün güclənməsinə müsbət
+8.25%
+təsir etmişdir. Belə ki, pul siyasəti alətlərinin
+çevik tətbiqi nəticəsində banklar öz vəsaitlərini 7.75%
+daha səmərəli yerləşdirmək, eyni zamanda
+7.25%
+qısamüddətli likvidlik ehtiyaclarını qarşılamaq
+6.75%
+imkanı əldə etmişlər. Növbəti dövrlərdə də
+ölkədaxili makroiqtisadi vəziyyətdən asılı 6.25%
+o ad la e r k a v q a M t i ə st r i k fa ə d zi ə B e a d n i k lə ın cə p k u d l i s r. i y A a l s ə ə tl t ə i r a i l n ə t k l ə ə m rin iy d y ə ə n t
+tr
+a M
+le
+r p A
+y
+a M
+n
+u y İ
+lu
+y İ
+ts
+u q v A
+r
+b a y tn e
+r
+b a y tk O
+r
+b a y o N
+r
+b a k e D
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+S
+parametrlərinə və müddətinə dair qərarlar
+2024 2025
+bank sisteminin likvidlik mövqeyinin
+Faiz dəhlizi 1D AZIR Uçot faiz dərəcəsi
+müntəzəm qiymətləndirilməsindən asılı
+Pul siyasəti icmalı - May 2025 35
+3.1 Pul siyasəti alətləri, pul bazarı və məzənnə
+Təminatsız banklararası bazarla yanaşı Qrafik 39. Banklararası pul bazarında
+banklararası təminatlı repo bazarında da əməliyyatların həcmi, mlrd. manatla
+qısamüddətli bençmark faiz indeksləri faiz Mənbə: AMB, BFB
+dəhlizi daxilində formalaşmışdır. Belə ki, 2025- 16
+ci ilin mart ayında banklararası təminatlı repo 14
+12
+bazarında 1-3 günlük əməliyyatlar üzrə orta
+10
+faiz dərəcəsi (1D AINA ) 7.75%, 6-8 günlük
+IB
+8
+əməliyyatlar üzrə orta faiz dərəcəsi (1W
+6
+AINA ) isə 7.19% təşkil etmişdir.
+IB 4
+Təhlillər 1D AZIR indeksinin bazar 2
+faizlərinə təsirinin tədricən gücləndiyini 0
+göstərir. Siyasət çərçivəsində atılan addımlar
+r
+a v n
+tr
+a M
+y
+a M
+lu
+y İ
+r
+b a y
+r
+b a y
+r
+a v n
+tr
+a M
+y
+a M
+lu
+y İ
+r
+b a y
+r
+b a y
+r
+a v n
+tr
+a M
+və maliyyə sektorunun dərinliyinin artması ilə
+a
+Y
+tn
+e
+o
+N
+a
+Y
+tn
+e
+o
+N
+a
+Y
+S S
+transmissiya mexanizminin növbəti halqası
+2023 2024 2025
+olan bank-müştəri faizlərinə ötürücülüyün
+daha da möhkəmlənməsi gözlənilir. Təminatsız bazar Banklararası repo bazarı
+Ümumilikdə, hesabat dövründə
+banklararası bazarın həm təminatsız, həm də
+təminatlı sektorunda yüksək aktivlik müşahidə 3.1.3 İkitərəfli və çoxtərəfli
+olunmuşdur. 2025-ci ilin I rübündə məzənnələr
+“Bloomberg” ticarət sistemində banklar Dövr ərzində manatın ABŞ dollarına
+arasında 22.6 mlrd. manat məbləğində 1162 nəzərən rəsmi məzənnəsi banklararası əqdlər
+ədəd təminatsız əqd bağlanmışdır. Bu üzrə orta məzənnə (“Bloomberg” ticarət
+əməliyyatların həcm olaraq 94%-i 1-3 günlük sistemində hərraclar və hərracdan kənar
+olmuşdur. Bu dövr ərzində banklararası repo əməliyyatlar nəzərə alınmaqla) əsasında
+bazarında isə 2.4 mlrd. manat həcmində 133 müəyyən edilmişdir. Hesabat dövründə
+əqd bağlanmışdır. Bu əqdlərin həcm olaraq manatın ABŞ dollarına qarşı orta günlük rəsmi
+11%-i 1-3 günlük, 87%-i isə 6-8 günlük məzənnəsi 1.7 manat təşkil etmişdir.
+əməliyyatlar olmuşdur. Ö.i.m.d.n təminatsız Banklar tərəfindən müəyyən edilən xarici
+pul bazarında bağlanılan əqdlərin həcmi 1.7 valyutanın alış-satış məzənnələri rəsmi
+dəfə, banklararası repo bazarındakı məzənnəyə yaxın diapazonda hərəkət
+əməliyyatların həcmi isə 2.1 dəfə artmışdır. etmişdir. Belə ki, kommersiya banklarının 1
+ABŞ dolları üçün gündəlik ortalama alış
+məzənnəsi rəsmi məzənnədən 0.2%, satış
+məzənnəsi isə 0.15% fərqli olmuşdur.
+Pul siyasəti icmalı - May 2025 36
+3.1 Pul siyasəti alətləri, pul bazarı və məzənnə
+Qrafik 40. Effektiv məzənnə indeksləri (ötən ilin
+sonuna nəzərən)
+Mənbə: AMB
+25
+19.3
+20
+15
+10 8.4 9.0
+5.1
+5 3.6
+2.2
+0
+-5
+-4.1 -4.7
+-10
+2022 2023 2024 Mar-25
+NEM REM
+2025-ci ilin mart ayında manatın qeyri-
+neft ticarət çəkili nominal effektiv məzənnəsi
+4.1%, real effektiv məzənnəsi isə 4.7%
+ucuzlaşmışdır. Azərbaycandakı inflyasiyanın
+tərəfdaş ölkələrdəki orta çəkili inflyasiyadan
+aşağı olması real effektiv məzənnəyə azaldıcı
+təsir etmişdir. 2025-ci ilin mart ayında illik
+inflyasiya Azərbaycanda 5.9% olduğu halda
+tərəfdaş ölkələr üzrə orta çəkili inflyasiya 9.6%
+olmuşdur.
+Pul siyasəti icmalı - May 2025 37
+3.2 Pul təklifi, depozit və kredit bazarı
+3.2 PUL TƏKLİFİ, DEPOZİT VƏ KREDİT BAZARI
+2025-ci ilin I rübündə pul təklifi pul siyasətinin hədəfləri nəzərə alınmaqla idarə edilmişdir. Mərkəzi
+Bankın pul siyasəti alətləri ilə yanaşı avtonom amillər də pul tәklifinә tәsir edәn mühüm amillәrdәn
+olmuşdur. Rüb ərzində iqtisadiyyata kredit qoyuluşunun artımı davam etmişdir.
+3.2.1 Pul bazası və pul kütləsi 2025-ci ilin I rübündə manatla geniş pul
+2025-ci ilin I rübündə manatla pul bazası kütləsi (M2) 3% azalaraq 35.6 mlrd. manat
+2.8% artaraq dövrün sonuna 21.5 mlrd. manat təşkil etmiş, ötən ilin eyni dövrü ilə
+təşkil etmişdir. Hesabat dövrü ərzində pul müqayisədə isə 3.2% artmışdır. Geniş pul
+bazasına təsir göstərən başlıca amillər Mərkəzi kütləsi (M3) 0.5% artaraq martın sonuna 46.7
+Bankın daimi imkan alətləri, hökumət mlrd. manat təşkil etmişdir. M3 ötən ilin eyni
+hesablarındakı qalığın dəyişimi və açıq bazar dövrü ilə müqayisədə isə 4.2% artmışdır.
+əməliyyatları olmuşdur. Manatla pul bazasının
+Qrafik 42. Pul aqreqatlarının həcmi və dəyişimi,
+struktur elementi olan dövriyyədəki nağd
+mlrd. manat
+pulun həcmi11 4.1% artmış, manatla müxbir
+Mənbə: AMB
+hesabların qalığı isə 3.6% azalmışdır.
+50 4.2% 5%
+Manatla pul multiplikatorunun (manatla 4.1%
+3.2% 4%
+geniş mənada pul kütləsinin manatla pul
+40
+bazasına nisbəti) rüb ərzində orta aylıq 3%
+göstəricisi 1.72 olmuşdur. 30
+2%
+Qrafik 41. Pul bazasının həcmi və ö.i.m.d.n. 20 1%
+dəyişimi
+0%
+Mənbə: AMB 10
+-1%
+25
+-1.3%
+21.5
+0 -2%
+20 M0 M1 M2 M3
+15 Mart 2024
+Mart 2025
+10 Mart 25/Mart 24 artım tempi (sağ şkala)
+5 Hesabat dövrü ərzində M2 pul
+aqreqatının struktur elementləri müxtəlif
+0
+istiqamətlərdə dəyişmişdir. Nağd pul kütləsi
+(M0) 1.4% artmış, tələb olunanadək əmanət və
+-5
+n a Y v e F tr a M r p A y a M n u y İ lu y İ q v A n e S tk O y o N k e D n a Y v e F tr a M depozitlər 11.3% azalmış, müddətli əmanət və
+depozitlər isə 3.5% artmışdır. Ötən ilin müvafiq
+2024 2025
+dövrü ilə müqayisədə M0 4.1% artmış, tələb
+Pul bazasının həcmi mlrd. manat
+olunanadək əmanət və depozitlər 7.7%
+Pul bazasının illik dəyişimi, %
+11
+Bank sistemindən kənarda nağd pul, bankların kassalarında və bankomatlarda olan pullar
+Pul siyasəti icmalı - May 2025 38
+3.2 Pul təklifi, depozit və kredit bazarı
+azalmış, müddətli əmanət və depozitlər isə 3.2.2 Depozit bazarı
+25.9% artmışdır. 2025-ci ilin I rübünün sonuna maliyyə
+Rüb ərzində tələb olunanadək sektoru çıxılmaqla depozit portfeli 36.7 mlrd.
+depozitlərin M2-də xüsusi çəkisi azalmış (3.2 manat təşkil etmişdir. O cümlədən, müddətli
+faiz bəndi azalıb 34.4% olmuşdur), müddətli depozitlər rüb ərzində 2.2% artaraq dövrün
+depozitlərin M2-də xüsusi çəkisi isə artmışdır sonuna 14.8 mlrd. manat təşkil etmiş, cari
+(1.3 faiz bəndi artıb 20.4% olmuşdur). Ötən ilin depozitlərin həcmi isə 3.6% azalaraq 21.9 mlrd.
+müvafiq dövrü ilə müqayisədə tələb manat təşkil etmişdir. Ötən ilin müvafiq dövrü
+olunanadək depozitlərin M2-də xüsusi çəkisi ilə müqayisədə maliyyə sektoru çıxılmaqla
+4.1 faiz bəndi azalmış, müddətli depozitlərin depozit portfeli 6.3%, müddətli depozitlər
+M2-də xüsusi çəkisi isə 3.7 faiz bəndi artmışdır. 17.4% artmış, cari depozitlərin həcmində isə
+əhəmiyyətli dəyişiklik olmamışdır.
+Qrafik 43. Manatla geniş mənada pul kütləsinin
+Dövr ərzində hüquqi şəxslərin cəmi
+tərkibi, mlrd. manat
+depozitləri 4.1% azalaraq dövrün sonuna 21.6
+Mənbə: AMB
+mlrd. manat təşkil etmişdir. Hüquqi şəxslərin
+40 34.5 36.7 35.6 depozitlərində cari hesabların payı dövrün
+sonunda ilin əvvəli ilə müqayisədə 0.7 faiz
+5.8 7.0 7.2 bəndi azalaraq 73%, müddətli depozitlərin payı
+30
+isə 0.7 faiz bəndi artaraq 27% olmuşdur. Ötən
+13.3 13.8 12.2 ilin müvafiq dövrü ilə müqayisədə hüquqi
+20
+şəxslərin cəmi depozitləri 1.1% artmışdır. Son
+1 ildə hüquqi şəxslərin depozitlərində cari
+10
+15.4 15.9 16.1 hesabların payı 1.6 faiz bəndi azalmış,
+müddətli depozitlərin payı isə 1.6 faiz bəndi
+0
+Mart 2024 Dekabr 2024 Mart 2025 artmışdır.
+Müddətli əmanət və depozitlər
+Qrafik 44. Depozitlərin həcmi, mlrd. manat
+Tələb olunanadək əmanət və depozitlər
+Mənbə: AMB
+M0
+Nağd pulun (M0) manatla geniş pul 37.2 36.7
+40 34.5
+kütləsində (M2) xüsusi çəkisi hesabat
+dövrünün sonuna 45.2% təşkil etmişdir.
+30 14.7 15.1
+Dövrün sonuna xarici valyutada 13.2
+əmanət və depozitlərin həcmi 11.2 mlrd.
+20
+manat ekvivalentində olmuşdur. Onun cəmi
+əmanət və depozitlərdə xüsusi çəkisi hesabat
+10 21.4 22.5 21.6
+dövrünün sonuna 36.4% təşkil etmişdir. Xarici
+valyutada əmanət və depozitlərin M3 pul
+0
+aqreqatında xüsusi çəkisi rüb ərzində 23.9%
+Mart 2024 Dekabr 2024 Mart 2025
+təşkil etmişdir.
+Hüquqi şəxslər üzrə Fiziki şəxslər üzrə
+Pul siyasəti icmalı - May 2025 39
+3.2 Pul təklifi, depozit və kredit bazarı
+Dövr ərzində fiziki şəxslərin cəmi ev təsərrüfatlarının əmanətlərinin
+əmanətləri 2.8% artmaqla 15.1 mlrd. manata dollarlaşması isə 1.4 faiz bəndi azalmışdır.
+çatmışdır. Fiziki şəxslərin əmanətlərinin Martın sonuna hüquqi şəxslərin
+başlıca seqmenti müddətli əmanətlər depozitlərində xarici valyutanın payı 46.2%
+olmuşdur. Hesabat dövrünün sonuna təşkil etmişdir.
+müddətli əmanətlərdə ən böyük payı (52%)
+Qrafik 46. Depozitlərin dollarlaşması, %-lə
+müddəti 1 ildən 5 ilə qədər olan əmanətlər
+Mənbə: AMB
+təşkil etmişdir. Ötən ilin müvafiq dövrü ilə
+36%
+müqayisədə fiziki şəxslərin cəmi əmanətləri
+14.6% artmışdır. 35%
+34%
+Qrafik 45. 2025-ci ilin I rübündə fiziki şəxslərin 33.1%
+müddətli depozitlərinin strukturu, %-lə 33%
+Mənbə: AMB
+32%
+3% 31%
+30.1%
+30%
+29%
+28%
+45%
+Yanvar Aprel İyul Oktyabr Yanvar
+2024 2025
+Fiziki şəxslər üzrə Rezident fiziki şəxslər üzrə
+52%
+Dövr ərzində manatla və xarici valyuta
+ilə yeni cəlb olunmuş depozitlər üzrə orta çəkili
+faizlərin dinamikası qrafik 47-də öz əksini
+tapmışdır.
+1 ilə qədər 1 ildən 5 ilə qədər 5 ildən artıq Qrafik 47. Yeni cəlb olunmuş depozitlər üzrə
+orta çəkili faizlər
+Hesabat dövrünün sonuna manatla Mənbə: AMB
+9%
+depozitlər 21.7 mlrd. manat, xarici valyutada
+8% 7.6%
+depozitlər isə 15 mlrd. manat təşkil etmişdir.
+7%
+2025-ci ilin I rübündə fiziki şəxslərin 6%
+5%
+əmanətlərinin dollarlaşma səviyyəsi 0.6 faiz
+4% 3.0%
+bəndi azalaraq dövrün sonuna 33.1% təşkil
+3%
+etmişdir. Qeyri-rezident fiziki şəxslərin 2%
+1%
+əmanətləri çıxılmaqla ev təsərrüfatlarının
+0%
+ə
+So
+m
+n
+a nə
+1
+t lə
+i
+r
+ld
+in
+ə
+i n
+f
+d
+iz
+o
+ik
+ll
+i
+a rl
+ş
+a
+ə
+ş
+x
+m
+s
+a
+lə
+s
+r
+ı
+i n
+3 0.1
+ə
+%
+m a
+o
+n
+lm
+ət
+u
+lə
+ş
+r
+d
+in
+u
+i
+r
+n
+. r
+b a k e D
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+le
+r p A
+y
+a M
+n
+u y İ
+lu
+y İ
+ts
+u q v A
+r
+b a y tn e
+r
+b a y tk O
+r
+b a y o N
+r
+b a k e D
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+dollarlaşma səviyyəsi 2 faiz bəndi, qeyri- S
+rezident fiziki şəxslərin əmanətləri çıxılmaqla 2024 2025
+Milli valyutada Xarici valyutada
+Pul siyasəti icmalı - May 2025 40
+3.2 Pul təklifi, depozit və kredit bazarı
+Mart ayında manatla yeni cəlb edilmiş Qrafik 48. İqtisadiyyata kredit qoyuluşunda
+depozitlər üzrə faizlər ötən ilin müvafiq dövrü dollarlaşma, %-lə
+Mənbə: AMB
+ilə müqayisədə 0.1 faiz bəndi azalmış, xarici
+valyutada cəlb edilmiş depozitlər üzrə faizlər 20
+isə 0.2 faiz bəndi artmışdır.
+19
+3.2.3 Kredit bazarı 18
+2025-ci ilin I rübündə iqtisadiyyata
+17
+kredit qoyuluşlarında artım davam etmişdir.
+Hesabat dövründə kredit portfeli (bank 16
+14.8
+və qeyri-bank) 1.3% artaraq 29.7 mlrd. manata
+15
+çatmışdır. Dövr ərzində kreditlərin tərkibində
+uzunmüddətli kreditlərin payı üstünlüyünü 14
+q 20 o 2 ru 5- m ci u ş I və r ü d b ö ü v n rü ü n n so s n o u n n u a n a 8 3.5 u % zu n o m lm ü u d ş d d ə u t r l . i
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+le
+r p A
+y
+a M
+n
+u y İ
+lu
+y İ
+ts
+u q v A
+r
+b a y tn e
+r
+b a y tk O
+r
+b a y o N
+r
+b a k e D
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+S
+kreditlərin həcmi 24.8 mlrd. manat olmuşdur.
+2024 2025
+Qısamüddətli kreditlərin həcmi 4.9 mlrd.
+manat təşkil etmişdir. Ötən ilin müvafiq dövrü Mart ayında manatla yeni verilmiş
+ilə müqayisədə kredit portfeli 16.7% artmışdır. kreditlər üzrə orta çəkili faizlər 17.9%, xarici
+2025-ci ilin I rübündə vaxtı keçmiş valyuta ilə yeni verilmiş kreditlər üzrə orta
+kreditlər nəzərə alınmadan iqtisadiyyata kredit çəkili faizlər isə 7.9% təşkil etmişdir.
+qoyuluşları üzrə ən yüksək artım sənaye və
+istehsal (2.5%), nəqliyyat və rabitə (1.9%) Qrafik 49. Yeni verilmiş kreditlər (bank sektoru)
+sahələri üzrə olmuşdur. üzrə orta faizlər
+Hesabat dövründə bankların biznes Mənbə: AMB
+kreditləri ötən ilin sonuna nəzərən 1% artaraq 20%
+17.9%
+14.9 mlrd. manat olmuşdur. Son 1 ildə biznes 18%
+16%
+kreditlərinin həcmi 13.1% artmışdır.
+14%
+2025-ci ilin I rübündə kreditlərin
+12%
+dollarlaşma səviyyəsində azalma meyli davam
+10%
+etmişdir. Hesabat dövrü ərzində manatla 7.9%
+8%
+kreditlər 2.1% artmış, xarici valyutada isə 2.7% 6%
+azalmışdır. Xarici valyutada olan kreditlərin 4%
+cəmi kreditlərdə payı 0.6 faiz bəndi azalaraq 2%
+0%
+rübün sonuna 14.8% təşkil etmişdir. Son 1 ildə
+k a r ş e a d ğ i ı t l d ə ü ri ş n m d ü o ş l d la ü r r la . ş Ö m tə a n s ə il v in iy m yə ü s v i a 3 f .7 iq f a d i ö z v b r ə ü n i d lə i
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+le
+r p A
+y
+a M
+n
+u y İ
+lu
+y İ
+ts
+u q v A
+r
+b a y tn e
+r
+b a y tk O
+r
+b a y o N
+r
+b a k e D
+r
+a v n a Y
+la
+r v e F
+tr
+a M
+S
+müqayisədə manatla kreditlər 22% artmış, 2024 2025
+xarici valyutada isə 6.9% azalmışdır.
+Milli valyutada verilmiş kreditlər üzrə
+Xarici valyutada verilmiş kreditlər üzrə
+Pul siyasəti icmalı - May 2025 41
+3.2 Pul təklifi, depozit və kredit bazarı
+4
+İQTİSADİ
+PERSPEKTİVLƏR
+Pul siyasəti icmalı – May 2025 42
+4.1 Qlobal iqtisadiyyata dair proqnozlar və risklər
+4.1 QLOBAL İQTİSADİYYATA DAİR PROQNOZLAR VƏ RİSKLƏR
+2025-ci ilin I rübündə geosiyasi qeyri-müəyyənliklərin artması və beynəlxalq ticarətdə gərginliyin
+davam etməsi qlobal artımın proqnozlaşdırılmasında çətinliklər yaratmışdır. 2025-26-cı illərdə iqtisadi
+artımın davam edəcəyi, lakin ötən illə müqayisədə daha aşağı templi olacağı proqnozlaşdırılır. Bununla
+bərabər, qlobal inflyasiyanın növbəti illərdə də azalacağı, lakin onun azalma tempinin yavaşlayacağı
+proqnoz edilir.
+4.1.1 Qlobal iqtisadi artım və inflyasiya 2026-cı ildə isə bir qədər yüksələrək 1.2%
+olacağı proqnoz edilir. 2025-ci ildə artımın
+proqnozları
+səngiməsinin əsas səbəbləri artan qeyri-
+BVF-nin aprel ayında dərc etdiyi “Qlobal
+müəyyənlik və ticarət tarifləridir. Artan real
+İqtisadi İcmal” hesabatına əsasən qlobal
+əməkhaqqı fonunda istehlakın daha da
+iqtisadi artım tempinin 2025-ci ildə 2.8% və
+yüksəlməsi və Almaniyada fiskal qaydaya
+2026-cı ildə isə 3% səviyyəsində olacağı
+dəyişiklikdən sonra maliyyə siyasətində
+proqnozlaşdırılır. Bu da 2000-2019-cu illər üzrə
+müşahidə edilən yumşalma 2026-cı ildə
+tarixi orta göstərici olan 3.7%-dən aşağıdır.
+iqtisadi fəaliyyətdəki mülayim artımı
+Proqnozlar 2025 və 2026-cı illər üzrə ötən
+dəstəkləyən əsas amillərdir.
+proqnozla müqayisədə müvafiq olaraq 0.5% və
+Yaponiyada iqtisadi artımın 2025-ci ildə
+0.3% bəndi azaldılmışdır.
+0.6% olacağı gözlənilir ki, bu da yanvar
+Hesabata əsasən hazırda qlobal
+proqnozu ilə müqayisədə 0.5% bəndi azdır.
+miqyasda artan qeyri-müəyyənliklər əksər İEÖ
+Apreldə açıqlanan tarif siyasətinin qeyri-
+üzrə artım proqnozlarının aşağı salınmasına
+müəyyən təsirləri istehlakda gözlənilən artımı
+səbəb olmuşdur. Ümumilikdə, İEÖ qrupu üzrə
+neytrallaşdırır.
+iqtisadi artım proqnozları 2025-ci il üzrə 0.5 faiz
+Birləşmiş Krallıqda iqtisadi artımın cari
+bəndi azaldılaraq 1.4%, 2026-cı il üzrə isə 0.3
+ildə 1.1% olacağı gözlənilir ki, bu da yanvar
+faiz bəndi azaldılaraq 1.5% səviyyəsində
+proqnozu ilə müqayisədə 0.5% bəndi aşağıdır.
+müəyyən olunmuşdur. Nəticə etibarilə, İEÖ
+Proqnoza dəyişikliyin əsas səbəbləri son tarif
+qrupunda iqtisadi artımın cari və növbəti
+dəyişiklikləri, dövlət qiymətli kağızlarının
+illərdə 2024-cü illə müqayisədə daha aşağı
+gəlirliliyinin yüksəlməsi, həmçinin enerji və
+olacağı proqnoz edilir.
+tənzimlənən qiymətlərin təsiri ilə artan
+ABŞ-də iqtisadi artımın 2025-ci ildə
+inflyasiya şəraitində istehlakın zəifləməsidir.
+1.8% olacağı proqnoz edilir ki, bu da ötən illə
+müqayisədə 1 faiz bəndi, ötən proqnozla
+müqayisədə isə 0.9 faiz bəndi aşağıdır.
+Proqnozun aşağı salınmasının əsas səbəbləri
+siyasət qeyri-müəyyənliyi, ticarət gərginliyinin
+artması və istehlak tələbinin gözləniləndən
+daha yavaş artımıdır. Ticarət tariflərinin 2026-
+cı ildəki iqtisadi artıma da təsir edəcəyi
+gözlənilir.
+Avrozona iqtisadiyyatının ötən illə
+müqayisədə cüzi azalaraq 2025-ci ildə 0.8%,
+Pul siyasəti icmalı – May 2025 43
+4.1 Qlobal iqtisadiyyata dair proqnozlar və risklər
+Qrafik 50. Qlobal iqtisadi artım proqnozları iqtisadi artıma təsir göstərən əsas amil son
+Mənbə: BVF-nin Qlobal İqtisadi İcmal hesabatı dövrlərdə pul siyasətində edilən
+8% dəyişikliklərdir.
+BVF-nin aprel hesabatında qlobal
+inflyasiya proqnozu yanvar hesabatı ilə
+6%
+müqayisədə 2025 və 2026-cı illər üzrə 0.1 faiz
+3.7% 3.9% bəndi artırılaraq müvafiq olaraq 4.3% və 3.6%
+4%
+səviyyəsində müəyyənləşdirilmişdir.
+2.8% 3.0%
+2% Qrafik 51. Bəzi ölkələr üzrə artım proqnozları
+Mənbə: BVF-nin Qlobal İqtisadi İcmal hesabatı
+1.5%
+1.4%
+0%
+12%
+2021 2022 2023 2024 2025 P 2026 P
+Qlobal İEÖ 10%
+İEOÖ 2000-19 (orta artım)
+8%
+İEOÖ üzrə iqtisadi artım proqnozlarının
+6%
+2024-cü ildəki 4.3%-lik artımla müqayisədə
+azalaraq 2025-ci ildə 3.7% , 2026-cı ildə isə 3.9% 4%
+olacağı gözlənilir. Yanvar hesabatı ilə
+2%
+müqayisədə apreldə proqnozlar müvafiq
+olaraq 0.5% və 0.4% bəndi aşağı salınmışdır. 0%
+Çin iqtisadiyyatı apreldə tətbiq olunan
+-2%
+tariflərdən ən çox təsirlənən ölkələrdəndir.
+2021 2022 2023 2024 2025 P 2026 P
+Çinin artım proqnozu 2025-26-cı illər üzrə 4%
+Avrozona Çin ABŞ
+səviyyəsində müəyyən olunmuşdur.
+Proqnozlar müvafiq olaraq 0.6 və 0.5 faiz bəndi
+Rusiya Türkiyə
+aşağı salınmışdır. 2024-cü ildəki iqtisadi Son vaxtlar tətbiq edilən ticarət
+aktivliyin təsirinin davam etməsi və büdcədəki tariflərinin ölkələr üzrə inflyasiya proseslərinə
+fiskal genişlənmə tətbiq edilmiş son tariflərin təsir istiqamətləri bir çox faktorlardan asılıdır.
+təsirini qismən kompensasiya edir. Tariflərin müvəqqəti və ya daimi olması,
+Rusiyada iqtisadi artımın hələ də zəif şirkətlərin artan idxal xərclərini kompensasiya
+olaraq qalacağı gözlənilir. 2025-ci il üzrə artım etmək üçün marjaları nə dərəcədə
+proqnozu 0.1 faiz bəndi yuxarıya doğru tənzimləyəcəyi, həmçinin idxal edilən mallar
+artırılaraq 1.5%, 2026-cı il üzrə isə 0.3% bəndi üzrə hesablaşmaların ABŞ dolları və ya yerli
+aşağı salınaraq 0.9% səviyyəsində müəyyən valyutalarda aparılması kimi amillərin təsiri
+edilmişdir. Proqnozların aşağı olmasının əsas əhəmiyyətlidir. Həmçinin bu vəziyyət tarif
+səbəbləri istehlak və investisiyaların əmək tətbiq edən ölkələr üçün təklif şoku
+bazarındakı şəraitlə əlaqədar yavaşlamasıdır. yaratmaqla istehsalın azalması və məhsulların
+Türkiyənin 2025-ci il üzrə artım maya dəyərinin artmasına səbəb ola bilər.
+proqnozu 0.1 faiz bəndi artırılaraq 2.7%, 2026- Tarif tətbiq edilən ölkələr üçün isə ixrac tələbi
+cı il üzrə isə sabit saxlanılaraq 3.2% azaldıqca mənfi tələb şoku qiymətlərə aşağı
+səviyyəsində müəyyən edilmişdir. Növbəti ildə istiqamətli təzyiq göstərə bilər.
+Pul siyasəti icmalı – May 2025 44
+4.1 Qlobal iqtisadiyyata dair proqnozlar və risklər
+Ümumilikdə, 2025-ci ildə İEÖ-də Mövcud şərait isə kapital çıxışlarının artması
+inflyasiya proqnozu 0.4% bəndi yuxarı, İEOÖ- və xüsusilə inkişaf etməkdə olan bazarlarda
+də isə 0.1% bəndi aşağı salınaraq müvafiq daha sərt maliyyə şərtlərinin yaranması ilə
+olaraq 2.5% və 5.5% səviyyəsində müəyyən nəticələnə bilər.
+olunmuşdur. Uzunmüddətli faiz dərəcələrinin daha
+da artması kapitalın daha təhlükəsiz ölkələr və
+Qrafik 52. Qlobal inflyasiya proqnozları
+aktivlərdə toplanmasına gətirib çıxarır ki, bu
+Mənbə: BVF-nin Qlobal İqtisadi İcmal hesabatı
+da kapitalın qeyri-effektiv bölüşdürülməsini və
+12%
+disbalansı gücləndirə bilər. Qlobal qeyri-
+müəyyənliyin davam etməsi ABŞ istiqrazlarının
+10%
+gəlirliliyinə əlavə təzyiq yaradaraq kapital və
+8% birbaşa xarici investisiyaların inkişaf etməkdə
+olan iqtisadiyyatlardan qaçışına səbəb ola
+5.5%
+6% bilər.
+4.6%
+4.3%
+3.6%
+4%
+2.5% 2.2%
+2%
+0%
+2021 2022 2023 2024 2025 P 2026 P
+İEÖ İEOÖ Qlobal
+4.1.2 Qlobal risklər
+BVF-nin aprel hesabatında bildirilir ki,
+yanvar hesabatında qeyd edilmiş bəzi risklər
+artıq reallaşmış və bir sıra əlavə risklərin
+gerçəkləşmə ehtimalı yüksəlmişdir.
+Ümumilikdə, həm qısa, həm də ortamüddətli
+perspektivdə proqnozları aşağıya doğru çəkə
+biləcək risklərin artmaqda olduğu görünür.
+Ticarət siyasəti ilə bağlı qeyri-
+müəyyənliklərin artması yaxın və
+uzunmüddətli dövrdə iqtisadi artımı daha da
+azalda və gələcək şoklara qarşı dayanıqlığı
+zəiflədə bilər. Ticarət müharibəsinin təsiri
+nəticəsində idxal qiymətlərinin artması
+inflyasiya təzyiqlərini gücləndirə bilər.
+Qeyd olunan ticarət məhdudiyyətləri
+nəticəsində inflyasiyanın davam etməsi və
+sürətlənməsi mərkəzi bankların faiz
+dərəcələrini gözləniləndən daha yüksək
+səviyyədə saxlamasına şərait yarada bilər.
+Pul siyasəti icmalı – May 2025 45
+4.2 Azərbaycan üzrə makroiqtisadi perspektivlər
+4.2 AZƏRBAYCAN ÜZRƏ MAKROİQTİSADİ PERSPEKTİVLƏR
+2025-ci ilin aprel proqnozlarına əsasən ortamüddətli dövrdə illik inflyasiyanın hədəf diapazonu
+daxilində qalacağı gözlənilir. Eyni zamanda bu dövr üzrə iqtisadi artımın perspektivləri ilə bağlı gözləntilər
+nikbindir.
+4.2.1 İqtisadi artım proqnozu 2025 və 2026-cı illər üzrə iqtisadi artım
+İqtisadi artım perspektivlərinə dair proqnozunun reallaşması əhəmiyyətli
+gözləntilər ümumilikdə nikbin olaraq qalır. dərəcədə ev təsərrüfatlarının real istehlak
+Mərkəzi Bankın 2025-ci ilin aprel xərclərinin dinamikasından asılı olacaq. Digər
+proqnozlarına əsasən cari ildə real iqtisadi tərəfdən qlobal əmtəə və maliyyə
+artımın ümumi ÜDM üzrə 3.3%, qeyri-neft-qaz bazarlarındakı qeyri-müəyyənliklər də
+ÜDM-i üzrə 4.7% olacağı gözlənilir. 2026-cı ildə müxtəlif kanallarla iqtisadi artım
+real iqtisadi artımın ümumi və qeyri-neft-qaz proqnozlarının reallaşmasına təsir edə bilər.
+üzrə müvafiq olaraq 2.4% və 4.6% olacağı
+4.2.2 İnflyasiya proqnozu
+proqnozlaşdırılır. 2026-cı ildə ÜDM-in artım
+Aprel proqnozlarına əsasən 2025 və
+tempi, əsasən, neft-qaz sektorundan
+2026-cı illərdə illik inflyasiyanın hədəf
+təsirlənəcəkdir. Qeyd edək ki, neft-qaz sektoru
+diapazonu daxilində (4±2%) qalacağı
+üzrə proqnozlar hökumətin rəsmi
+proqnozlaşdırılır.
+proqnozlarına əsaslanır. Qeyri-neft-qaz
+AMB-nin aprel proqnozuna görə
+sektorunda iqtisadi artımın əsas hərəkətverici
+inflyasiya 2025-ci ildə 5.3% təşkil edəcək. 2025-
+amilləri kimi ev təsərrüfatlarının və dövlət
+ci ilin illik inflyasiya proqnozuna dövlət
+idarələrinin son istehlak xərcləri çıxış edəcək.
+istehlakı və ev təsərrüfatlarının istehlakı
+birlikdə 1.48 faiz bəndi, kənd təsərrüfatı
+Qrafik 53. ÜDM və qeyri-neft-qaz ÜDM-in real
+artım proqnozu, ö.i.m.d.n., %-lə istehsalçıları qiymətləri (KİQİ) 0.60 faiz bəndi,
+Mənbə: AMB-nin AzİM12 modeli ticarət tərəfdaşlarında inflyasiya 2.57 faiz
+8 bəndi və digər amillər 2.12 faiz bəndi artırıcı
+6.2
+təsir edəcəkdir. NEM-in -1.50 faiz bəndi azaldıcı
+6
+töhfəsi gözlənilir.
+4.7 4.6
+4.1
+4
+2.5 3.3
+2.4
+2
+0.3
+0
+I I-II I-III I-IV I I-II I-III I-IV I I-II I-III I-IV
+2024 2025 2026
+ÜDM Qeyri-neft-qaz ÜDM
+12
+Azərbaycan iqtisadiyyatının rüblük proqnozlaşdırma modeli (AzİM) nəzəri olaraq kiçik açıq iqtisadiyyata malik yeni Keynes modelidir. Bu model kəsir modeli
+də adlanır. Belə ki, model trend dəyişmələrini ölçür, kənarlaşmaları izah edir, eyni zamanda, pul siyasətinin transmissiya mexanizmini təsvir edir. Dəyişənlər
+qısa müddətli dövrdə şoklara aktiv şəkildə reaksiya verir və uzunmüddətli dövrdə öz sabit vəziyyətinə yaxınlaşır. AzİM 4 əsas tənlik üzərində qurulub: məcmu
+tələb, Filips əyrisi, pul siyasəti qaydası və faiz dərəcəsi pariteti. Modelin parametrləri kalibrasiya olunmuşdur və model impuls-cavab təhlili, dekompozisiya
+analizi və nümunə daxili simulyasiyalar kimi standart ekonometrik testlərdən keçmişdir.
+Pul siyasəti icmalı – May 2025 46
+4.2 Azərbaycan üzrə makroiqtisadi perspektivlər
+Qrafik 54. İllik inflyasiya proqnozu, %-lə Azərbaycanın nominal effektiv məzənnəsinin
+Mənbə: AMB-nin AzİM modeli inflyasiyaya azaldıcı təsiri zəifləyə bilər.
+10
+4.2.3 İnflyasiya gözləntiləri
+8
+2025-ci ilin I rübü üçün inflyasiya
+gözləntiləri sektorlar üzrə fərqli istiqamətlərdə
+6 5.3
+dəyişmişdir. Həyata keçirilən real sektorun
+4 4.9 4.3 monitorinqinin nəticələrinə əsasən cari ilin
+növbəti 3 aylıq dövründə sahələr üzrə ən
+2
+yüksək qiymət artımı gözləntisi xidmət və
+0 0.4 tikinti sektorunda qeydə alınmışdır. Digər
+sektorlardan ticarət üzrə gözləntilər mütləq
+-2 ifadədə artsa da, mənfi zonada qalmağa
+I II III IV I II III IV I II III IV
+davam etmişdir. Qeyri-neft sənaye sektorunda
+2024 2025 2026 fevral ayına nəzərən dəyişkənlik müşahidə
+edilmiş və gözləntilərdə azalma müşahidə
+70% 50% 30%
+olunmuşdur.
+Aprel proqnozuna əsasən 2026-cı ilə Qrafik 55. Real sektorun monitorinqi sahələri
+inflyasiyanın 4.3% təşkil edəcəyi gözlənilir. üzrə gələcək 3 aya qiymət gözləntiləri13
+Mənbə: Müəssisələr arasında aparılmış sorğular
+2026-cı ilə proqnozlaşdırılan illik inflyasiyaya
+dövlət istehlakı və ev təsərrüfatlarının istehlakı
+50
+birlikdə 1.98 faiz bəndi, KİQİ 2.70 faiz bəndi,
+ticarət tərəfdaşlarında inflyasiya 1.74 və digər
+30
+amillər 0.31 faiz bəndi artırıcı, NEM isə 2.45 faiz
+bəndi azaldıcı təsir edəcəkdir. Proqnozların 10
+reallaşması bir sıra xarici və daxili amillərin
+-10
+dəyişimindən asılı olacaqdır. Önəmli
+risklərdən biri KİQİ-də baş verə biləcək -30
+a in r f t l ı y m a l s a iy rd ay ır a k i b , i b rb u a d ş a a ə t r ə z s a i q r m gö ə s h t s ə u rə ll a b rı i l v ə a r. s i D tə ig si ə lə r
+r
+a v n a Y
+la
+r v e F
+t
+r a M
+le
+r p A
+y
+a M
+n
+u y İ
+lu
+y İ
+t
+s u q v A
+r
+b a y t n e
+r
+b a y t k O
+r
+b a y o N
+r
+b a k e D
+r
+a v n a Y
+la
+r v e F
+t
+r a M
+tərəfdən, əsas ticarət tərəfdaşlarında S
+inflyasiya da risk mənbəyidir. Xüsusilə, qlobal 2024 2025
+iqtisadiyyatda qeyri-müəyyənliyin artması, Qeyri-neft istehsal Ticarət
+tarif müharibələrinin davam etməsi şəraitində Xidmət Tikinti
+qlobal inflyasiya proseslərinin sürətlənməsi
+Sənaye sektorunda qiymət indeksi
+idxal inflyasiyası vasitəsilə ölkədəki
+mart ayında 5.36 (ötən ilin müvafiq dövrü -1.6),
+inflyasiyaya artırıcı təsir göstərə bilər. Bundan
+ticarətdə -0.01 (ötən ilin müvafiq dövrü 4.23),
+əlavə, əsas ticarət tərəfdaşlarının
+tikintidə 17.7 (ötən ilin müvafiq dövrü 4.86),
+məzənnələrindəki dəyişikliyə uyğun olaraq
+xidmət sektorunda isə 16.45 (ötən ilin müvafiq
+dövrü 16.67) olmuşdur.
+13
+Qrafikdəki indeks faiz ifadəsində müsbət cavablarla mənfi cavabların çəkisinin fərqi kimi hesablanır. Bu indeks [-100,+100] arasında dəyişməklə növbəti 3
+ay üçün qiymət gözləntilərinin meylini ifadə edir.
+Pul siyasəti icmalı – May 2025 47
+QRAFİK VƏ CƏDVƏLLƏR
+Qrafik 1. Qlobal qeyri-müəyyənlik indeksləri ....................................................................................... 8
+Qrafik 2. Satınalma Menecerləri İndeksi (istehsal və xidmət sferaları üzrə) ................................. 9
+Qrafik 3. İşsizlik səviyyəsi, %-lə ............................................................................................................... 9
+Qrafik 4. Bəzi ölkələrdə illik inflyasiya, %-lə .......................................................................................10
+Qrafik 5. Qlobal əmtəə qiyməti indekslərinin dinamikası (2021 dekabr=100) .............................11
+Qrafik 6. Kənd təsərrüfatı qiymət indeksi (2016=100) .......................................................................12
+Qrafik 7. Brent markalı neft və təbii qazın aylıq qiymət indeksi (yanvar 2023=100) ..................13
+Qrafik 8. Qlobal neft bazarında tələb və təklifin dinamikası, mln. barel (günlük) .....................13
+Qrafik 9. Aparıcı mərkəzi bankların əsas siyasət faizi.......................................................................14
+Qrafik 10. 83 mərkəzi bank üzrə əsas siyasət faizinin dəyişimi .......................................................15
+Qrafik 11. Fond birjalarında meyillər (31 dekabr 2024=100) .............................................................15
+Qrafik 12. Dollar indeksi və İEÖ-də 10 illik dövlət istiqrazları üzrə gəlirlilik ................................16
+Qrafik 13. Əsas xarici geosiyasi risklərə suveren risk premiumlarının
+(CDS spredləri) aylıq reaksiyası, baza bəndi ilə ..................................................................................16
+Qrafik 14. Qlobal maliyyə stresi indeksi ..............................................................................................17
+Qrafik 15. 2025-ci ilin I rübü üzrə xarici ticarət balansı, mlrd. ABŞ dollar .....................................19
+Qrafik 16. 2025-ci ilin I rübü ərzində xam neftin ixrac olunduğu ölkələr, %-lə ............................20
+Qrafik 17. Turizm məqsədi ilə ölkəyə səfər edən və xaricə gedənlərin sayı, mln. nəfərlə .........20
+Qrafik 18. 2023-2024-cü illərin sonu və 2025-ci ilin I rübü üzrə ölkənin strateji valyuta
+ehtiyatları, mlrd. ABŞ dolları ilə.............................................................................................................21
+Qrafik 19. İstehlak və onun komponentlərinin rüblər üzrə dinamikası, mlrd. manatla ............22
+Qrafik 20. İstehlak bazarında satılmış malların və göstərilmiş xidmətlərin
+ümumi dəyərinin dinamikası, mlrd. manatla .....................................................................................22
+Qrafik 21. Pərakəndə ticarət dövriyyəsinin real artımı, ö.i.m.d.n., %-lə .......................................23
+Qrafik 22. İctimai iaşə və ödənişli xidmətlərin real artımı, ö.i.m.d.n., %-lə ..................................23
+Qrafik 23. Əhalinin nominal gəlirlərinin və əməkhaqqının artım dinamikası, ö.i.m.d.n %-lə ..23
+Qrafik 24. İstehlak kreditlərinin dinamikası, mlrd. manatla ...........................................................24
+Qrafik 25. Dövlət büdcəsinin cari xərclərinin dinamikası, mlrd. manatla ...................................24
+Qrafik 26. Əsas kapitala yönəldilmiş investisiyaların maliyyə mənbələri
+üzrə strukturu,%-lə ..................................................................................................................................24
+Qrafik 27. İqtisadi artım, ö.i.m.d.n., %-lə .............................................................................................26
+Qrafik 28. Sahələr üzrə Biznes İnam İndeksinin dinamikası ...........................................................27
+Qrafik 29. İqtisadi fəal əhalinin sayı, min nəfərlə ..............................................................................28
+Qrafik 30. İllik inflyasiya, %-lə ................................................................................................................29
+Qrafik 31. İQİ komponentlərinin töhfəsi, %-lə ...................................................................................29
+Qrafik 32. Baza inflyasiyanın illik dəyişimi, %-lə ................................................................................30
+Qrafik 33. İstehsalçı qiymətləri indeksinin illik dəyişimi, %-lə ........................................................30
+Qrafik 34. Mənzil bazarında qiymət indeksi, ötən rübə nəzərən, %-lə ..........................................31
+Qrafik 35. Faiz dəhlizinin parametrləri, %-lə .......................................................................................33
+Qrafik 36. AMB-nin daimi imkan alətləri üzrə banklar tərəfindən yerləşdirilən (1 günlük
+depozit) və cəlb edilən (1 günlük əks-repo) məbləğ, mln. manatla ...............................................34
+Qrafik 37. AMB-nin dövriyyədə olan qısamüddətli notlarının həcmi və gəlirliliyi ......................34
+Qrafik 38. Uçot dərəcəsi və 1D AZIR indeksinin dinamikası .............................................................35
+Qrafik 39. Banklararası pul bazarında əməliyyatların həcmi, mlrd. manatla ..............................36
+Qrafik 40. Effektiv məzənnə indeksləri (ötən ilin sonuna nəzərən) ...............................................37
+Qrafik 41. Pul bazasının həcmi və ö.i.m.d.n. dəyişimi .......................................................................38
+Qrafik 42. Pul aqreqatlarının həcmi və dəyişimi, mlrd. manat .......................................................38
+Qrafik 43. Manatla geniş mənada pul kütləsinin tərkibi, mlrd. manat .........................................39
+Qrafik 44. Depozitlərin həcmi, mlrd. manat ........................................................................................39
+Qrafik 45. 2025-ci ilin I rübündə fiziki şəxslərin müddətli depozitlərinin strukturu, %-lə .........40
+Qrafik 46. Depozitlərin dollarlaşması, %-lə .........................................................................................40
+Qrafik 47. Yeni cəlb olunmuş depozitlər üzrə orta çəkili faizlər .....................................................40
+Qrafik 48. İqtisadiyyata kredit qoyuluşunda dollarlaşma, %-lə .....................................................41
+Qrafik 49. Yeni verilmiş kreditlər (bank sektoru) üzrə orta faizlər ................................................41
+Qrafik 50. Qlobal iqtisadi artım proqnozları .......................................................................................44
+Qrafik 51. Bəzi ölkələr üzrə artım proqnozları ....................................................................................44
+Qrafik 52. Qlobal inflyasiya proqnozları ..............................................................................................45
+Qrafik 53. ÜDM və qeyri-neft-qaz ÜDM-in real artım proqnozu, ö.i.m.d.n., %-lə .........................46
+Qrafik 54. İllik inflyasiya proqnozu, %-lə .............................................................................................47
+Qrafik 55. Real sektorun monitorinqi sahələri üzrə gələcək 3 aya qiymət gözləntiləri .............47
+Cədvəl 1. İqtisadiyyatın sektorları üzrə iqtisadi artımın dinamikası, ö.i.m.d.n., %-lə 27
+Azərbaycan Respublikasının Mərkəzi Bankı
+Tel.: (+99412) 493 11 22
+Təklif və geridönüşləriniz üçün: mail@cbar.az
+https://www.cbar.az
+Ünvan: AZ1014, Bakı, R. Behbudov küçəsi, 90
