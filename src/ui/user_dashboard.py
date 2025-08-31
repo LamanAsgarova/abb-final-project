@@ -124,6 +124,8 @@ def chatbot_page(user_role, lang):
     if st.session_state.messages: auto_scroll()
 
 
+# user_dashboard.py
+
 def library_page(user_role, lang):
     st.subheader(get_text(lang, "library_header"))
     all_user_documents = get_accessible_documents(user_role)
@@ -154,7 +156,11 @@ def library_page(user_role, lang):
                 st.markdown(f"**📄 {doc.get('title', doc.get('file_name'))}**")
                 st.caption(f"Team: {doc.get('team', 'N/A')} | Category: {doc.get('auto_category', 'N/A')}")
             
-            filepath = doc.get('file_path')
+            # --- ƏSAS DƏYİŞİKLİK BURADADIR ---
+            # Metadatadan gələn yolu hər ehtimala qarşı təmizləyirik
+            filepath = doc.get('file_path', '').replace('\\', '/')
+            # --- DƏYİŞİKLİK BİTDİ ---
+            
             if os.path.exists(filepath):
                 with col2:
                     with open(filepath, "rb") as file:
@@ -176,7 +182,6 @@ def library_page(user_role, lang):
                     st.error(info_content)
                 else:
                     st.info(info_content)
-
 
 
 def analysis_page(lang):
