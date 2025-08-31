@@ -1,53 +1,56 @@
+# Core Streamlit and data packages
 streamlit==1.48.0
-pandas==2.2.6
+pandas==2.2.3
 numpy==1.26.4
-plotly==6.2.0
+plotly==5.22.0
 pillow==10.4.0
 requests==2.32.4
-beautifulsoup4==4.13.4
-python-dotenv==1.1.1
-streamlit-authenticator==0.4.2
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+streamlit-authenticator==0.3.3
 
-# AI/ML packages
-openai==1.51.2
-google-generativeai>=0.7.0,<0.9.0
+# AI/ML packages - conservative versions
+openai==1.51.0
+transformers==4.44.0
+tiktoken==0.7.0
+huggingface-hub==0.25.0
+
+# Google packages - let pip resolve
+google-generativeai>=0.7.0,<0.8.0
+google-api-core
+google-api-python-client
+google-auth
+
+# Langchain - compatible versions
 langchain==0.2.16
 langchain-community==0.2.16
 langchain-core==0.2.38
 langchain-openai==0.1.25
 langchain-text-splitters==0.2.4
-transformers==4.44.2
-tiktoken==0.7.0
-huggingface-hub==0.25.1
 
-# PDF processing
+# PDF and document processing
 pdfplumber==0.11.4
 pdfminer.six==20231228
 python-docx==1.1.2
 python-pptx==1.0.0
 
-# OCR
-paddleocr==3.1.0
+# OCR packages
 pytesseract==0.3.13
 opencv-contrib-python==4.10.0.84
 
 # Data visualization
-matplotlib==3.9.2
+matplotlib==3.8.4
 altair==5.4.1
 contourpy==1.2.1
 
 # Other utilities
-extra-streamlit-components==0.1.81
-bcrypt==4.3.0
-captcha==0.7.1
-colorlog==6.9.0
-pydantic==2.11.7
+extra-streamlit-components==0.1.71
+bcrypt==4.2.0
+colorlog==6.8.2
+pydantic==2.9.2
 PyYAML==6.0.2
 openpyxl==3.1.5
-xlsxwriter==3.2.5
+xlsxwriter==3.2.0
 
-# Let pip resolve these automatically
-google-api-core
-google-api-python-client
-google-auth
+# Let pip resolve these
 protobuf
